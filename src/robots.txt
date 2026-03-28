@@ -1,6 +1,10 @@
 # Allow all search engines to crawl
 User-agent: *
 Allow: /
+Disallow: /static/images/posts/*/inline-
 
 # Sitemap location
 Sitemap: https://mystery-history-web.vercel.app/sitemap.xml
+
+# Crawl-rate hint for polite crawlers
+Crawl-delay: 1
