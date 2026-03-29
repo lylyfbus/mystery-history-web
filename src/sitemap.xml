@@ -240,4 +240,41 @@
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
+
+  <url>
+    <loc>https://mystery-history-web.vercel.app/posts/derinkuyu-underground-city.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mystery-history-web.vercel.app/posts/sacsayhuaman.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mystery-history-web.vercel.app/posts/philadelphia-experiment.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mystery-history-web.vercel.app/posts/ghost-army-wwii.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mystery-history-web.vercel.app/posts/bermuda-triangle.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mystery-history-web.vercel.app/posts/wow-signal.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
