@@ -31,5 +31,5 @@ jobs:
         run: scripts/submit-indexnow.sh
         env:
           INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
-          INDEXNOW_SITEMAP_URL: https://mystery-history-web.vercel.app/sitemap.xml
-          INDEXNOW_HOST: mystery-history-web.vercel.app
+          INDEXNOW_SITEMAP_URL: https://pastmysteries.com/sitemap.xml
+          INDEXNOW_HOST: pastmysteries.com

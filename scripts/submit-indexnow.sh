@@ -19,7 +19,7 @@ EOF
 }
 
 KEY="${INDEXNOW_KEY:-}"
-SITEMAP_URL="${INDEXNOW_SITEMAP_URL:-https://mystery-history-web.vercel.app/sitemap.xml}"
+SITEMAP_URL="${INDEXNOW_SITEMAP_URL:-https://pastmysteries.com/sitemap.xml}"
 HOST="${INDEXNOW_HOST:-}"
 KEY_LOCATION="${INDEXNOW_KEY_LOCATION:-}"
 ENDPOINT="${INDEXNOW_ENDPOINT:-https://api.indexnow.org/indexnow}"
