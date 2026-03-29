@@ -4,7 +4,7 @@ Allow: /
 Disallow: /static/images/posts/*/inline-
 
 # Sitemap location
-Sitemap: https://mystery-history-web.vercel.app/sitemap.xml
+Sitemap: https://pastmysteries.com/sitemap.xml
 
 # Crawl-rate hint for polite crawlers
 Crawl-delay: 1
