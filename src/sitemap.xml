@@ -242,37 +242,37 @@
   </url>
 
   <url>
-    <loc>https://pastmysteries.com/posts/derinkuyu-underground-city.html</loc>
+    <loc>https://pastmysteries.com/posts/derinkuyu-underground-city</loc>
     <lastmod>2026-03-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pastmysteries.com/posts/sacsayhuaman.html</loc>
+    <loc>https://pastmysteries.com/posts/sacsayhuaman</loc>
     <lastmod>2026-03-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pastmysteries.com/posts/philadelphia-experiment.html</loc>
+    <loc>https://pastmysteries.com/posts/philadelphia-experiment</loc>
     <lastmod>2026-03-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pastmysteries.com/posts/ghost-army-wwii.html</loc>
+    <loc>https://pastmysteries.com/posts/ghost-army-wwii</loc>
     <lastmod>2026-03-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pastmysteries.com/posts/bermuda-triangle.html</loc>
+    <loc>https://pastmysteries.com/posts/bermuda-triangle</loc>
     <lastmod>2026-03-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pastmysteries.com/posts/wow-signal.html</loc>
+    <loc>https://pastmysteries.com/posts/wow-signal</loc>
     <lastmod>2026-03-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -283,4 +283,11 @@
 <url><loc>https://pastmysteries.com/posts/amelia-earhart</loc><lastmod>2026-03-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 <url><loc>https://pastmysteries.com/posts/dyatlov-pass</loc><lastmod>2026-03-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 <url><loc>https://pastmysteries.com/posts/marfa-lights</loc><lastmod>2026-03-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <url>
+    <loc>https://pastmysteries.com/archive</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
