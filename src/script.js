@@ -13,7 +13,7 @@
 
         if (!track) return;
 
-        var scrollAmount = 280; // card width + gap
+        var scrollAmount = 340; // card width + gap
 
         function updateButtons() {
             if (!btnLeft || !btnRight) return;

@@ -387,7 +387,7 @@ a:hover {
 
 /* Carousel Card */
 .carousel-card {
-    flex: 0 0 260px;
+    flex: 0 0 320px;
     text-decoration: none;
     border-radius: 12px;
     overflow: hidden;
@@ -457,7 +457,7 @@ a:hover {
     }
 
     .carousel-card {
-        flex: 0 0 220px;
+        flex: 0 0 280px;
     }
 
     .card-image-wrapper {
@@ -476,7 +476,7 @@ a:hover {
 
 @media (max-width: 480px) {
     .carousel-card {
-        flex: 0 0 200px;
+        flex: 0 0 240px;
     }
 
     .card-image-wrapper {
