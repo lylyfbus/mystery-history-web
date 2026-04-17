@@ -421,6 +421,7 @@ a:hover {
 
 .card-content {
     padding: 14px 16px 16px;
+    min-height: 90px;
 }
 
 .card-title {
@@ -429,6 +430,10 @@ a:hover {
     color: #1f2937;
     margin: 0;
     line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
 }
 
 .card-desc {
@@ -496,71 +501,107 @@ a:hover {
     color: #1d4ed8;
 }
 
-.archive-grid {
+'.archive-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 16px;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
     margin-bottom: 12px;
 }
 
 .archive-card {
     text-decoration: none;
-    border-radius: 10px;
+    border-radius: 12px;
     overflow: hidden;
     border: 1px solid #e5e7eb;
-    transition: transform 0.18s ease, box-shadow 0.18s ease;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
     background: #fff;
 }
 
 .archive-card:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    transform: translateY(-4px) scale(1.02);
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.12);
+}
+
+.archive-card .card-image-wrapper {
+    width: 100%;
+    height: 180px;
+    overflow: hidden;
+    background: #f3f4f6;
+}
+
+.archive-card .card-image-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.3s ease;
+}
+
+.archive-card:hover .card-image-wrapper img {
+    transform: scale(1.05);
 }
 
 .archive-card img {
     width: 100%;
-    height: 130px;
+    height: 180px;
     object-fit: cover;
     display: block;
 }
 
-.archive-card-content {
-    padding: 10px 12px 12px;
-}
-
-.archive-card-content h4 {
-    font-size: 0.88rem;
-    color: #1f2937;
-    line-height: 1.4;
-    margin: 0;
-}
-
-/* New standardized card format for archive */
 .archive-card .card-content {
     padding: 14px 16px 16px;
-    min-height: 80px;
+    min-height: 90px;
 }
 
 .archive-card .card-title {
-    font-size: 0.92rem;
+    font-size: 0.95rem;
     font-weight: 700;
     color: #1f2937;
     margin: 0;
     line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.archive-card-content {
+    padding: 14px 16px 16px;
+}
+
+.archive-card-content h4 {
+    font-size: 0.95rem;
+    color: #1f2937;
+    line-height: 1.4;
+    margin: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
 }
 
 .archive-card-content p {
-    font-size: 0.78rem;
-    color: #9ca3af;
-    margin: 0;
+    display: none;
+}
+
+@media (max-width: 768px) {
+    .archive-grid {
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 16px;
+    }
+    .archive-card .card-image-wrapper,
+    .archive-card img {
+        height: 150px;
+    }
 }
 
 @media (max-width: 480px) {
     .archive-grid {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
         gap: 10px;
     }
+    .archive-card .card-image-wrapper,
     .archive-card img {
-        height: 100px;
+        height: 120px;
     }
 }
