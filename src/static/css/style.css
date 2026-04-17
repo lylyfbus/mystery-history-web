@@ -387,7 +387,7 @@ a:hover {
 
 /* Carousel Card */
 .carousel-card {
-    flex: 0 0 320px;
+    flex: 0 0 360px;
     text-decoration: none;
     border-radius: 12px;
     overflow: hidden;
@@ -427,12 +427,8 @@ a:hover {
     font-size: 0.95rem;
     font-weight: 700;
     color: #1f2937;
-    margin: 0 0 6px;
-    line-height: 1.35;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
+    margin: 0;
+    line-height: 1.4;
 }
 
 .card-desc {
@@ -440,10 +436,6 @@ a:hover {
     color: #6b7280;
     margin: 0;
     line-height: 1.4;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
 }
 
 /* Responsive Carousel */
@@ -506,7 +498,7 @@ a:hover {
 
 .archive-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
     gap: 16px;
     margin-bottom: 12px;
 }
@@ -539,12 +531,22 @@ a:hover {
 .archive-card-content h4 {
     font-size: 0.88rem;
     color: #1f2937;
-    line-height: 1.35;
-    margin: 0 0 4px;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
+    line-height: 1.4;
+    margin: 0;
+}
+
+/* New standardized card format for archive */
+.archive-card .card-content {
+    padding: 14px 16px 16px;
+    min-height: 80px;
+}
+
+.archive-card .card-title {
+    font-size: 0.92rem;
+    font-weight: 700;
+    color: #1f2937;
+    margin: 0;
+    line-height: 1.4;
 }
 
 .archive-card-content p {
