@@ -421,7 +421,7 @@ a:hover {
 
 .card-content {
     padding: 14px 16px 16px;
-    min-height: 90px;
+    min-height: 105px;
 }
 
 .card-title {
@@ -501,20 +501,24 @@ a:hover {
     color: #1d4ed8;
 }
 
-'.archive-grid {
+.archive-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 20px;
     margin-bottom: 12px;
 }
 
+/* Archive cards reuse the same visual format as carousel cards.
+   The base .card-image-wrapper, .card-content, .card-title rules apply.
+   Only add archive-specific overrides here. */
+
 .archive-card {
     text-decoration: none;
     border-radius: 12px;
     overflow: hidden;
     border: 1px solid #e5e7eb;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
     background: #fff;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .archive-card:hover {
@@ -522,9 +526,10 @@ a:hover {
     box-shadow: 0 12px 28px rgba(0, 0, 0, 0.12);
 }
 
+/* Archive cards use same image wrapper as carousel */
 .archive-card .card-image-wrapper {
     width: 100%;
-    height: 180px;
+    height: 160px;
     overflow: hidden;
     background: #f3f4f6;
 }
@@ -541,47 +546,30 @@ a:hover {
     transform: scale(1.05);
 }
 
-.archive-card img {
+/* Legacy format for cards without wrapper */
+.archive-card > img {
     width: 100%;
-    height: 180px;
+    height: 160px;
     object-fit: cover;
     display: block;
 }
 
 .archive-card .card-content {
     padding: 14px 16px 16px;
-    min-height: 90px;
+    min-height: 105px;
 }
 
-.archive-card .card-title {
+/* Hide old archive card description text */
+.archive-card-content p {
+    display: none;
+}
+
+.archive-card-content h4 {
     font-size: 0.95rem;
     font-weight: 700;
     color: #1f2937;
     margin: 0;
     line-height: 1.4;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-}
-
-.archive-card-content {
-    padding: 14px 16px 16px;
-}
-
-.archive-card-content h4 {
-    font-size: 0.95rem;
-    color: #1f2937;
-    line-height: 1.4;
-    margin: 0;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-}
-
-.archive-card-content p {
-    display: none;
 }
 
 @media (max-width: 768px) {
@@ -590,8 +578,8 @@ a:hover {
         gap: 16px;
     }
     .archive-card .card-image-wrapper,
-    .archive-card img {
-        height: 150px;
+    .archive-card > img {
+        height: 140px;
     }
 }
 
@@ -601,7 +589,7 @@ a:hover {
         gap: 10px;
     }
     .archive-card .card-image-wrapper,
-    .archive-card img {
-        height: 120px;
+    .archive-card > img {
+        height: 125px;
     }
 }
