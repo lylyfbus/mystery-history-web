@@ -640,3 +640,30 @@ body {
         background: #fff;
     }
 }
+
+/* Card title consistency - always black */
+.archive-card .card-title,
+.archive-card h4,
+.carousel-card .card-title,
+.carousel-card h4,
+.category-bar .category-bar-title,
+.category-bar h4 {
+    color: #1a1a1a !important;
+    text-decoration: none;
+    font-size: 0.95rem;
+    line-height: 1.4;
+}
+
+/* Ensure cards don't show blue links */
+.archive-card,
+.carousel-card,
+.category-bar {
+    text-decoration: none;
+}
+
+/* Card content area - slightly larger for long titles */
+.archive-card .card-content,
+.carousel-card .card-content {
+    padding: 12px 10px;
+    min-height: 60px;
+}
