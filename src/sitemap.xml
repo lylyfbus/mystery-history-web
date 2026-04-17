@@ -419,4 +419,10 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
       </url>
+  <url>
+        <loc>https://pastmysteries.com/posts/easter-island-moai-statues</loc>
+        <lastmod>2026-04-17</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+      </url>
 </urlset>
