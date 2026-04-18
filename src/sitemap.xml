@@ -455,4 +455,10 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
       </url>
+  <url>
+        <loc>https://pastmysteries.com/posts/dyatlov-pass-mystery</loc>
+        <lastmod>2026-04-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+      </url>
 </urlset>
