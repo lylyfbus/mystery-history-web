@@ -1,0 +1,407 @@
+{
+  "amelia-earhart": {
+    "display": "March 30, 2026",
+    "iso": "2026-03-30",
+    "timestamp": 1774828800
+  },
+  "anastasia-romanov": {
+    "display": "April 16, 2026",
+    "iso": "2026-04-16",
+    "timestamp": 1776297600
+  },
+  "ark-of-the-covenant": {
+    "display": "April 16, 2026",
+    "iso": "2026-04-16",
+    "timestamp": 1776297600
+  },
+  "ball-lightning": {
+    "display": "February 20, 2026",
+    "iso": "2026-02-20",
+    "timestamp": 1771545600
+  },
+  "battle-los-angeles": {
+    "display": "February 20, 2026",
+    "iso": "2026-02-20",
+    "timestamp": 1771545600
+  },
+  "bennington-triangle": {
+    "display": "March 28, 2026",
+    "iso": "2026-03-28",
+    "timestamp": 1774656000
+  },
+  "bermuda-triangle": {
+    "display": "March 29, 2026",
+    "iso": "2026-03-29",
+    "timestamp": 1774742400
+  },
+  "bigfoot-sasquatch": {
+    "display": "April 15, 2026",
+    "iso": "2026-04-15",
+    "timestamp": 1776211200
+  },
+  "black-dahlia": {
+    "display": "April 16, 2026",
+    "iso": "2026-04-16",
+    "timestamp": 1776297600
+  },
+  "cadaver-synod": {
+    "display": "February 26, 2026",
+    "iso": "2026-02-26",
+    "timestamp": 1772064000
+  },
+  "chupacabra": {
+    "display": "April 16, 2026",
+    "iso": "2026-04-16",
+    "timestamp": 1776297600
+  },
+  "cleopatra-tomb": {
+    "display": "March 30, 2026",
+    "iso": "2026-03-30",
+    "timestamp": 1774828800
+  },
+  "crystal-skulls": {
+    "display": "February 26, 2026",
+    "iso": "2026-02-26",
+    "timestamp": 1772064000
+  },
+  "db-cooper": {
+    "display": "March 30, 2026",
+    "iso": "2026-03-30",
+    "timestamp": 1774828800
+  },
+  "dead-sea-scrolls": {
+    "display": "April 16, 2026",
+    "iso": "2026-04-16",
+    "timestamp": 1776297600
+  },
+  "derinkuyu-underground-city": {
+    "display": "March 29, 2026",
+    "iso": "2026-03-29",
+    "timestamp": 1774742400
+  },
+  "dyatlov-pass-incident": {
+    "display": "April 17, 2026",
+    "iso": "2026-04-17",
+    "timestamp": 1776384000
+  },
+  "el-dorado-lost-city": {
+    "display": "April 16, 2026",
+    "iso": "2026-04-16",
+    "timestamp": 1776297600
+  },
+  "ghost-army-wwii": {
+    "display": "March 29, 2026",
+    "iso": "2026-03-29",
+    "timestamp": 1774742400
+  },
+  "gobekli-tepe": {
+    "display": "February 20, 2026",
+    "iso": "2026-02-20",
+    "timestamp": 1771545600
+  },
+  "great-emu-war": {
+    "display": "February 20, 2026",
+    "iso": "2026-02-20",
+    "timestamp": 1771545600
+  },
+  "hessdalen-lights": {
+    "display": "February 26, 2026",
+    "iso": "2026-02-26",
+    "timestamp": 1772064000
+  },
+  "indus-valley-civilization": {
+    "display": "February 20, 2026",
+    "iso": "2026-02-20",
+    "timestamp": 1771545600
+  },
+  "jack-the-ripper": {
+    "display": "April 15, 2026",
+    "iso": "2026-04-15",
+    "timestamp": 1776211200
+  },
+  "loch-ness-monster": {
+    "display": "April 16, 2026",
+    "iso": "2026-04-16",
+    "timestamp": 1776297600
+  },
+  "london-beer-flood": {
+    "display": "March 28, 2026",
+    "iso": "2026-03-28",
+    "timestamp": 1774656000
+  },
+  "lost-faberge-eggs": {
+    "display": "February 20, 2026",
+    "iso": "2026-02-20",
+    "timestamp": 1771545600
+  },
+  "machu-picchu-mystery": {
+    "display": "April 16, 2026",
+    "iso": "2026-04-16",
+    "timestamp": 1776297600
+  },
+  "mandela-effect": {
+    "display": "April 16, 2026",
+    "iso": "2026-04-16",
+    "timestamp": 1776297600
+  },
+  "marfa-lights": {
+    "display": "March 30, 2026",
+    "iso": "2026-03-30",
+    "timestamp": 1774828800
+  },
+  "mary-celeste-ghost-ship": {
+    "display": "April 15, 2026",
+    "iso": "2026-04-15",
+    "timestamp": 1776211200
+  },
+  "molasses-flood": {
+    "display": "February 26, 2026",
+    "iso": "2026-02-26",
+    "timestamp": 1772064000
+  },
+  "mothman-point-pleasant": {
+    "display": "April 16, 2026",
+    "iso": "2026-04-16",
+    "timestamp": 1776297600
+  },
+  "mysterious-monoliths": {
+    "display": "March 1, 2026",
+    "iso": "2026-03-01",
+    "timestamp": 1772323200
+  },
+  "new-england-vampire-panic": {
+    "display": "March 1, 2026",
+    "iso": "2026-03-01",
+    "timestamp": 1772323200
+  },
+  "new-jersey-drones-mystery": {
+    "display": "February 20, 2026",
+    "iso": "2026-02-20",
+    "timestamp": 1771545600
+  },
+  "pentagon-uap-reports": {
+    "display": "March 1, 2026",
+    "iso": "2026-03-01",
+    "timestamp": 1772323200
+  },
+  "philadelphia-experiment": {
+    "display": "March 29, 2026",
+    "iso": "2026-03-29",
+    "timestamp": 1774742400
+  },
+  "phoenix-lights-ufo": {
+    "display": "April 15, 2026",
+    "iso": "2026-04-15",
+    "timestamp": 1776211200
+  },
+  "pompeii-eruption": {
+    "display": "April 16, 2026",
+    "iso": "2026-04-16",
+    "timestamp": 1776297600
+  },
+  "pyramids-of-giza": {
+    "display": "April 15, 2026",
+    "iso": "2026-04-15",
+    "timestamp": 1776211200
+  },
+  "roman-dodecahedron": {
+    "display": "March 1, 2026",
+    "iso": "2026-03-01",
+    "timestamp": 1772323200
+  },
+  "rosetta-stone": {
+    "display": "April 16, 2026",
+    "iso": "2026-04-16",
+    "timestamp": 1776297600
+  },
+  "roswell-ufo-incident": {
+    "display": "April 16, 2026",
+    "iso": "2026-04-16",
+    "timestamp": 1776297600
+  },
+  "sacsayhuaman": {
+    "display": "March 29, 2026",
+    "iso": "2026-03-29",
+    "timestamp": 1774742400
+  },
+  "salem-witch-trials": {
+    "display": "April 17, 2026",
+    "iso": "2026-04-17",
+    "timestamp": 1776384000
+  },
+  "saqqara-bird": {
+    "display": "March 28, 2026",
+    "iso": "2026-03-28",
+    "timestamp": 1774656000
+  },
+  "shroud-of-turin": {
+    "display": "April 16, 2026",
+    "iso": "2026-04-16",
+    "timestamp": 1776297600
+  },
+  "skinwalker-ranch": {
+    "display": "April 16, 2026",
+    "iso": "2026-04-16",
+    "timestamp": 1776297600
+  },
+  "spontaneous-human-combustion": {
+    "display": "March 28, 2026",
+    "iso": "2026-03-28",
+    "timestamp": 1774656000
+  },
+  "stonehenge-mystery": {
+    "display": "April 15, 2026",
+    "iso": "2026-04-15",
+    "timestamp": 1776211200
+  },
+  "the-hum": {
+    "display": "February 26, 2026",
+    "iso": "2026-02-26",
+    "timestamp": 1772064000
+  },
+  "the-lost-city-of-heracleion": {
+    "display": "February 26, 2026",
+    "iso": "2026-02-26",
+    "timestamp": 1772064000
+  },
+  "thutmose-ii-tomb": {
+    "display": "March 1, 2026",
+    "iso": "2026-03-01",
+    "timestamp": 1772323200
+  },
+  "uss-nimitz-tic-tac": {
+    "display": "April 16, 2026",
+    "iso": "2026-04-16",
+    "timestamp": 1776297600
+  },
+  "wilmer-mclean": {
+    "display": "March 1, 2026",
+    "iso": "2026-03-01",
+    "timestamp": 1772323200
+  },
+  "wow-signal": {
+    "display": "March 29, 2026",
+    "iso": "2026-03-29",
+    "timestamp": 1774742400
+  },
+  "zodiac-killer": {
+    "display": "April 16, 2026",
+    "iso": "2026-04-16",
+    "timestamp": 1776297600
+  },
+  "alexander-great-tomb": {
+    "display": "April 17, 2026",
+    "iso": "2026-04-17",
+    "timestamp": 1776445917
+  },
+  "angkor-wat-mystery": {
+    "display": "April 17, 2026",
+    "iso": "2026-04-17",
+    "timestamp": 1776454564
+  },
+  "antikythera-mechanism-ancient-computer": {
+    "display": "April 17, 2026",
+    "iso": "2026-04-17",
+    "timestamp": 1776463786
+  },
+  "baghdad-battery-ancient-electricity": {
+    "display": "April 17, 2026",
+    "iso": "2026-04-17",
+    "timestamp": 1776467542
+  },
+  "copper-scroll-treasure": {
+    "display": "March 28, 2026",
+    "iso": "2026-03-28",
+    "timestamp": 1774716455
+  },
+  "dancing-plague-1518": {
+    "display": "February 20, 2026",
+    "iso": "2026-02-20",
+    "timestamp": 1771617902
+  },
+  "easter-island-moai-statues": {
+    "display": "April 17, 2026",
+    "iso": "2026-04-17",
+    "timestamp": 1776466765
+  },
+  "flannan-isle-lighthouse": {
+    "display": "April 17, 2026",
+    "iso": "2026-04-17",
+    "timestamp": 1776456254
+  },
+  "franklin-expedition": {
+    "display": "April 17, 2026",
+    "iso": "2026-04-17",
+    "timestamp": 1776457882
+  },
+  "great-sphinx-giza-mystery": {
+    "display": "April 17, 2026",
+    "iso": "2026-04-17",
+    "timestamp": 1776466005
+  },
+  "library-of-alexandria": {
+    "display": "April 17, 2026",
+    "iso": "2026-04-17",
+    "timestamp": 1776465223
+  },
+  "lost-city-atlantis-plato": {
+    "display": "April 18, 2026",
+    "iso": "2026-04-18",
+    "timestamp": 1776472417
+  },
+  "minoan-civilization-collapse": {
+    "display": "April 17, 2026",
+    "iso": "2026-04-17",
+    "timestamp": 1776453748
+  },
+  "nazca-lines-peru": {
+    "display": "April 18, 2026",
+    "iso": "2026-04-18",
+    "timestamp": 1776470843
+  },
+  "oak-island-money-pit-nova-scotia": {
+    "display": "April 17, 2026",
+    "iso": "2026-04-17",
+    "timestamp": 1776469259
+  },
+  "princes-in-tower": {
+    "display": "April 17, 2026",
+    "iso": "2026-04-17",
+    "timestamp": 1776457064
+  },
+  "roanoke-lost-colony": {
+    "display": "April 17, 2026",
+    "iso": "2026-04-17",
+    "timestamp": 1776460789
+  },
+  "terracotta-army": {
+    "display": "February 23, 2026",
+    "iso": "2026-02-23",
+    "timestamp": 1771890237
+  },
+  "tunguska-event-siberia": {
+    "display": "April 17, 2026",
+    "iso": "2026-04-17",
+    "timestamp": 1776470051
+  },
+  "tutankhamun-curse": {
+    "display": "April 17, 2026",
+    "iso": "2026-04-17",
+    "timestamp": 1776455497
+  },
+  "voynich-manuscript-mystery": {
+    "display": "April 17, 2026",
+    "iso": "2026-04-17",
+    "timestamp": 1776464502
+  },
+  "winchester-mystery-house": {
+    "display": "April 17, 2026",
+    "iso": "2026-04-17",
+    "timestamp": 1776458609
+  },
+  "yonaguni-monument": {
+    "display": "April 17, 2026",
+    "iso": "2026-04-17",
+    "timestamp": 1776452933
+  }
+}
