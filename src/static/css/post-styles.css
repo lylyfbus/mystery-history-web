@@ -2,9 +2,6 @@
 
 /* Hero Image */
 .hero-image {
-    max-height: 500px;
-    object-fit: contain;
-    background: #1a1a2e;
     width: 100%;
     max-width: 1060px;
     height: auto;
@@ -16,8 +13,6 @@
 
 /* Inline Images */
 .inline-image {
-    max-height: 450px;
-    object-fit: contain;
     width: 100%;
     max-width: 900px;
     height: auto;
