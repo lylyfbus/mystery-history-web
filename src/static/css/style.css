@@ -407,8 +407,8 @@ a:hover {
 
 .card-image-wrapper {
     width: 100%;
-    height: 200px;
-    overflow: visible;
+    aspect-ratio: 1;
+    overflow: hidden;
     background: #1a1a2e;
     border-radius: 12px 12px 0 0;
 }
@@ -416,7 +416,7 @@ a:hover {
 .card-image-wrapper img {
     width: 100%;
     height: 100%;
-    object-fit: contain;
+    object-fit: cover;
     transition: transform 0.3s ease;
 }
 
@@ -462,7 +462,6 @@ a:hover {
     }
 
     .card-image-wrapper {
-        height: 180px;
     }
 
     .carousel-header {
@@ -481,7 +480,6 @@ a:hover {
     }
 
     .card-image-wrapper {
-        height: 160px;
     }
 }
 
@@ -535,8 +533,8 @@ a:hover {
 /* Archive cards use same image wrapper as carousel */
 .archive-card .card-image-wrapper {
     width: 100%;
-    height: 200px;
-    overflow: visible;
+    aspect-ratio: 1;
+    overflow: hidden;
     background: #1a1a2e;
     border-radius: 12px 12px 0 0;
 }
@@ -544,7 +542,7 @@ a:hover {
 .archive-card .card-image-wrapper img {
     width: 100%;
     height: 100%;
-    object-fit: contain;
+    object-fit: cover;
     display: block;
     transition: transform 0.3s ease;
 }
@@ -556,8 +554,8 @@ a:hover {
 /* Legacy format for cards without wrapper */
 .archive-card > img {
     width: 100%;
-    height: 200px;
-    object-fit: contain;
+    aspect-ratio: 1;
+    object-fit: cover;
     background: #1a1a2e;
     display: block;
 }
@@ -590,7 +588,6 @@ a:hover {
     }
     .archive-card .card-image-wrapper,
     .archive-card > img {
-        height: 180px;
     }
 }
 
@@ -601,6 +598,5 @@ a:hover {
     }
     .archive-card .card-image-wrapper,
     .archive-card > img {
-        height: 160px;
     }
 }
