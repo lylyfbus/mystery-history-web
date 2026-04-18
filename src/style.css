@@ -167,7 +167,8 @@ body {
 .category-bar-image {
     width: 220px;
     height: 140px;
-    object-fit: cover;
+    object-fit: contain;
+    background: #1a1a2e;
     flex-shrink: 0;
 }
 
@@ -213,7 +214,8 @@ body {
 .story-bar-image {
     width: 180px;
     height: 110px;
-    object-fit: cover;
+    object-fit: contain;
+    background: #1a1a2e;
     flex-shrink: 0;
 }
 
