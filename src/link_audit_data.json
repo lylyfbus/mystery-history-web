@@ -1,0 +1,3908 @@
+{
+  "amazon_links": [
+    {
+      "slug": "alexander-great-tomb",
+      "url": "https://www.amazon.com/dp/0140088784?tag=pastmystery-20"
+    },
+    {
+      "slug": "amelia-earhart",
+      "url": "https://www.amazon.com/dp/1439164665?tag=pastmystery-20"
+    },
+    {
+      "slug": "anastasia-romanov",
+      "url": "https://www.amazon.com/dp/0375867821?tag=pastmystery-20"
+    },
+    {
+      "slug": "angkor-wat-mystery",
+      "url": "https://www.amazon.com/dp/0500051062?tag=pastmystery-20"
+    },
+    {
+      "slug": "antikythera-mechanism-ancient-computer",
+      "url": "https://www.amazon.com/dp/0983532308?tag=pastmystery-20"
+    },
+    {
+      "slug": "ark-of-the-covenant",
+      "url": "https://www.amazon.com/dp/162862857X?tag=pastmystery-20"
+    },
+    {
+      "slug": "atlantis",
+      "url": "https://www.amazon.com/dp/B079VLYV6N?tag=pastmystery-20"
+    },
+    {
+      "slug": "baghdad-battery-ancient-electricity",
+      "url": "https://www.amazon.com/dp/1591431071?tag=pastmystery-20"
+    },
+    {
+      "slug": "ball-lightning",
+      "url": "https://www.amazon.com/dp/303020782X?tag=pastmystery-20"
+    },
+    {
+      "slug": "battle-los-angeles",
+      "url": "https://www.amazon.com/dp/1508641048?tag=pastmystery-20"
+    },
+    {
+      "slug": "bennington-triangle",
+      "url": "https://www.amazon.com/dp/B0DNBP7SDC?tag=pastmystery-20"
+    },
+    {
+      "slug": "bermuda-triangle",
+      "url": "https://www.amazon.com/dp/0071452176?tag=pastmystery-20"
+    },
+    {
+      "slug": "bigfoot-sasquatch",
+      "url": "https://www.amazon.com/dp/0765312174?tag=pastmystery-20"
+    },
+    {
+      "slug": "black-dahlia",
+      "url": "https://www.amazon.com/dp/B000I2JFTC?tag=pastmystery-20"
+    },
+    {
+      "slug": "chupacabra",
+      "url": "https://www.amazon.com/dp/0996578773?tag=pastmystery-20"
+    },
+    {
+      "slug": "cleopatra-tomb",
+      "url": "https://www.amazon.com/dp/0316001945?tag=pastmystery-20"
+    },
+    {
+      "slug": "copper-scroll-treasure",
+      "url": "https://www.amazon.com/dp/014028402X?tag=pastmystery-20"
+    },
+    {
+      "slug": "dancing-plague-1518",
+      "url": "https://www.amazon.com/dp/0752499769?tag=pastmystery-20"
+    },
+    {
+      "slug": "db-cooper",
+      "url": "https://www.amazon.com/dp/0307451305?tag=pastmystery-20"
+    },
+    {
+      "slug": "dead-sea-scrolls",
+      "url": "https://www.amazon.com/dp/0060600640?tag=pastmystery-20"
+    },
+    {
+      "slug": "derinkuyu-underground-city",
+      "url": "https://www.amazon.com/dp/B0CWL2QQTJ?tag=pastmystery-20"
+    },
+    {
+      "slug": "dyatlov-pass-incident",
+      "url": "https://www.amazon.com/dp/B00IO4L86Y?tag=pastmystery-20"
+    },
+    {
+      "slug": "dyatlov-pass-mystery",
+      "url": "https://www.amazon.com/dp/1681776424?tag=pastmystery-20"
+    },
+    {
+      "slug": "dyatlov-pass",
+      "url": "https://www.amazon.com/dp/1452140030?tag=pastmystery-20"
+    },
+    {
+      "slug": "easter-island-moai-statues",
+      "url": "https://www.amazon.com/dp/0140281954?tag=pastmystery-20"
+    },
+    {
+      "slug": "easter-island-moai",
+      "url": "https://www.amazon.com/dp/1439164665?tag=pastmystery-20"
+    },
+    {
+      "slug": "el-dorado-lost-city",
+      "url": "https://www.amazon.com/dp/0714125415?tag=pastmystery-20"
+    },
+    {
+      "slug": "flannan-isle-lighthouse",
+      "url": "https://www.amazon.com/dp/1780276058?tag=pastmystery-20"
+    },
+    {
+      "slug": "franklin-expedition",
+      "url": "https://www.amazon.com/dp/030682460X?tag=pastmystery-20"
+    },
+    {
+      "slug": "ghost-army-wwii",
+      "url": "https://www.amazon.com/dp/1616893184?tag=pastmystery-20"
+    },
+    {
+      "slug": "great-sphinx-giza-mystery",
+      "url": "https://www.amazon.com/dp/0140265527?tag=pastmystery-20"
+    },
+    {
+      "slug": "great-sphinx-giza",
+      "url": "https://www.amazon.com/dp/0517894614?tag=pastmystery-20"
+    },
+    {
+      "slug": "jack-the-ripper",
+      "url": "https://www.amazon.com/dp/0747255229?tag=pastmystery-20"
+    },
+    {
+      "slug": "library-of-alexandria",
+      "url": "https://www.amazon.com/dp/014139193X?tag=pastmystery-20"
+    },
+    {
+      "slug": "loch-ness-monster",
+      "url": "https://www.amazon.com/dp/0593519205?tag=pastmystery-20"
+    },
+    {
+      "slug": "lost-city-atlantis-plato",
+      "url": "https://www.amazon.com/dp/0520240370?tag=pastmystery-20"
+    },
+    {
+      "slug": "lost-city-atlantis",
+      "url": "https://www.amazon.com/dp/0486233715?tag=pastmystery-20"
+    },
+    {
+      "slug": "lost-faberge-eggs",
+      "url": "https://www.amazon.com/dp/140006550X?tag=pastmystery-20"
+    },
+    {
+      "slug": "machu-picchu-mystery",
+      "url": "https://www.amazon.com/dp/0743260503?tag=pastmystery-20"
+    },
+    {
+      "slug": "mandela-effect",
+      "url": "https://www.amazon.com/dp/B0CKGT2RMX?tag=pastmystery-20"
+    },
+    {
+      "slug": "marfa-lights",
+      "url": "https://www.amazon.com/dp/0936455063?tag=pastmystery-20"
+    },
+    {
+      "slug": "mary-celeste-ghost-ship",
+      "url": "https://www.amazon.com/dp/B0D9WR9RVG?tag=pastmystery-20"
+    },
+    {
+      "slug": "mary-celeste",
+      "url": "https://www.amazon.com/dp/0982429120?tag=pastmystery-20"
+    },
+    {
+      "slug": "minoan-civilization-collapse",
+      "url": "https://www.amazon.com/dp/0142001782?tag=pastmystery-20"
+    },
+    {
+      "slug": "mothman-point-pleasant",
+      "url": "https://www.amazon.com/dp/B00006JMD5?tag=pastmystery-20"
+    },
+    {
+      "slug": "nazca-lines-peru",
+      "url": "https://www.amazon.com/dp/0500050696?tag=pastmystery-20"
+    },
+    {
+      "slug": "nazca-lines",
+      "url": "https://www.amazon.com/dp/0500050696?tag=pastmystery-20"
+    },
+    {
+      "slug": "new-jersey-drones-mystery",
+      "url": "https://www.amazon.com/dp/0307717089?tag=pastmystery-20"
+    },
+    {
+      "slug": "oak-island-money-pit-nova-scotia",
+      "url": "https://www.amazon.com/dp/1594162780?tag=pastmystery-20"
+    },
+    {
+      "slug": "oak-island-money-pit",
+      "url": "https://www.amazon.com/dp/1493037005?tag=pastmystery-20"
+    },
+    {
+      "slug": "philadelphia-experiment",
+      "url": "https://www.amazon.com/dp/0449214710?tag=pastmystery-20"
+    },
+    {
+      "slug": "phoenix-lights-ufo",
+      "url": "https://www.amazon.com/dp/1943625778?tag=pastmystery-20"
+    },
+    {
+      "slug": "pompeii-eruption",
+      "url": "https://www.amazon.com/dp/1846684714?tag=pastmystery-20"
+    },
+    {
+      "slug": "princes-in-tower",
+      "url": "https://www.amazon.com/dp/0345434921?tag=pastmystery-20"
+    },
+    {
+      "slug": "pyramids-of-giza",
+      "url": "https://www.amazon.com/dp/0500050848?tag=pastmystery-20"
+    },
+    {
+      "slug": "roanoke-colony",
+      "url": "https://www.amazon.com/dp/0465024904?tag=pastmystery-20"
+    },
+    {
+      "slug": "roanoke-lost-colony",
+      "url": "https://www.amazon.com/dp/1432899155?tag=pastmystery-20"
+    },
+    {
+      "slug": "rosetta-stone",
+      "url": "https://www.amazon.com/dp/B000VA11Q6?tag=pastmystery-20"
+    },
+    {
+      "slug": "roswell-ufo-incident",
+      "url": "https://www.amazon.com/dp/1076782159?tag=pastmystery-20"
+    },
+    {
+      "slug": "sacsayhuaman",
+      "url": "https://www.amazon.com/dp/0692049843?tag=pastmystery-20"
+    },
+    {
+      "slug": "salem-witch-trials",
+      "url": "https://www.amazon.com/dp/0306821206?tag=pastmystery-20"
+    },
+    {
+      "slug": "saqqara-bird",
+      "url": "https://www.amazon.com/dp/B00S41UJKI?tag=pastmystery-20"
+    },
+    {
+      "slug": "sarah-winchester-house",
+      "url": "https://www.amazon.com/dp/0979849802?tag=pastmystery-20"
+    },
+    {
+      "slug": "shroud-of-turin",
+      "url": "https://www.amazon.com/dp/0764243667?tag=pastmystery-20"
+    },
+    {
+      "slug": "skinwalker-ranch",
+      "url": "https://www.amazon.com/dp/1416505210?tag=pastmystery-20"
+    },
+    {
+      "slug": "stonehenge-mystery",
+      "url": "https://www.amazon.com/dp/0500051550?tag=pastmystery-20"
+    },
+    {
+      "slug": "terracotta-army",
+      "url": "https://www.amazon.com/dp/0500050955?tag=pastmystery-20"
+    },
+    {
+      "slug": "tunguska-event-siberia",
+      "url": "https://www.amazon.com/dp/0393341878?tag=pastmystery-20"
+    },
+    {
+      "slug": "tunguska-event",
+      "url": "https://www.amazon.com/dp/0387765735?tag=pastmystery-20"
+    },
+    {
+      "slug": "tutankhamun-curse",
+      "url": "https://www.amazon.com/dp/0345478530?tag=pastmystery-20"
+    },
+    {
+      "slug": "uss-nimitz-tic-tac",
+      "url": "https://www.amazon.com/dp/B0BK3KP6X2?tag=pastmystery-20"
+    },
+    {
+      "slug": "voynich-manuscript-mystery",
+      "url": "https://www.amazon.com/dp/0300216778?tag=pastmystery-20"
+    },
+    {
+      "slug": "voynich-manuscript",
+      "url": "https://www.amazon.com/dp/0300217234?tag=pastmystery-20"
+    },
+    {
+      "slug": "winchester-mystery-house",
+      "url": "https://www.amazon.com/dp/1493033248?tag=pastmystery-20"
+    },
+    {
+      "slug": "wow-signal",
+      "url": "https://www.amazon.com/dp/0983958440?tag=pastmystery-20"
+    },
+    {
+      "slug": "yonaguni-monument",
+      "url": "https://www.amazon.com/dp/1400046316?tag=pastmystery-20"
+    },
+    {
+      "slug": "zodiac-killer",
+      "url": "https://www.amazon.com/dp/0425212181?tag=pastmystery-20"
+    }
+  ],
+  "reference_links": [
+    {
+      "slug": "alexander-great-tomb",
+      "url": "https://pastmysteries.com/posts/alexander-great-tomb"
+    },
+    {
+      "slug": "alexander-great-tomb",
+      "url": "https://en.wikipedia.org/wiki/Tomb_of_Alexander_the_Great"
+    },
+    {
+      "slug": "alexander-great-tomb",
+      "url": "https://www.britannica.com/biography/Alexander-the-Great"
+    },
+    {
+      "slug": "alexander-great-tomb",
+      "url": "https://www.worldatlas.com/ancient-world/the-disappearance-of-alexander-the-great-s-body.html"
+    },
+    {
+      "slug": "alexander-great-tomb",
+      "url": "https://en.wikipedia.org/wiki/Death_of_Alexander_the_Great"
+    },
+    {
+      "slug": "alexander-great-tomb",
+      "url": "https://www.thecollector.com/locating-tomb-alexader-the-great/"
+    },
+    {
+      "slug": "alexander-great-tomb",
+      "url": "https://en.wikipedia.org/wiki/Alexandria"
+    },
+    {
+      "slug": "alexander-great-tomb",
+      "url": "https://www.britannica.com/place/Alexandria-Egypt"
+    },
+    {
+      "slug": "alexander-great-tomb",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/machu-picchu-mystery&text=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "alexander-great-tomb",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/machu-picchu-mystery"
+    },
+    {
+      "slug": "alexander-great-tomb",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/machu-picchu-mystery&title=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "alexander-great-tomb",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/machu-picchu-mystery&description=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "amelia-earhart",
+      "url": "https://pastmysteries.com/posts/amelia-earhart"
+    },
+    {
+      "slug": "amelia-earhart",
+      "url": "https://www.history.com/topics/womens-history/amelia-earhart"
+    },
+    {
+      "slug": "amelia-earhart",
+      "url": "https://edition.cnn.com/2025/10/28/science/amelia-earhart-mystery-nikumaroro-howland-islands"
+    },
+    {
+      "slug": "amelia-earhart",
+      "url": "https://www.usatoday.com/story/news/nation/2025/07/03/amelia-earhart-missing-plane-expedition/84457019007/"
+    },
+    {
+      "slug": "amelia-earhart",
+      "url": "https://www.britannica.com/biography/Amelia-Earhart"
+    },
+    {
+      "slug": "amelia-earhart",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/amelia-earhart&text=Amelia%20Earhart:%2088%20Years%20Later,%20Are%20We%20Close%20to%20Finding%20Her%20Plane?"
+    },
+    {
+      "slug": "amelia-earhart",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/amelia-earhart"
+    },
+    {
+      "slug": "amelia-earhart",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/amelia-earhart&title=Amelia%20Earhart:%2088%20Years%20Later,%20Are%20We%20Close%20to%20Finding%20Her%20Plane?"
+    },
+    {
+      "slug": "amelia-earhart",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/amelia-earhart&description=Amelia%20Earhart:%2088%20Years%20Later,%20Are%20We%20Close%20to%20Finding%20Her%20Plane?"
+    },
+    {
+      "slug": "anastasia-romanov",
+      "url": "https://pastmysteries.com/posts/anastasia-romanov"
+    },
+    {
+      "slug": "anastasia-romanov",
+      "url": "https://en.wikipedia.org/wiki/Murder_of_the_Romanov_family"
+    },
+    {
+      "slug": "anastasia-romanov",
+      "url": "https://en.wikipedia.org/wiki/Anna_Anderson"
+    },
+    {
+      "slug": "anastasia-romanov",
+      "url": "https://www.britannica.com/biography/Anastasia-Grand-Duchess-of-Russia"
+    },
+    {
+      "slug": "anastasia-romanov",
+      "url": "https://en.wikipedia.org/wiki/Grand_Duchess_Anastasia_Nikolaevna_of_Russia"
+    },
+    {
+      "slug": "anastasia-romanov",
+      "url": "https://www.didyouknowdna.com/2024/01/19/did-you-know-dna-analyses-finally-identified-the-true-identity-of-anna-anderson/"
+    },
+    {
+      "slug": "anastasia-romanov",
+      "url": "https://en.wikipedia.org/wiki/House_of_Romanov"
+    },
+    {
+      "slug": "anastasia-romanov",
+      "url": "https://en.wikipedia.org/wiki/Yakov_Yurovsky"
+    },
+    {
+      "slug": "anastasia-romanov",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/machu-picchu-mystery&text=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "anastasia-romanov",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/machu-picchu-mystery"
+    },
+    {
+      "slug": "anastasia-romanov",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/machu-picchu-mystery&title=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "anastasia-romanov",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/machu-picchu-mystery&description=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "angkor-wat-mystery",
+      "url": "https://pastmysteries.com/posts/angkor-wat-mystery"
+    },
+    {
+      "slug": "angkor-wat-mystery",
+      "url": "https://en.wikipedia.org/wiki/Angkor_Wat"
+    },
+    {
+      "slug": "angkor-wat-mystery",
+      "url": "https://en.wikipedia.org/wiki/Angkor"
+    },
+    {
+      "slug": "angkor-wat-mystery",
+      "url": "https://www.britannica.com/topic/Angkor-Wat"
+    },
+    {
+      "slug": "angkor-wat-mystery",
+      "url": "https://en.wikipedia.org/wiki/Suryavarman_II"
+    },
+    {
+      "slug": "angkor-wat-mystery",
+      "url": "https://ancientcivilizations.org/anomalies/angkor-wat.html"
+    },
+    {
+      "slug": "angkor-wat-mystery",
+      "url": "https://en.wikipedia.org/wiki/Henri_Mouhot"
+    },
+    {
+      "slug": "angkor-wat-mystery",
+      "url": "https://www.britannica.com/place/Angkor"
+    },
+    {
+      "slug": "angkor-wat-mystery",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/angkor-wat-mystery&text=Angkor%20Wat%3A%20The%20Largest%20Religious%20Monument%20Ever%20Built%20and%20the%20City%20That%20Vanished"
+    },
+    {
+      "slug": "angkor-wat-mystery",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/angkor-wat-mystery"
+    },
+    {
+      "slug": "angkor-wat-mystery",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/angkor-wat-mystery&title=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "angkor-wat-mystery",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/angkor-wat-mystery&description=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "antikythera-mechanism-ancient-computer",
+      "url": "https://pastmysteries.com/posts/antikythera-mechanism-ancient-computer"
+    },
+    {
+      "slug": "antikythera-mechanism-ancient-computer",
+      "url": "https://en.wikipedia.org/wiki/Antikythera_mechanism"
+    },
+    {
+      "slug": "antikythera-mechanism-ancient-computer",
+      "url": "https://en.wikipedia.org/wiki/Antikythera_wreck"
+    },
+    {
+      "slug": "antikythera-mechanism-ancient-computer",
+      "url": "https://en.wikipedia.org/wiki/Hipparchus"
+    },
+    {
+      "slug": "antikythera-mechanism-ancient-computer",
+      "url": "https://en.wikipedia.org/wiki/Derek_J._de_Solla_Price"
+    },
+    {
+      "slug": "antikythera-mechanism-ancient-computer",
+      "url": "https://en.wikipedia.org/wiki/Orrery"
+    },
+    {
+      "slug": "antikythera-mechanism-ancient-computer",
+      "url": "https://en.wikipedia.org/wiki/Posidonius"
+    },
+    {
+      "slug": "antikythera-mechanism-ancient-computer",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/antikythera-mechanism-ancient-computer&text=The%20Antikythera%20Mechanism%3A%20An%20Ancient%20Greek%20Computer%201,500%20Years%20Ahead%20of%20Its%20Time"
+    },
+    {
+      "slug": "antikythera-mechanism-ancient-computer",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/antikythera-mechanism-ancient-computer"
+    },
+    {
+      "slug": "antikythera-mechanism-ancient-computer",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/antikythera-mechanism-ancient-computer&title=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "antikythera-mechanism-ancient-computer",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/antikythera-mechanism-ancient-computer&description=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "antikythera-mechanism",
+      "url": "https://pastmysteries.com/posts/antikythera-mechanism"
+    },
+    {
+      "slug": "antikythera-mechanism",
+      "url": "https://www.nature.com/articles/nature05357"
+    },
+    {
+      "slug": "antikythera-mechanism",
+      "url": "https://www.ucl.ac.uk/news/2021/mar/experts-recreate-mechanical-cosmos-worlds-first-computer"
+    },
+    {
+      "slug": "antikythera-mechanism",
+      "url": "https://antikythera-mechanism.namuseum.gr/en/"
+    },
+    {
+      "slug": "antikythera-mechanism",
+      "url": "https://www.britannica.com/topic/Antikythera-mechanism"
+    },
+    {
+      "slug": "antikythera-mechanism",
+      "url": "https://www.nature.com/articles/nature07130"
+    },
+    {
+      "slug": "antikythera-mechanism",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/antikythera-mechanism&text=The%20Antikythera%20Mechanism:%20An%20Ancient%20Computer!"
+    },
+    {
+      "slug": "antikythera-mechanism",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/antikythera-mechanism"
+    },
+    {
+      "slug": "antikythera-mechanism",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/antikythera-mechanism&title=The%20Antikythera%20Mechanism:%20An%20Ancient%20Computer!"
+    },
+    {
+      "slug": "antikythera-mechanism",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/antikythera-mechanism&description=The%20Antikythera%20Mechanism:%20An%20Ancient%20Computer!"
+    },
+    {
+      "slug": "ark-of-the-covenant",
+      "url": "https://pastmysteries.com/posts/ark-of-the-covenant"
+    },
+    {
+      "slug": "ark-of-the-covenant",
+      "url": "https://en.wikipedia.org/wiki/Ark_of_the_Covenant"
+    },
+    {
+      "slug": "ark-of-the-covenant",
+      "url": "https://www.britannica.com/topic/Ark-of-the-Covenant"
+    },
+    {
+      "slug": "ark-of-the-covenant",
+      "url": "https://en.wikipedia.org/wiki/Church_of_Our_Lady_Mary_of_Zion"
+    },
+    {
+      "slug": "ark-of-the-covenant",
+      "url": "https://www.biblestudytools.com/bible-stories/ark-of-the-covenant.html"
+    },
+    {
+      "slug": "ark-of-the-covenant",
+      "url": "https://en.wikipedia.org/wiki/Copper_Scroll"
+    },
+    {
+      "slug": "ark-of-the-covenant",
+      "url": "https://biblehub.com/topical/a/ark_of_the_covenant.htm"
+    },
+    {
+      "slug": "ark-of-the-covenant",
+      "url": "https://www.pilgrimaps.com/the-ark-of-the-covenant-a-pilgrimage-to-axum/"
+    },
+    {
+      "slug": "ark-of-the-covenant",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/machu-picchu-mystery&text=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "ark-of-the-covenant",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/machu-picchu-mystery"
+    },
+    {
+      "slug": "ark-of-the-covenant",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/machu-picchu-mystery&title=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "ark-of-the-covenant",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/machu-picchu-mystery&description=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "atlantis",
+      "url": "https://pastmysteries.com/posts/atlantis"
+    },
+    {
+      "slug": "atlantis",
+      "url": "https://en.wikipedia.org/wiki/Atlantis"
+    },
+    {
+      "slug": "atlantis",
+      "url": "https://www.britannica.com/topic/Atlantis-legendary-island"
+    },
+    {
+      "slug": "atlantis",
+      "url": "https://en.wikipedia.org/wiki/Minoan_eruption"
+    },
+    {
+      "slug": "atlantis",
+      "url": "https://www.nature.com/articles/s41598-021-94859-1"
+    },
+    {
+      "slug": "atlantis",
+      "url": "https://en.wikipedia.org/wiki/Tartessos"
+    },
+    {
+      "slug": "atlantis",
+      "url": "https://en.wikipedia.org/wiki/Richat_Structure"
+    },
+    {
+      "slug": "atlantis",
+      "url": "https://en.wikipedia.org/wiki/Ignatius_L._Donnelly"
+    },
+    {
+      "slug": "atlantis",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/machu-picchu-mystery&text=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "atlantis",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/machu-picchu-mystery"
+    },
+    {
+      "slug": "atlantis",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/machu-picchu-mystery&title=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "atlantis",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/machu-picchu-mystery&description=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "baghdad-battery-ancient-electricity",
+      "url": "https://pastmysteries.com/posts/baghdad-battery-ancient-electricity"
+    },
+    {
+      "slug": "baghdad-battery-ancient-electricity",
+      "url": "https://en.wikipedia.org/wiki/Baghdad_Battery"
+    },
+    {
+      "slug": "baghdad-battery-ancient-electricity",
+      "url": "https://en.wikipedia.org/wiki/Alessandro_Volta"
+    },
+    {
+      "slug": "baghdad-battery-ancient-electricity",
+      "url": "https://en.wikipedia.org/wiki/Electroplating"
+    },
+    {
+      "slug": "baghdad-battery-ancient-electricity",
+      "url": "https://en.wikipedia.org/wiki/Parthian_Empire"
+    },
+    {
+      "slug": "baghdad-battery-ancient-electricity",
+      "url": "https://en.wikipedia.org/wiki/Galvanic_cell"
+    },
+    {
+      "slug": "baghdad-battery-ancient-electricity",
+      "url": "https://en.wikipedia.org/wiki/National_Museum_of_Iraq"
+    },
+    {
+      "slug": "baghdad-battery-ancient-electricity",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/baghdad-battery-ancient-electricity&text=The%20Baghdad%20Battery%3A%20Did%20Ancient%20Civilizations%20Discover%20Electricity%201,500%20Years%20Early?"
+    },
+    {
+      "slug": "baghdad-battery-ancient-electricity",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/baghdad-battery-ancient-electricity"
+    },
+    {
+      "slug": "baghdad-battery-ancient-electricity",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/baghdad-battery-ancient-electricity&title=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "baghdad-battery-ancient-electricity",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/baghdad-battery-ancient-electricity&description=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "baghdad-battery",
+      "url": "https://pastmysteries.com/posts/baghdad-battery"
+    },
+    {
+      "slug": "baghdad-battery",
+      "url": "https://en.wikipedia.org/wiki/Baghdad_Battery"
+    },
+    {
+      "slug": "baghdad-battery",
+      "url": "https://www.ancient-origins.net/artifacts-ancient-technology/baghdad-battery-001443"
+    },
+    {
+      "slug": "baghdad-battery",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/baghdad-battery&text=The%20Baghdad%20Battery%20-%20Mystery%20History"
+    },
+    {
+      "slug": "baghdad-battery",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/baghdad-battery"
+    },
+    {
+      "slug": "baghdad-battery",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/baghdad-battery&title=The%20Baghdad%20Battery%20-%20Mystery%20History"
+    },
+    {
+      "slug": "baghdad-battery",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/baghdad-battery&description=The%20Baghdad%20Battery%20-%20Mystery%20History"
+    },
+    {
+      "slug": "ball-lightning",
+      "url": "https://pastmysteries.com/posts/ball-lightning"
+    },
+    {
+      "slug": "ball-lightning",
+      "url": "https://en.wikipedia.org/wiki/Ball_lightning"
+    },
+    {
+      "slug": "ball-lightning",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/ball-lightning&text=Ball%20Lightning:%20The%20Ghost%20Orbs%20of%20Storms"
+    },
+    {
+      "slug": "ball-lightning",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/ball-lightning"
+    },
+    {
+      "slug": "ball-lightning",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/ball-lightning&title=Ball%20Lightning:%20The%20Ghost%20Orbs%20of%20Storms"
+    },
+    {
+      "slug": "ball-lightning",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/ball-lightning&description=Ball%20Lightning:%20The%20Ghost%20Orbs%20of%20Storms"
+    },
+    {
+      "slug": "battle-los-angeles",
+      "url": "https://pastmysteries.com/posts/battle-los-angeles"
+    },
+    {
+      "slug": "battle-los-angeles",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Los_Angeles"
+    },
+    {
+      "slug": "battle-los-angeles",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/battle-los-angeles&text=The%20Battle%20of%20Los%20Angeles:%20Did%20UFOs%20Attack%20in%201942?"
+    },
+    {
+      "slug": "battle-los-angeles",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/battle-los-angeles"
+    },
+    {
+      "slug": "battle-los-angeles",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/battle-los-angeles&title=The%20Battle%20of%20Los%20Angeles:%20Did%20UFOs%20Attack%20in%201942?"
+    },
+    {
+      "slug": "battle-los-angeles",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/battle-los-angeles&description=The%20Battle%20of%20Los%20Angeles:%20Did%20UFOs%20Attack%20in%201942?"
+    },
+    {
+      "slug": "bennington-triangle",
+      "url": "https://pastmysteries.com/posts/bennington-triangle"
+    },
+    {
+      "slug": "bennington-triangle",
+      "url": "https://en.wikipedia.org/wiki/Bennington_Triangle"
+    },
+    {
+      "slug": "bennington-triangle",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/bennington-triangle&text=The%20Bennington%20Triangle:%20Vermont's%20Bermuda%20Triangle"
+    },
+    {
+      "slug": "bennington-triangle",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/bennington-triangle"
+    },
+    {
+      "slug": "bennington-triangle",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/bennington-triangle&title=The%20Bennington%20Triangle:%20Vermont's%20Bermuda%20Triangle"
+    },
+    {
+      "slug": "bennington-triangle",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/bennington-triangle&description=The%20Bennington%20Triangle:%20Vermont's%20Bermuda%20Triangle"
+    },
+    {
+      "slug": "bermuda-triangle",
+      "url": "https://pastmysteries.com/posts/bermuda-triangle"
+    },
+    {
+      "slug": "bermuda-triangle",
+      "url": "https://www.britannica.com/topic/Bermuda-Triangle"
+    },
+    {
+      "slug": "bermuda-triangle",
+      "url": "https://www.history.com/topics/unexplained-phenomena/bermuda-triangle"
+    },
+    {
+      "slug": "bermuda-triangle",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/bermuda-triangle&text=The%20Bermuda%20Triangle:%20Why%20Do%20Ships%20and%20Planes%20Keep%20Disappearing?"
+    },
+    {
+      "slug": "bermuda-triangle",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/bermuda-triangle"
+    },
+    {
+      "slug": "bermuda-triangle",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/bermuda-triangle&title=The%20Bermuda%20Triangle:%20Why%20Do%20Ships%20and%20Planes%20Keep%20Disappearing?"
+    },
+    {
+      "slug": "bermuda-triangle",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/bermuda-triangle&description=The%20Bermuda%20Triangle:%20Why%20Do%20Ships%20and%20Planes%20Keep%20Disappearing?"
+    },
+    {
+      "slug": "bigfoot-sasquatch",
+      "url": "https://pastmysteries.com/posts/bigfoot-sasquatch"
+    },
+    {
+      "slug": "bigfoot-sasquatch",
+      "url": "https://en.wikipedia.org/wiki/Bigfoot"
+    },
+    {
+      "slug": "bigfoot-sasquatch",
+      "url": "https://en.wikipedia.org/wiki/Bigfoot"
+    },
+    {
+      "slug": "bigfoot-sasquatch",
+      "url": "https://en.wikipedia.org/wiki/Bigfoot"
+    },
+    {
+      "slug": "bigfoot-sasquatch",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/bigfoot-sasquatch&text=Bigfoot%3A%20The%20Elusive%20Creature%20That%20Keeps%20Eyewitnesses%20Coming%20Forward"
+    },
+    {
+      "slug": "bigfoot-sasquatch",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/bigfoot-sasquatch"
+    },
+    {
+      "slug": "bigfoot-sasquatch",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/bigfoot-sasquatch&title=Bigfoot%3A%20The%20Elusive%20Creature%20That%20Keeps%20Eyewitnesses%20Coming%20Forward"
+    },
+    {
+      "slug": "bigfoot-sasquatch",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/bigfoot-sasquatch&description=Bigfoot%3A%20The%20Elusive%20Creature%20That%20Keeps%20Eyewitnesses%20Coming%20Forward"
+    },
+    {
+      "slug": "black-dahlia",
+      "url": "https://pastmysteries.com/posts/black-dahlia"
+    },
+    {
+      "slug": "black-dahlia",
+      "url": "https://en.wikipedia.org/wiki/Black_Dahlia"
+    },
+    {
+      "slug": "black-dahlia",
+      "url": "https://www.fbi.gov/history/famous-cases/black-dahlia"
+    },
+    {
+      "slug": "black-dahlia",
+      "url": "https://en.wikipedia.org/wiki/George_Hodel"
+    },
+    {
+      "slug": "black-dahlia",
+      "url": "https://www.britannica.com/topic/Black-Dahlia-murder"
+    },
+    {
+      "slug": "black-dahlia",
+      "url": "https://www.legendsofamerica.com/elizabeth-short-black-dahlia/"
+    },
+    {
+      "slug": "black-dahlia",
+      "url": "https://en.wikipedia.org/wiki/Black_Dahlia_(film)"
+    },
+    {
+      "slug": "black-dahlia",
+      "url": "https://www.thereallosangelestours.com/crime-seen-the-black-dahlia/"
+    },
+    {
+      "slug": "black-dahlia",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/machu-picchu-mystery&text=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "black-dahlia",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/machu-picchu-mystery"
+    },
+    {
+      "slug": "black-dahlia",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/machu-picchu-mystery&title=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "black-dahlia",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/machu-picchu-mystery&description=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "cadaver-synod",
+      "url": "https://pastmysteries.com/posts/cadaver-synod"
+    },
+    {
+      "slug": "cadaver-synod",
+      "url": "https://en.wikipedia.org/wiki/Cadaver_Synod"
+    },
+    {
+      "slug": "cadaver-synod",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/cadaver-synod&text=The%20Cadaver%20Synod%20-%20Mystery%20History"
+    },
+    {
+      "slug": "cadaver-synod",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/cadaver-synod"
+    },
+    {
+      "slug": "cadaver-synod",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/cadaver-synod&title=The%20Cadaver%20Synod%20-%20Mystery%20History"
+    },
+    {
+      "slug": "cadaver-synod",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/cadaver-synod&description=The%20Cadaver%20Synod%20-%20Mystery%20History"
+    },
+    {
+      "slug": "chupacabra",
+      "url": "https://pastmysteries.com/posts/chupacabra"
+    },
+    {
+      "slug": "chupacabra",
+      "url": "https://en.wikipedia.org/wiki/Chupacabra"
+    },
+    {
+      "slug": "chupacabra",
+      "url": "https://en.wikipedia.org/wiki/Elmendorf_Beast"
+    },
+    {
+      "slug": "chupacabra",
+      "url": "https://www.britannica.com/topic/chupacabra"
+    },
+    {
+      "slug": "chupacabra",
+      "url": "https://agrilifetoday.tamu.edu/2024/10/15/unmasking-the-chupacabra/"
+    },
+    {
+      "slug": "chupacabra",
+      "url": "https://www.texasobserver.org/chupacabra-legends-texas/"
+    },
+    {
+      "slug": "chupacabra",
+      "url": "https://www.texasstandard.org/stories/cuero-texas-chupacabra-ranch-cryptid-sightings/"
+    },
+    {
+      "slug": "chupacabra",
+      "url": "https://www.bbc.com/news/world-latin-america-34283748"
+    },
+    {
+      "slug": "chupacabra",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/machu-picchu-mystery&text=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "chupacabra",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/machu-picchu-mystery"
+    },
+    {
+      "slug": "chupacabra",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/machu-picchu-mystery&title=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "chupacabra",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/machu-picchu-mystery&description=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "cleopatra-tomb",
+      "url": "https://pastmysteries.com/posts/cleopatra-tomb"
+    },
+    {
+      "slug": "cleopatra-tomb",
+      "url": "https://www.cnn.com/2025/09/26/science/ancient-egyptian-port-discovery-cleopatra"
+    },
+    {
+      "slug": "cleopatra-tomb",
+      "url": "https://www.nationalgeographic.com/history/article/cleopatra-tomb-port-taposiris-magna"
+    },
+    {
+      "slug": "cleopatra-tomb",
+      "url": "https://www.britannica.com/biography/Cleopatra-queen-of-Egypt"
+    },
+    {
+      "slug": "cleopatra-tomb",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/cleopatra-tomb&text=Cleopatra's%20Lost%20Tomb:%20Where%20Is%20Egypt's%20Last%20Queen%20Buried?"
+    },
+    {
+      "slug": "cleopatra-tomb",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/cleopatra-tomb"
+    },
+    {
+      "slug": "cleopatra-tomb",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/cleopatra-tomb&title=Cleopatra's%20Lost%20Tomb:%20Where%20Is%20Egypt's%20Last%20Queen%20Buried?"
+    },
+    {
+      "slug": "cleopatra-tomb",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/cleopatra-tomb&description=Cleopatra's%20Lost%20Tomb:%20Where%20Is%20Egypt's%20Last%20Queen%20Buried?"
+    },
+    {
+      "slug": "copper-scroll-treasure",
+      "url": "https://pastmysteries.com/posts/copper-scroll-treasure"
+    },
+    {
+      "slug": "copper-scroll-treasure",
+      "url": "https://en.wikipedia.org/wiki/Copper_Scroll"
+    },
+    {
+      "slug": "copper-scroll-treasure",
+      "url": "https://www.britannica.com/topic/Dead-Sea-Scrolls"
+    },
+    {
+      "slug": "copper-scroll-treasure",
+      "url": "https://en.wikipedia.org/wiki/Dead_Sea_Scrolls"
+    },
+    {
+      "slug": "copper-scroll-treasure",
+      "url": "https://www.ancient-origins.net/news/lost-treasure-dead-sea-copper-scroll-001457"
+    },
+    {
+      "slug": "copper-scroll-treasure",
+      "url": "https://interestingengineering.com/culture/clues-to-the-largest-treasure-ever-buried-are-in-a-dead-sea-scroll"
+    },
+    {
+      "slug": "copper-scroll-treasure",
+      "url": "https://en.wikipedia.org/wiki/Qumran"
+    },
+    {
+      "slug": "copper-scroll-treasure",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/copper-scroll-treasure&text=The%20Copper%20Scroll%20Treasure%3A%20The%20Worlds%20Oldest%20Treasure%20Map%20and%20Billions%20in%20Hidden%20Gold"
+    },
+    {
+      "slug": "copper-scroll-treasure",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/copper-scroll-treasure"
+    },
+    {
+      "slug": "copper-scroll-treasure",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/copper-scroll-treasure&title=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "copper-scroll-treasure",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/copper-scroll-treasure&description=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "crystal-skulls",
+      "url": "https://pastmysteries.com/posts/crystal-skulls"
+    },
+    {
+      "slug": "crystal-skulls",
+      "url": "https://en.wikipedia.org/wiki/Crystal_skull"
+    },
+    {
+      "slug": "crystal-skulls",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/crystal-skulls&text=The%20Crystal%20Skulls%20-%20Mystery%20History"
+    },
+    {
+      "slug": "crystal-skulls",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/crystal-skulls"
+    },
+    {
+      "slug": "crystal-skulls",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/crystal-skulls&title=The%20Crystal%20Skulls%20-%20Mystery%20History"
+    },
+    {
+      "slug": "crystal-skulls",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/crystal-skulls&description=The%20Crystal%20Skulls%20-%20Mystery%20History"
+    },
+    {
+      "slug": "dancing-plague-1518",
+      "url": "https://pastmysteries.com/posts/dancing-plague-1518"
+    },
+    {
+      "slug": "dancing-plague-1518",
+      "url": "https://en.wikipedia.org/wiki/Dancing_plague_of_1518"
+    },
+    {
+      "slug": "dancing-plague-1518",
+      "url": "https://en.wikipedia.org/wiki/St._Vitus%27_dance"
+    },
+    {
+      "slug": "dancing-plague-1518",
+      "url": "https://en.wikipedia.org/wiki/Dancing_mania"
+    },
+    {
+      "slug": "dancing-plague-1518",
+      "url": "https://en.wikipedia.org/wiki/Mass_psychogenic_illness"
+    },
+    {
+      "slug": "dancing-plague-1518",
+      "url": "https://en.wikipedia.org/wiki/Ergotism"
+    },
+    {
+      "slug": "dancing-plague-1518",
+      "url": "https://en.wikipedia.org/wiki/Paracelsus"
+    },
+    {
+      "slug": "dancing-plague-1518",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/dancing-plague-1518&text=The%20Dancing%20Plague%20of%201518%3A%20When%20Hundreds%20Danced%20Themselves%20to%20Death"
+    },
+    {
+      "slug": "dancing-plague-1518",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/dancing-plague-1518"
+    },
+    {
+      "slug": "dancing-plague-1518",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/dancing-plague-1518&title=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "dancing-plague-1518",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/dancing-plague-1518&description=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "db-cooper",
+      "url": "https://pastmysteries.com/posts/db-cooper"
+    },
+    {
+      "slug": "db-cooper",
+      "url": "https://www.popularmechanics.com/culture/a70107193/db-cooper-fbi-files-mystery-new-details/"
+    },
+    {
+      "slug": "db-cooper",
+      "url": "https://www.abc.net.au/news/2025-07-13/db-cooper-new-files-fbi-suspects-cold-casae/105513276"
+    },
+    {
+      "slug": "db-cooper",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/db-cooper&text=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "db-cooper",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/db-cooper"
+    },
+    {
+      "slug": "db-cooper",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/db-cooper&title=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "db-cooper",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/db-cooper&description=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "dead-sea-scrolls",
+      "url": "https://pastmysteries.com/posts/dead-sea-scrolls"
+    },
+    {
+      "slug": "dead-sea-scrolls",
+      "url": "https://en.wikipedia.org/wiki/Dead_Sea_Scrolls"
+    },
+    {
+      "slug": "dead-sea-scrolls",
+      "url": "https://en.wikipedia.org/wiki/Isaiah_Scroll"
+    },
+    {
+      "slug": "dead-sea-scrolls",
+      "url": "https://en.wikipedia.org/wiki/Copper_Scroll"
+    },
+    {
+      "slug": "dead-sea-scrolls",
+      "url": "https://www.britannica.com/topic/Dead-Sea-Scrolls"
+    },
+    {
+      "slug": "dead-sea-scrolls",
+      "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/dead-sea-scrolls/dating-the-copper-scroll/"
+    },
+    {
+      "slug": "dead-sea-scrolls",
+      "url": "https://www.loc.gov/exhibits/scrolls/today.html"
+    },
+    {
+      "slug": "dead-sea-scrolls",
+      "url": "https://en.wikipedia.org/wiki/Essenes"
+    },
+    {
+      "slug": "dead-sea-scrolls",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/machu-picchu-mystery&text=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "dead-sea-scrolls",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/machu-picchu-mystery"
+    },
+    {
+      "slug": "dead-sea-scrolls",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/machu-picchu-mystery&title=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "dead-sea-scrolls",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/machu-picchu-mystery&description=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "derinkuyu-underground-city",
+      "url": "https://pastmysteries.com/posts/derinkuyu-underground-city"
+    },
+    {
+      "slug": "derinkuyu-underground-city",
+      "url": "https://www.archaeology.org/issues/363-2009/trenches/turkey"
+    },
+    {
+      "slug": "derinkuyu-underground-city",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/derinkuyu-underground-city&text=Derinkuyu%20Underground%20City:%2020,000%20People%20Lived%20Beneath%20Turkey!"
+    },
+    {
+      "slug": "derinkuyu-underground-city",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/derinkuyu-underground-city"
+    },
+    {
+      "slug": "derinkuyu-underground-city",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/derinkuyu-underground-city&title=Derinkuyu%20Underground%20City:%2020,000%20People%20Lived%20Beneath%20Turkey!"
+    },
+    {
+      "slug": "derinkuyu-underground-city",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/derinkuyu-underground-city&description=Derinkuyu%20Underground%20City:%2020,000%20People%20Lived%20Beneath%20Turkey!"
+    },
+    {
+      "slug": "dyatlov-pass-incident",
+      "url": "https://pastmysteries.com/posts/dyatlov-pass-incident"
+    },
+    {
+      "slug": "dyatlov-pass-incident",
+      "url": "https://en.wikipedia.org/wiki/Dyatlov_Pass_incident"
+    },
+    {
+      "slug": "dyatlov-pass-incident",
+      "url": "https://www.nature.com/articles/s43247-020-00081-8"
+    },
+    {
+      "slug": "dyatlov-pass-incident",
+      "url": "https://www.britannica.com/event/Dyatlov-Pass-incident"
+    },
+    {
+      "slug": "dyatlov-pass-incident",
+      "url": "https://en.wikipedia.org/wiki/Dyatlov_Pass_incident#Explanations"
+    },
+    {
+      "slug": "dyatlov-pass-incident",
+      "url": "https://en.wikipedia.org/wiki/Kholat_Syakhl"
+    },
+    {
+      "slug": "dyatlov-pass-incident",
+      "url": "https://www.bbc.com/news/stories-50946663"
+    },
+    {
+      "slug": "dyatlov-pass-incident",
+      "url": "https://en.wikipedia.org/wiki/Paradoxical_undressing"
+    },
+    {
+      "slug": "dyatlov-pass-incident",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/machu-picchu-mystery&text=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "dyatlov-pass-incident",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/machu-picchu-mystery"
+    },
+    {
+      "slug": "dyatlov-pass-incident",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/machu-picchu-mystery&title=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "dyatlov-pass-incident",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/machu-picchu-mystery&description=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "dyatlov-pass-mystery",
+      "url": "https://pastmysteries.com/posts/dyatlov-pass-mystery"
+    },
+    {
+      "slug": "dyatlov-pass-mystery",
+      "url": "https://en.wikipedia.org/wiki/Dyatlov_Pass_incident"
+    },
+    {
+      "slug": "dyatlov-pass-mystery",
+      "url": "https://www.nature.com/articles/s43247-020-00081-8"
+    },
+    {
+      "slug": "dyatlov-pass-mystery",
+      "url": "https://en.wikipedia.org/wiki/Kholat_Syakhl"
+    },
+    {
+      "slug": "dyatlov-pass-mystery",
+      "url": "https://en.wikipedia.org/wiki/Slab_avalanche"
+    },
+    {
+      "slug": "dyatlov-pass-mystery",
+      "url": "https://en.wikipedia.org/wiki/Infrasound"
+    },
+    {
+      "slug": "dyatlov-pass-mystery",
+      "url": "https://www.history.com/articles/dyatlov-pass-incident-soviet-hiker-death-mystery"
+    },
+    {
+      "slug": "dyatlov-pass-mystery",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/dyatlov-pass-mystery&text=The%20Dyatlov%20Pass%20Incident%3A%20Nine%20Hikers,%20a%20Cut%20Tent,%20and%20the%20Soviet%20Wilderness%20Mystery%20That%20Endures"
+    },
+    {
+      "slug": "dyatlov-pass-mystery",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/dyatlov-pass-mystery"
+    },
+    {
+      "slug": "dyatlov-pass-mystery",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/dyatlov-pass-mystery&title=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "dyatlov-pass-mystery",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/dyatlov-pass-mystery&description=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "dyatlov-pass",
+      "url": "https://pastmysteries.com/posts/dyatlov-pass"
+    },
+    {
+      "slug": "dyatlov-pass",
+      "url": "https://www.history.com/articles/dyatlov-pass-incident-soviet-hiker-death-mystery"
+    },
+    {
+      "slug": "dyatlov-pass",
+      "url": "https://en.wikipedia.org/wiki/Dyatlov_Pass_incident"
+    },
+    {
+      "slug": "dyatlov-pass",
+      "url": "https://www.smithsonianmag.com/smart-news/scientists-may-have-finally-unraveled-mystery-dyatlov-pass-incident-180976886/"
+    },
+    {
+      "slug": "dyatlov-pass",
+      "url": "https://www.sciencetimes.com/articles/46860/20231101/dyatlov-pass-incident-scientific-theories-explain-mysterious-death-9-hikers.htm"
+    },
+    {
+      "slug": "dyatlov-pass",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/dyatlov-pass&text=The%20Dyatlov%20Pass%20Incident:%20Nine%20Hikers%20Died%20Under%20Impossible%20Circumstances"
+    },
+    {
+      "slug": "dyatlov-pass",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/dyatlov-pass"
+    },
+    {
+      "slug": "dyatlov-pass",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/dyatlov-pass&title=The%20Dyatlov%20Pass%20Incident:%20Nine%20Hikers%20Died%20Under%20Impossible%20Circumstances"
+    },
+    {
+      "slug": "dyatlov-pass",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/dyatlov-pass&description=The%20Dyatlov%20Pass%20Incident:%20Nine%20Hikers%20Died%20Under%20Impossible%20Circumstances"
+    },
+    {
+      "slug": "easter-island-moai-statues",
+      "url": "https://pastmysteries.com/posts/easter-island-moai-statues"
+    },
+    {
+      "slug": "easter-island-moai-statues",
+      "url": "https://en.wikipedia.org/wiki/Easter_Island"
+    },
+    {
+      "slug": "easter-island-moai-statues",
+      "url": "https://en.wikipedia.org/wiki/Moai"
+    },
+    {
+      "slug": "easter-island-moai-statues",
+      "url": "https://en.wikipedia.org/wiki/Rapa_Nui_people"
+    },
+    {
+      "slug": "easter-island-moai-statues",
+      "url": "https://en.wikipedia.org/wiki/Rongorongo"
+    },
+    {
+      "slug": "easter-island-moai-statues",
+      "url": "https://en.wikipedia.org/wiki/Tangata_manu"
+    },
+    {
+      "slug": "easter-island-moai-statues",
+      "url": "https://en.wikipedia.org/wiki/Rano_Raraku"
+    },
+    {
+      "slug": "easter-island-moai-statues",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/easter-island-moai-statues&text=The%20Moai%20of%20Easter%20Island%3A%20How%20Did%20a%20Lost%20Civilization%20Move%201,000%20Giant%20Stone%20Statues?"
+    },
+    {
+      "slug": "easter-island-moai-statues",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/easter-island-moai-statues"
+    },
+    {
+      "slug": "easter-island-moai-statues",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/easter-island-moai-statues&title=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "easter-island-moai-statues",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/easter-island-moai-statues&description=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "easter-island-moai",
+      "url": "https://pastmysteries.com/posts/easter-island-moai"
+    },
+    {
+      "slug": "easter-island-moai",
+      "url": "https://en.wikipedia.org/wiki/Moai"
+    },
+    {
+      "slug": "easter-island-moai",
+      "url": "https://www.binghamton.edu/news/story/5830/easter-islands-statues-actually-walked-and-physics-backs-it-up"
+    },
+    {
+      "slug": "easter-island-moai",
+      "url": "https://www.scientificamerican.com/article/rethinking-easter-islands-historic-collapse/"
+    },
+    {
+      "slug": "easter-island-moai",
+      "url": "https://archaeology.org/news/2025/12/04/3d-map-of-easter-island-quarry-offers-clues-to-moai-construction/"
+    },
+    {
+      "slug": "easter-island-moai",
+      "url": "https://www.britannica.com/place/Easter-Island"
+    },
+    {
+      "slug": "easter-island-moai",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/easter-island-moai&text=Easter%20Island's%20Moai%20Statues%3A%20Who%20Built%20Them%20and%20Why%20Did%20They%20Stop%3F"
+    },
+    {
+      "slug": "easter-island-moai",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/easter-island-moai"
+    },
+    {
+      "slug": "easter-island-moai",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/easter-island-moai&title=Easter%20Island's%20Moai%20Statues%3A%20Who%20Built%20Them%20and%20Why%20Did%20They%20Stop%3F"
+    },
+    {
+      "slug": "easter-island-moai",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/easter-island-moai&description=Easter%20Island's%20Moai%20Statues%3A%20Who%20Built%20Them%20and%20Why%20Did%20They%20Stop%3F"
+    },
+    {
+      "slug": "el-dorado-lost-city",
+      "url": "https://pastmysteries.com/posts/el-dorado-lost-city"
+    },
+    {
+      "slug": "el-dorado-lost-city",
+      "url": "https://en.wikipedia.org/wiki/El_Dorado"
+    },
+    {
+      "slug": "el-dorado-lost-city",
+      "url": "https://en.wikipedia.org/wiki/Lake_Guatavita"
+    },
+    {
+      "slug": "el-dorado-lost-city",
+      "url": "https://en.wikipedia.org/wiki/Muisca_raft"
+    },
+    {
+      "slug": "el-dorado-lost-city",
+      "url": "https://en.wikipedia.org/wiki/Gonzalo_Jim%C3%A9nez_de_Quesada"
+    },
+    {
+      "slug": "el-dorado-lost-city",
+      "url": "https://www.cambridge.org/core/journals/latin-american-antiquity/article/el-dorado-offerings-in-lake-guatavita-a-muisca-ritual-archaeological-site/CCCA4FF23E90BA66FD0A1353C353434F"
+    },
+    {
+      "slug": "el-dorado-lost-city",
+      "url": "https://en.wikipedia.org/wiki/Percy_Fawcett"
+    },
+    {
+      "slug": "el-dorado-lost-city",
+      "url": "https://en.wikipedia.org/wiki/Muisca"
+    },
+    {
+      "slug": "el-dorado-lost-city",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/machu-picchu-mystery&text=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "el-dorado-lost-city",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/machu-picchu-mystery"
+    },
+    {
+      "slug": "el-dorado-lost-city",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/machu-picchu-mystery&title=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "el-dorado-lost-city",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/machu-picchu-mystery&description=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "flannan-isle-lighthouse",
+      "url": "https://pastmysteries.com/posts/flannan-isle-lighthouse"
+    },
+    {
+      "slug": "flannan-isle-lighthouse",
+      "url": "https://en.wikipedia.org/wiki/Flannan_Isles_Lighthouse"
+    },
+    {
+      "slug": "flannan-isle-lighthouse",
+      "url": "https://www.nlb.org.uk/history/flannan-isles/"
+    },
+    {
+      "slug": "flannan-isle-lighthouse",
+      "url": "https://en.wikipedia.org/wiki/Flannan_Isles"
+    },
+    {
+      "slug": "flannan-isle-lighthouse",
+      "url": "https://en.wikipedia.org/wiki/Rogue_wave"
+    },
+    {
+      "slug": "flannan-isle-lighthouse",
+      "url": "https://mulldirectory.co.uk/the-flannan-isles-mystery-and-the-three-men-who-vanished/"
+    },
+    {
+      "slug": "flannan-isle-lighthouse",
+      "url": "https://en.wikipedia.org/wiki/Wilfred_Wilson_Gibson"
+    },
+    {
+      "slug": "flannan-isle-lighthouse",
+      "url": "https://en.wikipedia.org/wiki/Flannan_Isles"
+    },
+    {
+      "slug": "flannan-isle-lighthouse",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/flannan-isle-lighthouse&text=The%20Flannan%20Isle%20Lighthouse%20Mystery%3A%20Three%20Keepers%20Who%20Vanished%20Without%20a%20Trace"
+    },
+    {
+      "slug": "flannan-isle-lighthouse",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/flannan-isle-lighthouse"
+    },
+    {
+      "slug": "flannan-isle-lighthouse",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/flannan-isle-lighthouse&title=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "flannan-isle-lighthouse",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/flannan-isle-lighthouse&description=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "franklin-expedition",
+      "url": "https://pastmysteries.com/posts/franklin-expedition"
+    },
+    {
+      "slug": "franklin-expedition",
+      "url": "https://en.wikipedia.org/wiki/Franklin%27s_lost_expedition"
+    },
+    {
+      "slug": "franklin-expedition",
+      "url": "https://en.wikipedia.org/wiki/John_Rae_(explorer)"
+    },
+    {
+      "slug": "franklin-expedition",
+      "url": "https://www.britannica.com/event/Franklin-expedition"
+    },
+    {
+      "slug": "franklin-expedition",
+      "url": "https://en.wikipedia.org/wiki/Franklin%27s_lost_expedition"
+    },
+    {
+      "slug": "franklin-expedition",
+      "url": "https://en.wikipedia.org/wiki/Franklin%27s_lost_expedition"
+    },
+    {
+      "slug": "franklin-expedition",
+      "url": "https://en.wikipedia.org/wiki/HMS_Erebus_(1826)"
+    },
+    {
+      "slug": "franklin-expedition",
+      "url": "https://www.historyhit.com/terror-in-the-arctic-the-doomed-quest-of-hms-terror-and-erebus/"
+    },
+    {
+      "slug": "franklin-expedition",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/franklin-expedition&text=The%20Franklin%20Expedition%3A%20Arctic%20Ice,%20Lost%20Ships,%20and%20the%20Inuit%20Who%20Knew%20Where%20They%20Were"
+    },
+    {
+      "slug": "franklin-expedition",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/franklin-expedition"
+    },
+    {
+      "slug": "franklin-expedition",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/franklin-expedition&title=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "franklin-expedition",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/franklin-expedition&description=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "ghost-army-wwii",
+      "url": "https://pastmysteries.com/posts/ghost-army-wwii"
+    },
+    {
+      "slug": "ghost-army-wwii",
+      "url": "https://www.ghostarmy.org/history"
+    },
+    {
+      "slug": "ghost-army-wwii",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/ghost-army-wwii&text=The%20Ghost%20Army:%20How%20Fake%20Tanks%20and%20Sound%20Effects%20Helped%20Win%20WWII"
+    },
+    {
+      "slug": "ghost-army-wwii",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/ghost-army-wwii"
+    },
+    {
+      "slug": "ghost-army-wwii",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/ghost-army-wwii&title=The%20Ghost%20Army:%20How%20Fake%20Tanks%20and%20Sound%20Effects%20Helped%20Win%20WWII"
+    },
+    {
+      "slug": "ghost-army-wwii",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/ghost-army-wwii&description=The%20Ghost%20Army:%20How%20Fake%20Tanks%20and%20Sound%20Effects%20Helped%20Win%20WWII"
+    },
+    {
+      "slug": "gobekli-tepe",
+      "url": "https://pastmysteries.com/posts/gobekli-tepe"
+    },
+    {
+      "slug": "gobekli-tepe",
+      "url": "https://www.dainst.org/en/research/projects/noslug/1934"
+    },
+    {
+      "slug": "gobekli-tepe",
+      "url": "https://link.springer.com/article/10.1007/s11104-024-06548-3"
+    },
+    {
+      "slug": "gobekli-tepe",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/gobekli-tepe&text=Gobekli%20Tepe:%20The%20World's%20First%20Temple!"
+    },
+    {
+      "slug": "gobekli-tepe",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/gobekli-tepe"
+    },
+    {
+      "slug": "gobekli-tepe",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/gobekli-tepe&title=Gobekli%20Tepe:%20The%20World's%20First%20Temple!"
+    },
+    {
+      "slug": "gobekli-tepe",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/gobekli-tepe&description=Gobekli%20Tepe:%20The%20World's%20First%20Temple!"
+    },
+    {
+      "slug": "great-emu-war",
+      "url": "https://pastmysteries.com/posts/great-emu-war"
+    },
+    {
+      "slug": "great-emu-war",
+      "url": "https://en.wikipedia.org/wiki/Emu_War"
+    },
+    {
+      "slug": "great-emu-war",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/great-emu-war&text=The%20Great%20Emu%20War:%20When%20Birds%20Defeated%20the%20Army!"
+    },
+    {
+      "slug": "great-emu-war",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/great-emu-war"
+    },
+    {
+      "slug": "great-emu-war",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/great-emu-war&title=The%20Great%20Emu%20War:%20When%20Birds%20Defeated%20the%20Army!"
+    },
+    {
+      "slug": "great-emu-war",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/great-emu-war&description=The%20Great%20Emu%20War:%20When%20Birds%20Defeated%20the%20Army!"
+    },
+    {
+      "slug": "great-sphinx-giza-mystery",
+      "url": "https://pastmysteries.com/posts/great-sphinx-giza-mystery"
+    },
+    {
+      "slug": "great-sphinx-giza-mystery",
+      "url": "https://en.wikipedia.org/wiki/Great_Sphinx_of_Giza"
+    },
+    {
+      "slug": "great-sphinx-giza-mystery",
+      "url": "https://en.wikipedia.org/wiki/Sphinx_water_erosion_hypothesis"
+    },
+    {
+      "slug": "great-sphinx-giza-mystery",
+      "url": "https://en.wikipedia.org/wiki/Dream_Stele"
+    },
+    {
+      "slug": "great-sphinx-giza-mystery",
+      "url": "https://en.wikipedia.org/wiki/Khafre"
+    },
+    {
+      "slug": "great-sphinx-giza-mystery",
+      "url": "https://www.robertschoch.com/sphinx.html"
+    },
+    {
+      "slug": "great-sphinx-giza-mystery",
+      "url": "https://en.wikipedia.org/wiki/Hypatia"
+    },
+    {
+      "slug": "great-sphinx-giza-mystery",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/great-sphinx-giza-mystery&text=The%20Great%20Sphinx%20of%20Giza%3A%20Secrets%20of%20the%20World%27s%20Oldest%20and%20Largest%20Monument"
+    },
+    {
+      "slug": "great-sphinx-giza-mystery",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/great-sphinx-giza-mystery"
+    },
+    {
+      "slug": "great-sphinx-giza-mystery",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/great-sphinx-giza-mystery&title=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "great-sphinx-giza-mystery",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/great-sphinx-giza-mystery&description=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "great-sphinx-giza",
+      "url": "https://pastmysteries.com/posts/great-sphinx-giza"
+    },
+    {
+      "slug": "great-sphinx-giza",
+      "url": "https://en.wikipedia.org/wiki/Great_Sphinx_of_Giza"
+    },
+    {
+      "slug": "great-sphinx-giza",
+      "url": "https://en.wikipedia.org/wiki/Sphinx_water_erosion_hypothesis"
+    },
+    {
+      "slug": "great-sphinx-giza",
+      "url": "https://www.britannica.com/topic/Great-Sphinx"
+    },
+    {
+      "slug": "great-sphinx-giza",
+      "url": "https://www.worldhistory.org/article/236/the-mystery-of-the-great-sphinx/"
+    },
+    {
+      "slug": "great-sphinx-giza",
+      "url": "https://www.robertschoch.com/sphinx.html"
+    },
+    {
+      "slug": "great-sphinx-giza",
+      "url": "https://en.wikipedia.org/wiki/Hall_of_Records"
+    },
+    {
+      "slug": "great-sphinx-giza",
+      "url": "https://madainproject.com/sphinx_tunnels_chambers"
+    },
+    {
+      "slug": "great-sphinx-giza",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/great-sphinx-giza&text=The%20Great%20Sphinx%20of%20Giza%3A%20Who%20Really%20Built%20It%20and%20What%27s%20Hidden%20Beneath%3F"
+    },
+    {
+      "slug": "great-sphinx-giza",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/great-sphinx-giza"
+    },
+    {
+      "slug": "great-sphinx-giza",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/great-sphinx-giza&title=The%20Great%20Sphinx%20of%20Giza%3A%20Who%20Really%20Built%20It%20and%20What%27s%20Hidden%20Beneath%3F"
+    },
+    {
+      "slug": "great-sphinx-giza",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/great-sphinx-giza&description=The%20Great%20Sphinx%20of%20Giza%3A%20Who%20Really%20Built%20It%20and%20What%27s%20Hidden%20Beneath%3F"
+    },
+    {
+      "slug": "hessdalen-lights",
+      "url": "https://pastmysteries.com/posts/hessdalen-lights"
+    },
+    {
+      "slug": "hessdalen-lights",
+      "url": "https://en.wikipedia.org/wiki/Hessdalen_lights"
+    },
+    {
+      "slug": "hessdalen-lights",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/hessdalen-lights&text=The%20Hessdalen%20Lights%20-%20Mystery%20History"
+    },
+    {
+      "slug": "hessdalen-lights",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/hessdalen-lights"
+    },
+    {
+      "slug": "hessdalen-lights",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/hessdalen-lights&title=The%20Hessdalen%20Lights%20-%20Mystery%20History"
+    },
+    {
+      "slug": "hessdalen-lights",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/hessdalen-lights&description=The%20Hessdalen%20Lights%20-%20Mystery%20History"
+    },
+    {
+      "slug": "indus-valley-civilization",
+      "url": "https://pastmysteries.com/posts/indus-valley-civilization"
+    },
+    {
+      "slug": "indus-valley-civilization",
+      "url": "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation"
+    },
+    {
+      "slug": "indus-valley-civilization",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/indus-valley-civilization&text=Indus%20Valley%20Civilization:%20Cities%20Before%20Their%20Time!"
+    },
+    {
+      "slug": "indus-valley-civilization",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/indus-valley-civilization"
+    },
+    {
+      "slug": "indus-valley-civilization",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/indus-valley-civilization&title=Indus%20Valley%20Civilization:%20Cities%20Before%20Their%20Time!"
+    },
+    {
+      "slug": "indus-valley-civilization",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/indus-valley-civilization&description=Indus%20Valley%20Civilization:%20Cities%20Before%20Their%20Time!"
+    },
+    {
+      "slug": "jack-the-ripper",
+      "url": "https://pastmysteries.com/posts/jack-the-ripper"
+    },
+    {
+      "slug": "jack-the-ripper",
+      "url": "https://en.wikipedia.org/wiki/Jack_the_Ripper"
+    },
+    {
+      "slug": "jack-the-ripper",
+      "url": "https://www.britannica.com/biography/Jack-the-Ripper"
+    },
+    {
+      "slug": "jack-the-ripper",
+      "url": "https://www.history.com/topics/crime/jack-the-ripper"
+    },
+    {
+      "slug": "jack-the-ripper",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/jack-the-ripper&text=Jack%20the%20Ripper%3A%20The%20Victorian%20Killer%20Whose%20Identity%20Remains%20a%20Mystery"
+    },
+    {
+      "slug": "jack-the-ripper",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/jack-the-ripper"
+    },
+    {
+      "slug": "jack-the-ripper",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/jack-the-ripper&title=Jack%20the%20Ripper%3A%20The%20Victorian%20Killer%20Whose%20Identity%20Remains%20a%20Mystery"
+    },
+    {
+      "slug": "jack-the-ripper",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/jack-the-ripper&description=Jack%20the%20Ripper%3A%20The%20Victorian%20Killer%20Whose%20Identity%20Remains%20a%20Mystery"
+    },
+    {
+      "slug": "library-of-alexandria",
+      "url": "https://pastmysteries.com/posts/library-of-alexandria"
+    },
+    {
+      "slug": "library-of-alexandria",
+      "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria"
+    },
+    {
+      "slug": "library-of-alexandria",
+      "url": "https://en.wikipedia.org/wiki/Hypatia"
+    },
+    {
+      "slug": "library-of-alexandria",
+      "url": "https://en.wikipedia.org/wiki/Mouseion"
+    },
+    {
+      "slug": "library-of-alexandria",
+      "url": "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria"
+    },
+    {
+      "slug": "library-of-alexandria",
+      "url": "https://en.wikipedia.org/wiki/Bibliotheca_Alexandrina"
+    },
+    {
+      "slug": "library-of-alexandria",
+      "url": "https://en.wikipedia.org/wiki/Eratosthenes"
+    },
+    {
+      "slug": "library-of-alexandria",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/library-of-alexandria&text=The%20Library%20of%20Alexandria%3A%20The%20Greatest%20Collection%20of%20Knowledge%20the%20Ancient%20World%20Ever%20Knew"
+    },
+    {
+      "slug": "library-of-alexandria",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/library-of-alexandria"
+    },
+    {
+      "slug": "library-of-alexandria",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/library-of-alexandria&title=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "library-of-alexandria",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/library-of-alexandria&description=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "loch-ness-monster",
+      "url": "https://pastmysteries.com/posts/loch-ness-monster"
+    },
+    {
+      "slug": "loch-ness-monster",
+      "url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster"
+    },
+    {
+      "slug": "loch-ness-monster",
+      "url": "https://www.britannica.com/topic/Loch-Ness-monster"
+    },
+    {
+      "slug": "loch-ness-monster",
+      "url": "https://www.bbc.com/news/uk-scotland-highlands-islands-49495145"
+    },
+    {
+      "slug": "loch-ness-monster",
+      "url": "https://www.pbs.org/wgbh/nova/lochness/legend2.html"
+    },
+    {
+      "slug": "loch-ness-monster",
+      "url": "https://en.wikipedia.org/wiki/Robert_Kenneth_Wilson"
+    },
+    {
+      "slug": "loch-ness-monster",
+      "url": "https://www.scientificamerican.com/blog/tetrapod-zoology/photos-of-the-loch-ness-monster-revisited/"
+    },
+    {
+      "slug": "loch-ness-monster",
+      "url": "https://www.discoveryuk.com/mysteries/is-the-loch-ness-monster-real/"
+    },
+    {
+      "slug": "loch-ness-monster",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/machu-picchu-mystery&text=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "loch-ness-monster",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/machu-picchu-mystery"
+    },
+    {
+      "slug": "loch-ness-monster",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/machu-picchu-mystery&title=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "loch-ness-monster",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/machu-picchu-mystery&description=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "london-beer-flood",
+      "url": "https://pastmysteries.com/posts/london-beer-flood"
+    },
+    {
+      "slug": "london-beer-flood",
+      "url": "https://en.wikipedia.org/wiki/London_Beer_Flood"
+    },
+    {
+      "slug": "london-beer-flood",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/london-beer-flood&text=The%20London%20Beer%20Flood%20of%201814:%20A%20Wave%20of%20Destruction"
+    },
+    {
+      "slug": "london-beer-flood",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/london-beer-flood"
+    },
+    {
+      "slug": "london-beer-flood",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/london-beer-flood&title=The%20London%20Beer%20Flood%20of%201814:%20A%20Wave%20of%20Destruction"
+    },
+    {
+      "slug": "london-beer-flood",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/london-beer-flood&description=The%20London%20Beer%20Flood%20of%201814:%20A%20Wave%20of%20Destruction"
+    },
+    {
+      "slug": "lost-city-atlantis-plato",
+      "url": "https://pastmysteries.com/posts/lost-city-atlantis-plato"
+    },
+    {
+      "slug": "lost-city-atlantis-plato",
+      "url": "https://en.wikipedia.org/wiki/Atlantis"
+    },
+    {
+      "slug": "lost-city-atlantis-plato",
+      "url": "https://en.wikipedia.org/wiki/Minoan_eruption"
+    },
+    {
+      "slug": "lost-city-atlantis-plato",
+      "url": "https://en.wikipedia.org/wiki/Minoan_civilization"
+    },
+    {
+      "slug": "lost-city-atlantis-plato",
+      "url": "https://en.wikipedia.org/wiki/Ignatius_L._Donnelly"
+    },
+    {
+      "slug": "lost-city-atlantis-plato",
+      "url": "https://en.wikipedia.org/wiki/Plato"
+    },
+    {
+      "slug": "lost-city-atlantis-plato",
+      "url": "https://en.wikipedia.org/wiki/Helike"
+    },
+    {
+      "slug": "lost-city-atlantis-plato",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/lost-city-atlantis-plato&text=The%20Lost%20City%20of%20Atlantis%3A%20Plato%27s%20Ancient%20Warning%20About%20Hubris%20and%20Cataclysm"
+    },
+    {
+      "slug": "lost-city-atlantis-plato",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/lost-city-atlantis-plato"
+    },
+    {
+      "slug": "lost-city-atlantis-plato",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/lost-city-atlantis-plato&title=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "lost-city-atlantis-plato",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/lost-city-atlantis-plato&description=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "lost-city-atlantis",
+      "url": "https://pastmysteries.com/posts/lost-city-atlantis"
+    },
+    {
+      "slug": "lost-city-atlantis",
+      "url": "https://en.wikipedia.org/wiki/Atlantis"
+    },
+    {
+      "slug": "lost-city-atlantis",
+      "url": "https://www.britannica.com/topic/Atlantis-legendary-island"
+    },
+    {
+      "slug": "lost-city-atlantis",
+      "url": "https://en.wikipedia.org/wiki/Proposed_locations_for_Atlantis"
+    },
+    {
+      "slug": "lost-city-atlantis",
+      "url": "https://akrotiri-museum.com/2023/08/29/atlantis-and-santorini-connecting-myths-and-geology/"
+    },
+    {
+      "slug": "lost-city-atlantis",
+      "url": "https://classics.mit.edu/Plato/critias.html"
+    },
+    {
+      "slug": "lost-city-atlantis",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/lost-city-atlantis&text=The%20Lost%20City%20of%20Atlantis%3A%20Myth,%20Memory,%20or%20the%20Greatest%20Cover-Up%20in%20History%3F"
+    },
+    {
+      "slug": "lost-city-atlantis",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/lost-city-atlantis"
+    },
+    {
+      "slug": "lost-city-atlantis",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/lost-city-atlantis&title=The%20Lost%20City%20of%20Atlantis%3A%20Myth,%20Memory,%20or%20the%20Greatest%20Cover-Up%20in%20History%3F"
+    },
+    {
+      "slug": "lost-city-atlantis",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/lost-city-atlantis&description=The%20Lost%20City%20of%20Atlantis%3A%20Myth,%20Memory,%20or%20the%20Greatest%20Cover-Up%20in%20History%3F"
+    },
+    {
+      "slug": "lost-faberge-eggs",
+      "url": "https://pastmysteries.com/posts/lost-faberge-eggs"
+    },
+    {
+      "slug": "lost-faberge-eggs",
+      "url": "https://en.wikipedia.org/wiki/House_of_Faberg%C3%A9"
+    },
+    {
+      "slug": "lost-faberge-eggs",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/lost-faberge-eggs&text=The%20Lost%20Faberg\u00e9%20Eggs:%20A%20Royal%20Treasure%20Hunt!"
+    },
+    {
+      "slug": "lost-faberge-eggs",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/lost-faberge-eggs"
+    },
+    {
+      "slug": "lost-faberge-eggs",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/lost-faberge-eggs&title=The%20Lost%20Faberg\u00e9%20Eggs:%20A%20Royal%20Treasure%20Hunt!"
+    },
+    {
+      "slug": "lost-faberge-eggs",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/lost-faberge-eggs&description=The%20Lost%20Faberg\u00e9%20Eggs:%20A%20Royal%20Treasure%20Hunt!"
+    },
+    {
+      "slug": "machu-picchu-mystery",
+      "url": "https://pastmysteries.com/posts/machu-picchu-mystery"
+    },
+    {
+      "slug": "machu-picchu-mystery",
+      "url": "https://en.wikipedia.org/wiki/Machu_Picchu"
+    },
+    {
+      "slug": "machu-picchu-mystery",
+      "url": "https://www.britannica.com/place/Machu-Picchu"
+    },
+    {
+      "slug": "machu-picchu-mystery",
+      "url": "https://www.worldhistory.org/Machu_Picchu/"
+    },
+    {
+      "slug": "machu-picchu-mystery",
+      "url": "https://www.history.com/articles/machu-picchu"
+    },
+    {
+      "slug": "machu-picchu-mystery",
+      "url": "https://www.history.com/this-day-in-history/July-24/machu-picchu-discovered"
+    },
+    {
+      "slug": "machu-picchu-mystery",
+      "url": "https://www.history.com/articles/machu-picchu-construction"
+    },
+    {
+      "slug": "machu-picchu-mystery",
+      "url": "https://en.wikipedia.org/wiki/Hiram_Bingham_III"
+    },
+    {
+      "slug": "machu-picchu-mystery",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/machu-picchu-mystery&text=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "machu-picchu-mystery",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/machu-picchu-mystery"
+    },
+    {
+      "slug": "machu-picchu-mystery",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/machu-picchu-mystery&title=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "machu-picchu-mystery",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/machu-picchu-mystery&description=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "mandela-effect",
+      "url": "https://pastmysteries.com/posts/mandela-effect"
+    },
+    {
+      "slug": "mandela-effect",
+      "url": "https://en.wikipedia.org/wiki/Mandela_Effect"
+    },
+    {
+      "slug": "mandela-effect",
+      "url": "https://www.britannica.com/science/Mandela-effect"
+    },
+    {
+      "slug": "mandela-effect",
+      "url": "https://en.wikipedia.org/wiki/False_memory"
+    },
+    {
+      "slug": "mandela-effect",
+      "url": "https://en.wikipedia.org/wiki/Elisabeth_Loftus"
+    },
+    {
+      "slug": "mandela-effect",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.954964/full"
+    },
+    {
+      "slug": "mandela-effect",
+      "url": "https://www.britannica.com/science/false-memory"
+    },
+    {
+      "slug": "mandela-effect",
+      "url": "https://en.wikipedia.org/wiki/Many-worlds_interpretation"
+    },
+    {
+      "slug": "mandela-effect",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/machu-picchu-mystery&text=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "mandela-effect",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/machu-picchu-mystery"
+    },
+    {
+      "slug": "mandela-effect",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/machu-picchu-mystery&title=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "mandela-effect",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/machu-picchu-mystery&description=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "marfa-lights",
+      "url": "https://pastmysteries.com/posts/marfa-lights"
+    },
+    {
+      "slug": "marfa-lights",
+      "url": "https://en.wikipedia.org/wiki/Marfa_lights"
+    },
+    {
+      "slug": "marfa-lights",
+      "url": "https://www.tshaonline.org/handbook/entries/marfa-lights"
+    },
+    {
+      "slug": "marfa-lights",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/marfa-lights&text=The%20Marfa%20Lights:%20Texas%20Desert's%20Glowing%20Mystery"
+    },
+    {
+      "slug": "marfa-lights",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/marfa-lights"
+    },
+    {
+      "slug": "marfa-lights",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/marfa-lights&title=The%20Marfa%20Lights:%20Texas%20Desert's%20Glowing%20Mystery"
+    },
+    {
+      "slug": "marfa-lights",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/marfa-lights&description=The%20Marfa%20Lights:%20Texas%20Desert's%20Glowing%20Mystery"
+    },
+    {
+      "slug": "mary-celeste-ghost-ship",
+      "url": "https://pastmysteries.com/posts/mary-celeste-ghost-ship"
+    },
+    {
+      "slug": "mary-celeste-ghost-ship",
+      "url": "https://en.wikipedia.org/wiki/Mary_Celeste"
+    },
+    {
+      "slug": "mary-celeste-ghost-ship",
+      "url": "https://www.britannica.com/topic/Mary-Celeste"
+    },
+    {
+      "slug": "mary-celeste-ghost-ship",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/mary-celeste-ghost-ship&text=The%20Mary%20Celeste:%20History's%20Greatest%20Ghost%20Ship%20Mystery"
+    },
+    {
+      "slug": "mary-celeste-ghost-ship",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/mary-celeste-ghost-ship"
+    },
+    {
+      "slug": "mary-celeste-ghost-ship",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/mary-celeste-ghost-ship&title=The%20Mary%20Celeste:%20History's%20Greatest%20Ghost%20Ship%20Mystery"
+    },
+    {
+      "slug": "mary-celeste-ghost-ship",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/mary-celeste-ghost-ship&description=The%20Mary%20Celeste:%20History's%20Greatest%20Ghost%20Ship%20Mystery"
+    },
+    {
+      "slug": "mary-celeste",
+      "url": "https://pastmysteries.com/posts/mary-celeste"
+    },
+    {
+      "slug": "mary-celeste",
+      "url": "https://en.wikipedia.org/wiki/Mary_Celeste"
+    },
+    {
+      "slug": "mary-celeste",
+      "url": "https://en.wikipedia.org/wiki/J._Habakuk_Jephson%27s_Statement"
+    },
+    {
+      "slug": "mary-celeste",
+      "url": "https://en.wikipedia.org/wiki/David_Morehouse"
+    },
+    {
+      "slug": "mary-celeste",
+      "url": "https://en.wikipedia.org/wiki/Ghost_ship"
+    },
+    {
+      "slug": "mary-celeste",
+      "url": "https://allthatsinteresting.com/mary-celeste"
+    },
+    {
+      "slug": "mary-celeste",
+      "url": "https://en.wikipedia.org/wiki/Brigantine"
+    },
+    {
+      "slug": "mary-celeste",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/mary-celeste&text=The%20Mystery%20of%20the%20Mary%20Celeste%3A%20History%27s%20Most%20Famous%20Ghost%20Ship"
+    },
+    {
+      "slug": "mary-celeste",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/mary-celeste"
+    },
+    {
+      "slug": "mary-celeste",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/mary-celeste&title=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "mary-celeste",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/mary-celeste&description=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "minoan-civilization-collapse",
+      "url": "https://pastmysteries.com/posts/minoan-civilization-collapse"
+    },
+    {
+      "slug": "minoan-civilization-collapse",
+      "url": "https://en.wikipedia.org/wiki/Minoan_civilization"
+    },
+    {
+      "slug": "minoan-civilization-collapse",
+      "url": "https://en.wikipedia.org/wiki/Minoan_eruption"
+    },
+    {
+      "slug": "minoan-civilization-collapse",
+      "url": "https://www.britannica.com/topic/Minoan-civilization"
+    },
+    {
+      "slug": "minoan-civilization-collapse",
+      "url": "https://en.wikipedia.org/wiki/Akrotiri_(Santorini)"
+    },
+    {
+      "slug": "minoan-civilization-collapse",
+      "url": "https://theyorkhistorian.com/2025/04/24/the-collapse-of-minoan-civilisation-a-geological-anthropological-or-meteorological-phenomenon/"
+    },
+    {
+      "slug": "minoan-civilization-collapse",
+      "url": "https://en.wikipedia.org/wiki/Knossos"
+    },
+    {
+      "slug": "minoan-civilization-collapse",
+      "url": "https://en.wikipedia.org/wiki/Linear_A"
+    },
+    {
+      "slug": "minoan-civilization-collapse",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/minoan-civilization-collapse&text=The%20Fall%20of%20the%20Minoans%3A%20How%20Earth%27s%20Biggest%20Eruption%20Toppled%20a%20Civilization"
+    },
+    {
+      "slug": "minoan-civilization-collapse",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/minoan-civilization-collapse"
+    },
+    {
+      "slug": "minoan-civilization-collapse",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/minoan-civilization-collapse&title=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "minoan-civilization-collapse",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/minoan-civilization-collapse&description=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "molasses-flood",
+      "url": "https://pastmysteries.com/posts/molasses-flood"
+    },
+    {
+      "slug": "molasses-flood",
+      "url": "https://en.wikipedia.org/wiki/Great_Molasses_Flood"
+    },
+    {
+      "slug": "molasses-flood",
+      "url": "https://www.masshist.org/database/1696"
+    },
+    {
+      "slug": "molasses-flood",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/molasses-flood&text=The%20Great%20Molasses%20Flood%20-%20Mystery%20History"
+    },
+    {
+      "slug": "molasses-flood",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/molasses-flood"
+    },
+    {
+      "slug": "molasses-flood",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/molasses-flood&title=The%20Great%20Molasses%20Flood%20-%20Mystery%20History"
+    },
+    {
+      "slug": "molasses-flood",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/molasses-flood&description=The%20Great%20Molasses%20Flood%20-%20Mystery%20History"
+    },
+    {
+      "slug": "mothman-point-pleasant",
+      "url": "https://pastmysteries.com/posts/mothman-point-pleasant"
+    },
+    {
+      "slug": "mothman-point-pleasant",
+      "url": "https://en.wikipedia.org/wiki/Mothman"
+    },
+    {
+      "slug": "mothman-point-pleasant",
+      "url": "https://en.wikipedia.org/wiki/Silver_Bridge"
+    },
+    {
+      "slug": "mothman-point-pleasant",
+      "url": "https://www.ntsb.gov/investigations/Pages/80267.aspx"
+    },
+    {
+      "slug": "mothman-point-pleasant",
+      "url": "https://www.britannica.com/topic/Mothman"
+    },
+    {
+      "slug": "mothman-point-pleasant",
+      "url": "https://allthatsinteresting.com/mothman"
+    },
+    {
+      "slug": "mothman-point-pleasant",
+      "url": "https://en.wikipedia.org/wiki/John_Keel"
+    },
+    {
+      "slug": "mothman-point-pleasant",
+      "url": "https://en.wikipedia.org/wiki/Flatwoods_monster"
+    },
+    {
+      "slug": "mothman-point-pleasant",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/machu-picchu-mystery&text=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "mothman-point-pleasant",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/machu-picchu-mystery"
+    },
+    {
+      "slug": "mothman-point-pleasant",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/machu-picchu-mystery&title=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "mothman-point-pleasant",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/machu-picchu-mystery&description=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "mysterious-monoliths",
+      "url": "https://pastmysteries.com/posts/mysterious-monoliths"
+    },
+    {
+      "slug": "mysterious-monoliths",
+      "url": "https://www.smithsonianmag.com/smart-news/utah-monolith-2020-explained/"
+    },
+    {
+      "slug": "mysterious-monoliths",
+      "url": "https://www.nytimes.com/2020/12/05/style/utah-monolith.html"
+    },
+    {
+      "slug": "mysterious-monoliths",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/mysterious-monoliths&text=The%20Mysterious%20Monoliths:%20Metal%20Pillars%20from%20Nowhere"
+    },
+    {
+      "slug": "mysterious-monoliths",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/mysterious-monoliths"
+    },
+    {
+      "slug": "mysterious-monoliths",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/mysterious-monoliths&title=The%20Mysterious%20Monoliths:%20Metal%20Pillars%20from%20Nowhere"
+    },
+    {
+      "slug": "mysterious-monoliths",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/mysterious-monoliths&description=The%20Mysterious%20Monoliths:%20Metal%20Pillars%20from%20Nowhere"
+    },
+    {
+      "slug": "nazca-lines-peru",
+      "url": "https://pastmysteries.com/posts/nazca-lines-peru"
+    },
+    {
+      "slug": "nazca-lines-peru",
+      "url": "https://en.wikipedia.org/wiki/Nazca_lines"
+    },
+    {
+      "slug": "nazca-lines-peru",
+      "url": "https://en.wikipedia.org/wiki/Maria_Reiche"
+    },
+    {
+      "slug": "nazca-lines-peru",
+      "url": "https://en.wikipedia.org/wiki/Nazca_culture"
+    },
+    {
+      "slug": "nazca-lines-peru",
+      "url": "https://whc.unesco.org/en/list/700"
+    },
+    {
+      "slug": "nazca-lines-peru",
+      "url": "https://en.wikipedia.org/wiki/Erich_von_D%C3%A4niken"
+    },
+    {
+      "slug": "nazca-lines-peru",
+      "url": "https://en.wikipedia.org/wiki/Geoglyph"
+    },
+    {
+      "slug": "nazca-lines-peru",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/nazca-lines-peru&text=The%20Nazca%20Lines%3A%20Ancient%20Desert%20Geoglyphs%20That%20Can%20Only%20Be%20Fully%20Seen%20From%20the%20Sky"
+    },
+    {
+      "slug": "nazca-lines-peru",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/nazca-lines-peru"
+    },
+    {
+      "slug": "nazca-lines-peru",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/nazca-lines-peru&title=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "nazca-lines-peru",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/nazca-lines-peru&description=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "nazca-lines",
+      "url": "https://pastmysteries.com/posts/nazca-lines"
+    },
+    {
+      "slug": "nazca-lines",
+      "url": "https://en.wikipedia.org/wiki/Nazca_lines"
+    },
+    {
+      "slug": "nazca-lines",
+      "url": "https://whc.unesco.org/en/list/700"
+    },
+    {
+      "slug": "nazca-lines",
+      "url": "https://www.britannica.com/topic/Nazca-Lines"
+    },
+    {
+      "slug": "nazca-lines",
+      "url": "https://en.wikipedia.org/wiki/Maria_Reiche"
+    },
+    {
+      "slug": "nazca-lines",
+      "url": "https://en.wikipedia.org/wiki/Nazca_culture"
+    },
+    {
+      "slug": "nazca-lines",
+      "url": "https://archive.archaeology.org/issues/447-2109/trenches/"
+    },
+    {
+      "slug": "nazca-lines",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/nazca-lines&text=The%20Nazca%20Lines%3A%20Giant%20Desert%20Drawings%20That%20Can%20Only%20Be%20Fully%20Seen%20From%20the%20Sky"
+    },
+    {
+      "slug": "nazca-lines",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/nazca-lines"
+    },
+    {
+      "slug": "nazca-lines",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/nazca-lines&title=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "nazca-lines",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/nazca-lines&description=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "new-england-vampire-panic",
+      "url": "https://pastmysteries.com/posts/new-england-vampire-panic"
+    },
+    {
+      "slug": "new-england-vampire-panic",
+      "url": "https://en.wikipedia.org/wiki/Mercy_Brown_vampire_incident"
+    },
+    {
+      "slug": "new-england-vampire-panic",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/new-england-vampire-panic&text=The%20New%20England%20Vampire%20Panic%20of%201892"
+    },
+    {
+      "slug": "new-england-vampire-panic",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/new-england-vampire-panic"
+    },
+    {
+      "slug": "new-england-vampire-panic",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/new-england-vampire-panic&title=The%20New%20England%20Vampire%20Panic%20of%201892"
+    },
+    {
+      "slug": "new-england-vampire-panic",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/new-england-vampire-panic&description=The%20New%20England%20Vampire%20Panic%20of%201892"
+    },
+    {
+      "slug": "new-jersey-drones-mystery",
+      "url": "https://pastmysteries.com/posts/new-jersey-drones-mystery"
+    },
+    {
+      "slug": "new-jersey-drones-mystery",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/new-jersey-drones-mystery&text=New%20Jersey%20Drones:%20The%20Mystery%20in%20the%20Sky!"
+    },
+    {
+      "slug": "new-jersey-drones-mystery",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/new-jersey-drones-mystery"
+    },
+    {
+      "slug": "new-jersey-drones-mystery",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/new-jersey-drones-mystery&title=New%20Jersey%20Drones:%20The%20Mystery%20in%20the%20Sky!"
+    },
+    {
+      "slug": "new-jersey-drones-mystery",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/new-jersey-drones-mystery&description=New%20Jersey%20Drones:%20The%20Mystery%20in%20the%20Sky!"
+    },
+    {
+      "slug": "oak-island-money-pit-nova-scotia",
+      "url": "https://pastmysteries.com/posts/oak-island-money-pit-nova-scotia"
+    },
+    {
+      "slug": "oak-island-money-pit-nova-scotia",
+      "url": "https://en.wikipedia.org/wiki/Oak_Island_mystery"
+    },
+    {
+      "slug": "oak-island-money-pit-nova-scotia",
+      "url": "https://en.wikipedia.org/wiki/Oak_Island"
+    },
+    {
+      "slug": "oak-island-money-pit-nova-scotia",
+      "url": "https://en.wikipedia.org/wiki/The_Curse_of_Oak_Island"
+    },
+    {
+      "slug": "oak-island-money-pit-nova-scotia",
+      "url": "https://en.wikipedia.org/wiki/Knights_Templar"
+    },
+    {
+      "slug": "oak-island-money-pit-nova-scotia",
+      "url": "https://en.wikipedia.org/wiki/William_Kidd"
+    },
+    {
+      "slug": "oak-island-money-pit-nova-scotia",
+      "url": "https://en.wikipedia.org/wiki/Sinkhole"
+    },
+    {
+      "slug": "oak-island-money-pit-nova-scotia",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/oak-island-money-pit-nova-scotia&text=The%20Oak%20Island%20Money%20Pit%3A%20200%20Years%20of%20Treasure%20Hunting%20and%20the%20World%27s%20Most%20Famous%20Hole"
+    },
+    {
+      "slug": "oak-island-money-pit-nova-scotia",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/oak-island-money-pit-nova-scotia"
+    },
+    {
+      "slug": "oak-island-money-pit-nova-scotia",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/oak-island-money-pit-nova-scotia&title=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "oak-island-money-pit-nova-scotia",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/oak-island-money-pit-nova-scotia&description=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "oak-island-money-pit",
+      "url": "https://pastmysteries.com/posts/oak-island-money-pit"
+    },
+    {
+      "slug": "oak-island-money-pit",
+      "url": "https://www.history.com/shows/the-curse-of-oak-island"
+    },
+    {
+      "slug": "oak-island-money-pit",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/oak-island-money-pit&text=The%20Oak%20Island%20Money%20Pit:%20200%20Years%20of%20Treasure%20Hunting"
+    },
+    {
+      "slug": "oak-island-money-pit",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/oak-island-money-pit"
+    },
+    {
+      "slug": "oak-island-money-pit",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/oak-island-money-pit&title=The%20Oak%20Island%20Money%20Pit:%20200%20Years%20of%20Treasure%20Hunting"
+    },
+    {
+      "slug": "oak-island-money-pit",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/oak-island-money-pit&description=The%20Oak%20Island%20Money%20Pit:%20200%20Years%20of%20Treasure%20Hunting"
+    },
+    {
+      "slug": "pentagon-uap-reports",
+      "url": "https://pastmysteries.com/posts/pentagon-uap-reports"
+    },
+    {
+      "slug": "pentagon-uap-reports",
+      "url": "https://www.defense.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/"
+    },
+    {
+      "slug": "pentagon-uap-reports",
+      "url": "https://science.nasa.gov/uap"
+    },
+    {
+      "slug": "pentagon-uap-reports",
+      "url": "https://oversight.house.gov/release/hearing-wrap-up-transparency-and-accountability-needed-to-provide-accurate-information-on-uaps-to-the-american-people%EF%BF%BC/"
+    },
+    {
+      "slug": "pentagon-uap-reports",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/pentagon-uap-reports&text=Pentagon%20UAP%20Reports%202024:%20What%20Does%20the%20Government%20Know?"
+    },
+    {
+      "slug": "pentagon-uap-reports",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/pentagon-uap-reports"
+    },
+    {
+      "slug": "pentagon-uap-reports",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/pentagon-uap-reports&title=Pentagon%20UAP%20Reports%202024:%20What%20Does%20the%20Government%20Know?"
+    },
+    {
+      "slug": "pentagon-uap-reports",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/pentagon-uap-reports&description=Pentagon%20UAP%20Reports%202024:%20What%20Does%20the%20Government%20Know?"
+    },
+    {
+      "slug": "philadelphia-experiment",
+      "url": "https://pastmysteries.com/posts/philadelphia-experiment"
+    },
+    {
+      "slug": "philadelphia-experiment",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/philadelphia-experiment&text=The%20Philadelphia%20Experiment:%20Did%20the%20Navy%20Make%20a%20Ship%20Invisible?"
+    },
+    {
+      "slug": "philadelphia-experiment",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/philadelphia-experiment"
+    },
+    {
+      "slug": "philadelphia-experiment",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/philadelphia-experiment&title=The%20Philadelphia%20Experiment:%20Did%20the%20Navy%20Make%20a%20Ship%20Invisible?"
+    },
+    {
+      "slug": "philadelphia-experiment",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/philadelphia-experiment&description=The%20Philadelphia%20Experiment:%20Did%20the%20Navy%20Make%20a%20Ship%20Invisible?"
+    },
+    {
+      "slug": "phoenix-lights-ufo",
+      "url": "https://pastmysteries.com/posts/phoenix-lights-ufo"
+    },
+    {
+      "slug": "phoenix-lights-ufo",
+      "url": "https://en.wikipedia.org/wiki/Phoenix_Lights"
+    },
+    {
+      "slug": "phoenix-lights-ufo",
+      "url": "https://www.azcentral.com/story/news/local/phoenix/2017/03/12/phoenix-lights-20th-anniversary-1997-ufo-sightings-still-mystery/99063798/"
+    },
+    {
+      "slug": "phoenix-lights-ufo",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/phoenix-lights-ufo&text=The%20Phoenix%20Lights:%20Arizona's%20Massive%201997%20UFO%20Sighting"
+    },
+    {
+      "slug": "phoenix-lights-ufo",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/phoenix-lights-ufo"
+    },
+    {
+      "slug": "phoenix-lights-ufo",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/phoenix-lights-ufo&title=The%20Phoenix%20Lights:%20Arizona's%20Massive%201997%20UFO%20Sighting"
+    },
+    {
+      "slug": "phoenix-lights-ufo",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/phoenix-lights-ufo&description=The%20Phoenix%20Lights:%20Arizona's%20Massive%201997%20UFO%20Sighting"
+    },
+    {
+      "slug": "pompeii-eruption",
+      "url": "https://pastmysteries.com/posts/pompeii-eruption"
+    },
+    {
+      "slug": "pompeii-eruption",
+      "url": "https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD"
+    },
+    {
+      "slug": "pompeii-eruption",
+      "url": "https://en.wikipedia.org/wiki/Pompeii"
+    },
+    {
+      "slug": "pompeii-eruption",
+      "url": "https://www.britannica.com/place/Pompeii"
+    },
+    {
+      "slug": "pompeii-eruption",
+      "url": "https://pompeiisites.org/en/pompeii-map/analysis/the-casts/"
+    },
+    {
+      "slug": "pompeii-eruption",
+      "url": "https://en.wikipedia.org/wiki/Villa_of_the_Papyri"
+    },
+    {
+      "slug": "pompeii-eruption",
+      "url": "https://en.wikipedia.org/wiki/Giuseppe_Fiorelli"
+    },
+    {
+      "slug": "pompeii-eruption",
+      "url": "https://www.britannica.com/place/Pompeii/Daily-life"
+    },
+    {
+      "slug": "pompeii-eruption",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/machu-picchu-mystery&text=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "pompeii-eruption",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/machu-picchu-mystery"
+    },
+    {
+      "slug": "pompeii-eruption",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/machu-picchu-mystery&title=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "pompeii-eruption",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/machu-picchu-mystery&description=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "princes-in-tower",
+      "url": "https://pastmysteries.com/posts/princes-in-tower"
+    },
+    {
+      "slug": "princes-in-tower",
+      "url": "https://en.wikipedia.org/wiki/Princes_in_the_Tower"
+    },
+    {
+      "slug": "princes-in-tower",
+      "url": "https://en.wikipedia.org/wiki/Edward_V"
+    },
+    {
+      "slug": "princes-in-tower",
+      "url": "https://www.britannica.com/biography/Richard-III-king-of-England"
+    },
+    {
+      "slug": "princes-in-tower",
+      "url": "https://revealingrichardiii.com/langley.html"
+    },
+    {
+      "slug": "princes-in-tower",
+      "url": "https://en.wikipedia.org/wiki/Richard_III_of_England"
+    },
+    {
+      "slug": "princes-in-tower",
+      "url": "https://www.britannica.com/biography/Richard-III-king-of-England"
+    },
+    {
+      "slug": "princes-in-tower",
+      "url": "https://en.wikipedia.org/wiki/Titulus_Regius"
+    },
+    {
+      "slug": "princes-in-tower",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/princes-in-tower&text=The%20Princes%20in%20the%20Tower%3A%20England%27s%20Most%20Enduring%20Royal%20Mystery"
+    },
+    {
+      "slug": "princes-in-tower",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/princes-in-tower"
+    },
+    {
+      "slug": "princes-in-tower",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/princes-in-tower&title=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "princes-in-tower",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/princes-in-tower&description=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "pyramids-of-giza",
+      "url": "https://pastmysteries.com/posts/pyramids-of-giza"
+    },
+    {
+      "slug": "pyramids-of-giza",
+      "url": "https://www.britannica.com/topic/Great-Pyramid-of-Giza"
+    },
+    {
+      "slug": "pyramids-of-giza",
+      "url": "https://www.history.com/topics/ancient-history/the-egyptian-pyramids"
+    },
+    {
+      "slug": "pyramids-of-giza",
+      "url": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza"
+    },
+    {
+      "slug": "pyramids-of-giza",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/pyramids-of-giza&text=How%20Were%20the%20Pyramids%20Built%3F%20The%20Great%20Pyramid%20Mystery%20That%20Endures"
+    },
+    {
+      "slug": "pyramids-of-giza",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/pyramids-of-giza"
+    },
+    {
+      "slug": "pyramids-of-giza",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/pyramids-of-giza&title=How%20Were%20the%20Pyramids%20Built%3F%20The%20Great%20Pyramid%20Mystery%20That%20Endures"
+    },
+    {
+      "slug": "pyramids-of-giza",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/pyramids-of-giza&description=How%20Were%20the%20Pyramids%20Built%3F%20The%20Great%20Pyramid%20Mystery%20That%20Endures"
+    },
+    {
+      "slug": "roanoke-colony",
+      "url": "https://pastmysteries.com/posts/roanoke-colony"
+    },
+    {
+      "slug": "roanoke-colony",
+      "url": "https://www.nps.gov/fora/learn/historyculture/the-lost-colony.htm"
+    },
+    {
+      "slug": "roanoke-colony",
+      "url": "https://en.wikipedia.org/wiki/Roanoke_Colony"
+    },
+    {
+      "slug": "roanoke-colony",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/roanoke-colony&text=The%20Lost%20Colony%20of%20Roanoke:%20America's%20Oldest%20Mystery"
+    },
+    {
+      "slug": "roanoke-colony",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/roanoke-colony"
+    },
+    {
+      "slug": "roanoke-colony",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/roanoke-colony&title=The%20Lost%20Colony%20of%20Roanoke:%20America's%20Oldest%20Mystery"
+    },
+    {
+      "slug": "roanoke-colony",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/roanoke-colony&description=The%20Lost%20Colony%20of%20Roanoke:%20America's%20Oldest%20Mystery"
+    },
+    {
+      "slug": "roanoke-lost-colony",
+      "url": "https://pastmysteries.com/posts/roanoke-lost-colony"
+    },
+    {
+      "slug": "roanoke-lost-colony",
+      "url": "https://en.wikipedia.org/wiki/Roanoke_Colony"
+    },
+    {
+      "slug": "roanoke-lost-colony",
+      "url": "https://www.britannica.com/story/the-lost-colony-of-roanoke"
+    },
+    {
+      "slug": "roanoke-lost-colony",
+      "url": "https://en.wikipedia.org/wiki/Virginia_Dare"
+    },
+    {
+      "slug": "roanoke-lost-colony",
+      "url": "https://en.wikipedia.org/wiki/Dare_Stones"
+    },
+    {
+      "slug": "roanoke-lost-colony",
+      "url": "https://www.history.com/articles/archaeologists-find-new-clues-to-lost-colony-mystery"
+    },
+    {
+      "slug": "roanoke-lost-colony",
+      "url": "https://en.wikipedia.org/wiki/Croatan"
+    },
+    {
+      "slug": "roanoke-lost-colony",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/roanoke-lost-colony&text=The%20Lost%20Colony%20of%20Roanoke%3A%20America%27s%20Oldest%20Unsolved%20Mystery%20and%20the%20Word%20Carved%20in%20Wood"
+    },
+    {
+      "slug": "roanoke-lost-colony",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/roanoke-lost-colony"
+    },
+    {
+      "slug": "roanoke-lost-colony",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/roanoke-lost-colony&title=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "roanoke-lost-colony",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/roanoke-lost-colony&description=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "roman-dodecahedron",
+      "url": "https://pastmysteries.com/posts/roman-dodecahedron"
+    },
+    {
+      "slug": "roman-dodecahedron",
+      "url": "https://en.wikipedia.org/wiki/Roman_dodecahedron"
+    },
+    {
+      "slug": "roman-dodecahedron",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/roman-dodecahedron&text=The%20Roman%20Dodecahedron:%20Ancient%20Mystery%20That%20Still%20Baffles%20Experts"
+    },
+    {
+      "slug": "roman-dodecahedron",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/roman-dodecahedron"
+    },
+    {
+      "slug": "roman-dodecahedron",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/roman-dodecahedron&title=The%20Roman%20Dodecahedron:%20Ancient%20Mystery%20That%20Still%20Baffles%20Experts"
+    },
+    {
+      "slug": "roman-dodecahedron",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/roman-dodecahedron&description=The%20Roman%20Dodecahedron:%20Ancient%20Mystery%20That%20Still%20Baffles%20Experts"
+    },
+    {
+      "slug": "rosetta-stone",
+      "url": "https://pastmysteries.com/posts/rosetta-stone"
+    },
+    {
+      "slug": "rosetta-stone",
+      "url": "https://en.wikipedia.org/wiki/Rosetta_Stone"
+    },
+    {
+      "slug": "rosetta-stone",
+      "url": "https://en.wikipedia.org/wiki/Decipherment_of_ancient_Egyptian_scripts"
+    },
+    {
+      "slug": "rosetta-stone",
+      "url": "https://www.britannica.com/topic/Rosetta-Stone"
+    },
+    {
+      "slug": "rosetta-stone",
+      "url": "https://www.britishmuseum.org/collection/object/YCA6"
+    },
+    {
+      "slug": "rosetta-stone",
+      "url": "https://www.world-archaeology.com/great-discoveries/rosetta-stone/"
+    },
+    {
+      "slug": "rosetta-stone",
+      "url": "https://the-past.com/feature/deciphering-the-decipherers-young-versus-champollion/"
+    },
+    {
+      "slug": "rosetta-stone",
+      "url": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Champollion"
+    },
+    {
+      "slug": "rosetta-stone",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/machu-picchu-mystery&text=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "rosetta-stone",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/machu-picchu-mystery"
+    },
+    {
+      "slug": "rosetta-stone",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/machu-picchu-mystery&title=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "rosetta-stone",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/machu-picchu-mystery&description=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "roswell-ufo-incident",
+      "url": "https://pastmysteries.com/posts/roswell-ufo-incident"
+    },
+    {
+      "slug": "roswell-ufo-incident",
+      "url": "https://en.wikipedia.org/wiki/Roswell_incident"
+    },
+    {
+      "slug": "roswell-ufo-incident",
+      "url": "https://www.britannica.com/event/Roswell-incident"
+    },
+    {
+      "slug": "roswell-ufo-incident",
+      "url": "https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident"
+    },
+    {
+      "slug": "roswell-ufo-incident",
+      "url": "https://en.wikipedia.org/wiki/Project_Mogul"
+    },
+    {
+      "slug": "roswell-ufo-incident",
+      "url": "https://www.af.mil/The-Roswell-Report/"
+    },
+    {
+      "slug": "roswell-ufo-incident",
+      "url": "https://en.wikipedia.org/wiki/Kenneth_Arnold"
+    },
+    {
+      "slug": "roswell-ufo-incident",
+      "url": "https://en.wikipedia.org/wiki/Stanton_T._Friedman"
+    },
+    {
+      "slug": "roswell-ufo-incident",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/machu-picchu-mystery&text=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "roswell-ufo-incident",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/machu-picchu-mystery"
+    },
+    {
+      "slug": "roswell-ufo-incident",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/machu-picchu-mystery&title=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "roswell-ufo-incident",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/machu-picchu-mystery&description=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "sacsayhuaman",
+      "url": "https://pastmysteries.com/posts/sacsayhuaman"
+    },
+    {
+      "slug": "sacsayhuaman",
+      "url": "https://www.britannica.com/topic/Sacsayhuaman"
+    },
+    {
+      "slug": "sacsayhuaman",
+      "url": "https://www.ancient-origins.net/ancient-places-americas/unravelling-mystery-behind-megalithic-stone-walls-saksaywaman-001470"
+    },
+    {
+      "slug": "sacsayhuaman",
+      "url": "https://www.britannica.com/topic/Sacsahuaman"
+    },
+    {
+      "slug": "sacsayhuaman",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/sacsayhuaman&text=Sacsayhuam\u00e1n:%20The%20Inca%20Fortress%20Built%20With%20Impossible%20Stones"
+    },
+    {
+      "slug": "sacsayhuaman",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/sacsayhuaman"
+    },
+    {
+      "slug": "sacsayhuaman",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/sacsayhuaman&title=Sacsayhuam\u00e1n:%20The%20Inca%20Fortress%20Built%20With%20Impossible%20Stones"
+    },
+    {
+      "slug": "sacsayhuaman",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/sacsayhuaman&description=Sacsayhuam\u00e1n:%20The%20Inca%20Fortress%20Built%20With%20Impossible%20Stones"
+    },
+    {
+      "slug": "salem-witch-trials",
+      "url": "https://pastmysteries.com/posts/salem-witch-trials"
+    },
+    {
+      "slug": "salem-witch-trials",
+      "url": "https://en.wikipedia.org/wiki/Salem_witch_trials"
+    },
+    {
+      "slug": "salem-witch-trials",
+      "url": "https://www.britannica.com/event/Salem-witch-trials"
+    },
+    {
+      "slug": "salem-witch-trials",
+      "url": "https://salem.lib.virginia.edu/people/"
+    },
+    {
+      "slug": "salem-witch-trials",
+      "url": "https://salemwitchmuseum.com/2023/05/17/debunking-the-moldy-bread-theory/"
+    },
+    {
+      "slug": "salem-witch-trials",
+      "url": "https://en.wikipedia.org/wiki/Court_of_Oyer_and_Terminer_(Salem_witch_trials)"
+    },
+    {
+      "slug": "salem-witch-trials",
+      "url": "https://en.wikipedia.org/wiki/Giles_Corey"
+    },
+    {
+      "slug": "salem-witch-trials",
+      "url": "https://en.wikipedia.org/wiki/Spectral_evidence"
+    },
+    {
+      "slug": "salem-witch-trials",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/machu-picchu-mystery&text=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "salem-witch-trials",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/machu-picchu-mystery"
+    },
+    {
+      "slug": "salem-witch-trials",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/machu-picchu-mystery&title=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "salem-witch-trials",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/machu-picchu-mystery&description=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "saqqara-bird",
+      "url": "https://pastmysteries.com/posts/saqqara-bird"
+    },
+    {
+      "slug": "saqqara-bird",
+      "url": "https://en.wikipedia.org/wiki/Saqqara_Bird"
+    },
+    {
+      "slug": "saqqara-bird",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/saqqara-bird&text=The%20Saqqara%20Bird:%20Did%20Ancient%20Egyptians%20Understand%20Flight?"
+    },
+    {
+      "slug": "saqqara-bird",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/saqqara-bird"
+    },
+    {
+      "slug": "saqqara-bird",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/saqqara-bird&title=The%20Saqqara%20Bird:%20Did%20Ancient%20Egyptians%20Understand%20Flight?"
+    },
+    {
+      "slug": "saqqara-bird",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/saqqara-bird&description=The%20Saqqara%20Bird:%20Did%20Ancient%20Egyptians%20Understand%20Flight?"
+    },
+    {
+      "slug": "sarah-winchester-house",
+      "url": "https://pastmysteries.com/posts/sarah-winchester-house"
+    },
+    {
+      "slug": "sarah-winchester-house",
+      "url": "https://en.wikipedia.org/wiki/Sarah_Winchester"
+    },
+    {
+      "slug": "sarah-winchester-house",
+      "url": "https://en.wikipedia.org/wiki/Winchester_Mystery_House"
+    },
+    {
+      "slug": "sarah-winchester-house",
+      "url": "https://en.wikipedia.org/wiki/Winchester_Repeating_Arms_Company"
+    },
+    {
+      "slug": "sarah-winchester-house",
+      "url": "https://en.wikipedia.org/wiki/1906_San_Francisco_earthquake"
+    },
+    {
+      "slug": "sarah-winchester-house",
+      "url": "https://en.wikipedia.org/wiki/Spiritualism"
+    },
+    {
+      "slug": "sarah-winchester-house",
+      "url": "https://en.wikipedia.org/wiki/Queen_Anne_style_architecture"
+    },
+    {
+      "slug": "sarah-winchester-house",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/sarah-winchester-house&text=The%20Sarah%20Winchester%20House%3A%2038%20Years%20of%20Endless%20Construction%20and%20the%20Ghosts%20of%20the%20Rifle%20Fortune"
+    },
+    {
+      "slug": "sarah-winchester-house",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/sarah-winchester-house"
+    },
+    {
+      "slug": "sarah-winchester-house",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/sarah-winchester-house&title=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "sarah-winchester-house",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/sarah-winchester-house&description=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "shroud-of-turin",
+      "url": "https://pastmysteries.com/posts/shroud-of-turin"
+    },
+    {
+      "slug": "shroud-of-turin",
+      "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    },
+    {
+      "slug": "shroud-of-turin",
+      "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin"
+    },
+    {
+      "slug": "shroud-of-turin",
+      "url": "https://www.britannica.com/topic/Shroud-of-Turin"
+    },
+    {
+      "slug": "shroud-of-turin",
+      "url": "https://www.shroud.com/78exam.htm"
+    },
+    {
+      "slug": "shroud-of-turin",
+      "url": "https://www.shroudofturin.com/sturp.html"
+    },
+    {
+      "slug": "shroud-of-turin",
+      "url": "https://www.asnt.org/standards-publications/blog/the-mysteries-of-the-shroud-of-turin"
+    },
+    {
+      "slug": "shroud-of-turin",
+      "url": "https://en.wikipedia.org/wiki/Sudarium_of_Oviedo"
+    },
+    {
+      "slug": "shroud-of-turin",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/machu-picchu-mystery&text=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "shroud-of-turin",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/machu-picchu-mystery"
+    },
+    {
+      "slug": "shroud-of-turin",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/machu-picchu-mystery&title=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "shroud-of-turin",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/machu-picchu-mystery&description=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "skinwalker-ranch",
+      "url": "https://pastmysteries.com/posts/skinwalker-ranch"
+    },
+    {
+      "slug": "skinwalker-ranch",
+      "url": "https://en.wikipedia.org/wiki/Skinwalker_Ranch"
+    },
+    {
+      "slug": "skinwalker-ranch",
+      "url": "https://www.history.com/articles/skinwalker-ranch-paranormal-ufos-mutilation"
+    },
+    {
+      "slug": "skinwalker-ranch",
+      "url": "https://en.wikipedia.org/wiki/Skin-walker"
+    },
+    {
+      "slug": "skinwalker-ranch",
+      "url": "https://www.strangerthanfiction.org/2026/03/bigelow-aawsap-skinwalker-pentagon/"
+    },
+    {
+      "slug": "skinwalker-ranch",
+      "url": "https://allthatsinteresting.com/skinwalker"
+    },
+    {
+      "slug": "skinwalker-ranch",
+      "url": "https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program"
+    },
+    {
+      "slug": "skinwalker-ranch",
+      "url": "https://www.britannica.com/topic/skinwalker"
+    },
+    {
+      "slug": "skinwalker-ranch",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/machu-picchu-mystery&text=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "skinwalker-ranch",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/machu-picchu-mystery"
+    },
+    {
+      "slug": "skinwalker-ranch",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/machu-picchu-mystery&title=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "skinwalker-ranch",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/machu-picchu-mystery&description=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "spontaneous-human-combustion",
+      "url": "https://pastmysteries.com/posts/spontaneous-human-combustion"
+    },
+    {
+      "slug": "spontaneous-human-combustion",
+      "url": "https://en.wikipedia.org/wiki/Spontaneous_human_combustion"
+    },
+    {
+      "slug": "spontaneous-human-combustion",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/spontaneous-human-combustion&text=Spontaneous%20Human%20Combustion:%20Can%20People%20Really%20Self-Ignite?"
+    },
+    {
+      "slug": "spontaneous-human-combustion",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/spontaneous-human-combustion"
+    },
+    {
+      "slug": "spontaneous-human-combustion",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/spontaneous-human-combustion&title=Spontaneous%20Human%20Combustion:%20Can%20People%20Really%20Self-Ignite?"
+    },
+    {
+      "slug": "spontaneous-human-combustion",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/spontaneous-human-combustion&description=Spontaneous%20Human%20Combustion:%20Can%20People%20Really%20Self-Ignite?"
+    },
+    {
+      "slug": "stonehenge-mystery",
+      "url": "https://pastmysteries.com/posts/stonehenge-mystery"
+    },
+    {
+      "slug": "stonehenge-mystery",
+      "url": "https://en.wikipedia.org/wiki/Stonehenge"
+    },
+    {
+      "slug": "stonehenge-mystery",
+      "url": "https://www.english-heritage.org.uk/visit/places/stonehenge/history-and-stories/stonehenge-history/"
+    },
+    {
+      "slug": "stonehenge-mystery",
+      "url": "https://www.britannica.com/topic/Stonehenge"
+    },
+    {
+      "slug": "stonehenge-mystery",
+      "url": "https://www.history.com/topics/british-history/stonehenge"
+    },
+    {
+      "slug": "stonehenge-mystery",
+      "url": "https://www.english-heritage.org.uk/visit/places/stonehenge/things-to-do/"
+    },
+    {
+      "slug": "stonehenge-mystery",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/stonehenge-mystery&text=Stonehenge:%20The%20Ancient%20Monument%20That%20Still%20Defies%20Explanation"
+    },
+    {
+      "slug": "stonehenge-mystery",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/stonehenge-mystery"
+    },
+    {
+      "slug": "stonehenge-mystery",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/stonehenge-mystery&title=Stonehenge:%20The%20Ancient%20Monument%20That%20Still%20Defies%20Explanation"
+    },
+    {
+      "slug": "stonehenge-mystery",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/stonehenge-mystery&description=Stonehenge:%20The%20Ancient%20Monument%20That%20Still%20Defies%20Explanation"
+    },
+    {
+      "slug": "terracotta-army",
+      "url": "https://pastmysteries.com/posts/terracotta-army"
+    },
+    {
+      "slug": "terracotta-army",
+      "url": "https://en.wikipedia.org/wiki/Terracotta_Army"
+    },
+    {
+      "slug": "terracotta-army",
+      "url": "https://www.britannica.com/topic/terra-cotta-army"
+    },
+    {
+      "slug": "terracotta-army",
+      "url": "https://en.wikipedia.org/wiki/Qin_Shi_Huang"
+    },
+    {
+      "slug": "terracotta-army",
+      "url": "https://www.thearchaeologist.org/blog/the-terracotta-army-protectors-of-qin-shi-huangs-afterlife"
+    },
+    {
+      "slug": "terracotta-army",
+      "url": "https://en.wikipedia.org/wiki/Mausoleum_of_the_First_Qin_Emperor"
+    },
+    {
+      "slug": "terracotta-army",
+      "url": "https://whc.unesco.org/en/list/441"
+    },
+    {
+      "slug": "terracotta-army",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/terracotta-army&text=The%20Terracotta%20Army%3A%208,000%20Unique%20Warriors%20Guarding%20an%20Emperor%20Who%20Conquered%20Death"
+    },
+    {
+      "slug": "terracotta-army",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/terracotta-army"
+    },
+    {
+      "slug": "terracotta-army",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/terracotta-army&title=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "terracotta-army",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/terracotta-army&description=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "the-hum",
+      "url": "https://pastmysteries.com/posts/the-hum"
+    },
+    {
+      "slug": "the-hum",
+      "url": "https://en.wikipedia.org/wiki/The_Hum"
+    },
+    {
+      "slug": "the-hum",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/the-hum&text=The%20Hum%20-%20Mystery%20History"
+    },
+    {
+      "slug": "the-hum",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/the-hum"
+    },
+    {
+      "slug": "the-hum",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/the-hum&title=The%20Hum%20-%20Mystery%20History"
+    },
+    {
+      "slug": "the-hum",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/the-hum&description=The%20Hum%20-%20Mystery%20History"
+    },
+    {
+      "slug": "the-lost-city-of-heracleion",
+      "url": "https://pastmysteries.com/posts/the-lost-city-of-heracleion"
+    },
+    {
+      "slug": "the-lost-city-of-heracleion",
+      "url": "https://en.wikipedia.org/wiki/Thonis-Heracleion"
+    },
+    {
+      "slug": "the-lost-city-of-heracleion",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/the-lost-city-of-heracleion&text=The%20Lost%20City%20of%20Heracleion%20-%20Mystery%20History"
+    },
+    {
+      "slug": "the-lost-city-of-heracleion",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/the-lost-city-of-heracleion"
+    },
+    {
+      "slug": "the-lost-city-of-heracleion",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/the-lost-city-of-heracleion&title=The%20Lost%20City%20of%20Heracleion%20-%20Mystery%20History"
+    },
+    {
+      "slug": "the-lost-city-of-heracleion",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/the-lost-city-of-heracleion&description=The%20Lost%20City%20of%20Heracleion%20-%20Mystery%20History"
+    },
+    {
+      "slug": "thutmose-ii-tomb",
+      "url": "https://pastmysteries.com/posts/thutmose-ii-tomb"
+    },
+    {
+      "slug": "thutmose-ii-tomb",
+      "url": "https://en.wikipedia.org/wiki/Thutmose_II"
+    },
+    {
+      "slug": "thutmose-ii-tomb",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/thutmose-ii-tomb&text=Thutmose%20II%20Tomb:%20The%20Lost%20Pharaoh%20Found!"
+    },
+    {
+      "slug": "thutmose-ii-tomb",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/thutmose-ii-tomb"
+    },
+    {
+      "slug": "thutmose-ii-tomb",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/thutmose-ii-tomb&title=Thutmose%20II%20Tomb:%20The%20Lost%20Pharaoh%20Found!"
+    },
+    {
+      "slug": "thutmose-ii-tomb",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/thutmose-ii-tomb&description=Thutmose%20II%20Tomb:%20The%20Lost%20Pharaoh%20Found!"
+    },
+    {
+      "slug": "tunguska-event-siberia",
+      "url": "https://pastmysteries.com/posts/tunguska-event-siberia"
+    },
+    {
+      "slug": "tunguska-event-siberia",
+      "url": "https://en.wikipedia.org/wiki/Tunguska_event"
+    },
+    {
+      "slug": "tunguska-event-siberia",
+      "url": "https://www.britannica.com/event/Tunguska-event"
+    },
+    {
+      "slug": "tunguska-event-siberia",
+      "url": "https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/"
+    },
+    {
+      "slug": "tunguska-event-siberia",
+      "url": "https://en.wikipedia.org/wiki/Chelyabinsk_meteor"
+    },
+    {
+      "slug": "tunguska-event-siberia",
+      "url": "https://en.wikipedia.org/wiki/Double_Asteroid_Redirection_Test"
+    },
+    {
+      "slug": "tunguska-event-siberia",
+      "url": "https://en.wikipedia.org/wiki/Leonid_Kulik"
+    },
+    {
+      "slug": "tunguska-event-siberia",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/tunguska-event-siberia&text=The%20Tunguska%20Event%3A%20The%20Morning%20the%20Sky%20Exploded%20Over%20Siberia"
+    },
+    {
+      "slug": "tunguska-event-siberia",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/tunguska-event-siberia"
+    },
+    {
+      "slug": "tunguska-event-siberia",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/tunguska-event-siberia&title=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "tunguska-event-siberia",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/tunguska-event-siberia&description=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "tunguska-event",
+      "url": "https://pastmysteries.com/posts/tunguska-event"
+    },
+    {
+      "slug": "tunguska-event",
+      "url": "https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/"
+    },
+    {
+      "slug": "tunguska-event",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-cosmic-explosion-over-siberia-154488/"
+    },
+    {
+      "slug": "tunguska-event",
+      "url": "https://www.britannica.com/story/what-is-known-and-not-known-about-the-tunguska-event"
+    },
+    {
+      "slug": "tunguska-event",
+      "url": "https://www.britannica.com/facts/Tunguska-event"
+    },
+    {
+      "slug": "tunguska-event",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/tunguska-event&text=The%20Tunguska%20Event%20-%20Mystery%20History"
+    },
+    {
+      "slug": "tunguska-event",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/tunguska-event"
+    },
+    {
+      "slug": "tunguska-event",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/tunguska-event&title=The%20Tunguska%20Event%20-%20Mystery%20History"
+    },
+    {
+      "slug": "tunguska-event",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/tunguska-event&description=The%20Tunguska%20Event%20-%20Mystery%20History"
+    },
+    {
+      "slug": "tutankhamun-curse",
+      "url": "https://pastmysteries.com/posts/tutankhamun-curse"
+    },
+    {
+      "slug": "tutankhamun-curse",
+      "url": "https://en.wikipedia.org/wiki/Curse_of_the_pharaohs"
+    },
+    {
+      "slug": "tutankhamun-curse",
+      "url": "https://en.wikipedia.org/wiki/Discovery_of_the_tomb_of_Tutankhamun"
+    },
+    {
+      "slug": "tutankhamun-curse",
+      "url": "https://www.britannica.com/biography/Tutankhamun"
+    },
+    {
+      "slug": "tutankhamun-curse",
+      "url": "https://www.thecollector.com/mummy-curse-howard-carter/"
+    },
+    {
+      "slug": "tutankhamun-curse",
+      "url": "https://en.wikipedia.org/wiki/Howard_Carter"
+    },
+    {
+      "slug": "tutankhamun-curse",
+      "url": "https://en.wikipedia.org/wiki/Tutankhamun"
+    },
+    {
+      "slug": "tutankhamun-curse",
+      "url": "https://www.britannica.com/biography/Howard-Carter"
+    },
+    {
+      "slug": "tutankhamun-curse",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/tutankhamun-curse&text=The%20Curse%20of%20Tutankhamun%3A%20Myth,%20Media,%20and%20the%20Science%20Behind%20Egypt%27s%20Most%20Famous%20Legend"
+    },
+    {
+      "slug": "tutankhamun-curse",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/tutankhamun-curse"
+    },
+    {
+      "slug": "tutankhamun-curse",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/tutankhamun-curse&title=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "tutankhamun-curse",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/tutankhamun-curse&description=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "uss-nimitz-tic-tac",
+      "url": "https://pastmysteries.com/posts/uss-nimitz-tic-tac"
+    },
+    {
+      "slug": "uss-nimitz-tic-tac",
+      "url": "https://en.wikipedia.org/wiki/2004_USS_Nimitz_UFO_incident"
+    },
+    {
+      "slug": "uss-nimitz-tic-tac",
+      "url": "https://www.britannica.com/topic/UFO"
+    },
+    {
+      "slug": "uss-nimitz-tic-tac",
+      "url": "https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program"
+    },
+    {
+      "slug": "uss-nimitz-tic-tac",
+      "url": "https://www.cnbc.com/2020/04/28/pentagon-declassifies-ufo-videos-taken-by-navy-pilots.html"
+    },
+    {
+      "slug": "uss-nimitz-tic-tac",
+      "url": "https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/"
+    },
+    {
+      "slug": "uss-nimitz-tic-tac",
+      "url": "https://www.usatoday.com/story/news/nation/2020/04/27/ufo-videos-navy-unidentified-aerial-phenomena-pentagon/3037803001/"
+    },
+    {
+      "slug": "uss-nimitz-tic-tac",
+      "url": "https://www.nasa.gov/news-release/nasa-establishes-independent-study-team-on-unidentified-aerial-phenomena/"
+    },
+    {
+      "slug": "uss-nimitz-tic-tac",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/machu-picchu-mystery&text=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "uss-nimitz-tic-tac",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/machu-picchu-mystery"
+    },
+    {
+      "slug": "uss-nimitz-tic-tac",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/machu-picchu-mystery&title=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "uss-nimitz-tic-tac",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/machu-picchu-mystery&description=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "voynich-manuscript-mystery",
+      "url": "https://pastmysteries.com/posts/voynich-manuscript-mystery"
+    },
+    {
+      "slug": "voynich-manuscript-mystery",
+      "url": "https://en.wikipedia.org/wiki/Voynich_manuscript"
+    },
+    {
+      "slug": "voynich-manuscript-mystery",
+      "url": "https://en.wikipedia.org/wiki/Wilfrid_Voynich"
+    },
+    {
+      "slug": "voynich-manuscript-mystery",
+      "url": "https://en.wikipedia.org/wiki/William_F._Friedman"
+    },
+    {
+      "slug": "voynich-manuscript-mystery",
+      "url": "https://en.wikipedia.org/wiki/Cryptanalysis"
+    },
+    {
+      "slug": "voynich-manuscript-mystery",
+      "url": "https://beinecke.library.yale.edu/collections/highlights/voynich-manuscript"
+    },
+    {
+      "slug": "voynich-manuscript-mystery",
+      "url": "https://en.wikipedia.org/wiki/Voynich_manuscript"
+    },
+    {
+      "slug": "voynich-manuscript-mystery",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/voynich-manuscript-mystery&text=The%20Voynich%20Manuscript%3A%20The%20Most%20Mysterious%20Book%20in%20the%20World"
+    },
+    {
+      "slug": "voynich-manuscript-mystery",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/voynich-manuscript-mystery"
+    },
+    {
+      "slug": "voynich-manuscript-mystery",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/voynich-manuscript-mystery&title=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "voynich-manuscript-mystery",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/voynich-manuscript-mystery&description=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "voynich-manuscript",
+      "url": "https://pastmysteries.com/posts/voynich-manuscript"
+    },
+    {
+      "slug": "voynich-manuscript",
+      "url": "https://en.wikipedia.org/wiki/Voynich_manuscript"
+    },
+    {
+      "slug": "voynich-manuscript",
+      "url": "https://beinecke.library.yale.edu/collections/highlights/voynich-manuscript"
+    },
+    {
+      "slug": "voynich-manuscript",
+      "url": "https://www.britannica.com/topic/Voynich-manuscript"
+    },
+    {
+      "slug": "voynich-manuscript",
+      "url": "https://en.wikipedia.org/wiki/Voynich_manuscript#Statistical_patterns"
+    },
+    {
+      "slug": "voynich-manuscript",
+      "url": "https://www.manchester.ac.uk/discover/news/researchers-use-computer-analysis-to-try-and-crack-the-voynich-manuscript/"
+    },
+    {
+      "slug": "voynich-manuscript",
+      "url": "https://en.wikipedia.org/wiki/Roger_Bacon"
+    },
+    {
+      "slug": "voynich-manuscript",
+      "url": "https://beinecke.library.yale.edu/collections/highlights/voynich-manuscript"
+    },
+    {
+      "slug": "voynich-manuscript",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/machu-picchu-mystery&text=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "voynich-manuscript",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/machu-picchu-mystery"
+    },
+    {
+      "slug": "voynich-manuscript",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/machu-picchu-mystery&title=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "voynich-manuscript",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/machu-picchu-mystery&description=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "wilmer-mclean",
+      "url": "https://pastmysteries.com/posts/wilmer-mclean"
+    },
+    {
+      "slug": "wilmer-mclean",
+      "url": "https://en.wikipedia.org/wiki/Wilmer_McLean"
+    },
+    {
+      "slug": "wilmer-mclean",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/wilmer-mclean&text=Wilmer%20McLean:%20The%20Man%20Who%20Couldn't%20Escape%20the%20Civil%20War"
+    },
+    {
+      "slug": "wilmer-mclean",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/wilmer-mclean"
+    },
+    {
+      "slug": "wilmer-mclean",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/wilmer-mclean&title=Wilmer%20McLean:%20The%20Man%20Who%20Couldn't%20Escape%20the%20Civil%20War"
+    },
+    {
+      "slug": "wilmer-mclean",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/wilmer-mclean&description=Wilmer%20McLean:%20The%20Man%20Who%20Couldn't%20Escape%20the%20Civil%20War"
+    },
+    {
+      "slug": "winchester-mystery-house",
+      "url": "https://pastmysteries.com/posts/winchester-mystery-house"
+    },
+    {
+      "slug": "winchester-mystery-house",
+      "url": "https://en.wikipedia.org/wiki/Winchester_Mystery_House"
+    },
+    {
+      "slug": "winchester-mystery-house",
+      "url": "https://en.wikipedia.org/wiki/Sarah_Winchester"
+    },
+    {
+      "slug": "winchester-mystery-house",
+      "url": "https://winchestermysteryhouse.com/history/"
+    },
+    {
+      "slug": "winchester-mystery-house",
+      "url": "https://www.britannica.com/topic/Winchester-Mystery-House"
+    },
+    {
+      "slug": "winchester-mystery-house",
+      "url": "https://en.wikipedia.org/wiki/Winchester_Repeating_Arms_Company"
+    },
+    {
+      "slug": "winchester-mystery-house",
+      "url": "https://winchestermysteryhouse.com/history/"
+    },
+    {
+      "slug": "winchester-mystery-house",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/winchester-mystery-house&text=The%20Winchester%20Mystery%20House%3A%2038%20Years%20of%20Building,%20Staircases%20to%20Nowhere,%20and%20a%20Heiress%20Haunted%20by%20Grief"
+    },
+    {
+      "slug": "winchester-mystery-house",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/winchester-mystery-house"
+    },
+    {
+      "slug": "winchester-mystery-house",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/winchester-mystery-house&title=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "winchester-mystery-house",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/winchester-mystery-house&description=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "wow-signal",
+      "url": "https://pastmysteries.com/posts/wow-signal"
+    },
+    {
+      "slug": "wow-signal",
+      "url": "https://www.britannica.com/topic/Wow-signal"
+    },
+    {
+      "slug": "wow-signal",
+      "url": "https://en.wikipedia.org/wiki/Wow!_signal"
+    },
+    {
+      "slug": "wow-signal",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/wow-signal&text=The%20Wow!%20Signal:%20Did%20We%20Receive%20a%20Message%20From%20Aliens%20in%201977?"
+    },
+    {
+      "slug": "wow-signal",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/wow-signal"
+    },
+    {
+      "slug": "wow-signal",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/wow-signal&title=The%20Wow!%20Signal:%20Did%20We%20Receive%20a%20Message%20From%20Aliens%20in%201977?"
+    },
+    {
+      "slug": "wow-signal",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/wow-signal&description=The%20Wow!%20Signal:%20Did%20We%20Receive%20a%20Message%20From%20Aliens%20in%201977?"
+    },
+    {
+      "slug": "yonaguni-monument",
+      "url": "https://pastmysteries.com/posts/yonaguni-monument"
+    },
+    {
+      "slug": "yonaguni-monument",
+      "url": "https://en.wikipedia.org/wiki/Yonaguni_Monument"
+    },
+    {
+      "slug": "yonaguni-monument",
+      "url": "https://en.wikipedia.org/wiki/Yonaguni"
+    },
+    {
+      "slug": "yonaguni-monument",
+      "url": "https://en.wikipedia.org/wiki/Masaaki_Kimura"
+    },
+    {
+      "slug": "yonaguni-monument",
+      "url": "https://en.wikipedia.org/wiki/Robert_Schoch"
+    },
+    {
+      "slug": "yonaguni-monument",
+      "url": "https://ancientcivilizations.org/anomalies/yonaguni"
+    },
+    {
+      "slug": "yonaguni-monument",
+      "url": "https://en.wikipedia.org/wiki/J%C5%8Dmon_period"
+    },
+    {
+      "slug": "yonaguni-monument",
+      "url": "https://en.wikipedia.org/wiki/Mu_(mythical_lost_continent)"
+    },
+    {
+      "slug": "yonaguni-monument",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/yonaguni-monument&text=The%20Yonaguni%20Monument%3A%20Japan%27s%20Underwater%20Mystery"
+    },
+    {
+      "slug": "yonaguni-monument",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/yonaguni-monument"
+    },
+    {
+      "slug": "yonaguni-monument",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/yonaguni-monument&title=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "yonaguni-monument",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/yonaguni-monument&description=D.B.%20Cooper:%20The%20Only%20Unsolved%20Skyjacking%20in%20American%20History"
+    },
+    {
+      "slug": "zodiac-killer",
+      "url": "https://pastmysteries.com/posts/zodiac-killer"
+    },
+    {
+      "slug": "zodiac-killer",
+      "url": "https://en.wikipedia.org/wiki/Zodiac_Killer"
+    },
+    {
+      "slug": "zodiac-killer",
+      "url": "https://www.britannica.com/topic/Zodiac-killer"
+    },
+    {
+      "slug": "zodiac-killer",
+      "url": "https://www.fbi.gov/history/famous-cases/zodiac-killer"
+    },
+    {
+      "slug": "zodiac-killer",
+      "url": "https://allthatsinteresting.com/zodiac-killer-z340-cipher-solved"
+    },
+    {
+      "slug": "zodiac-killer",
+      "url": "https://allthatsinteresting.com/zodiac-killer"
+    },
+    {
+      "slug": "zodiac-killer",
+      "url": "https://en.wikipedia.org/wiki/Zodiac_Killer_letters"
+    },
+    {
+      "slug": "zodiac-killer",
+      "url": "https://en.wikipedia.org/wiki/Arthur_Leigh_Allen"
+    },
+    {
+      "slug": "zodiac-killer",
+      "url": "https://twitter.com/intent/tweet?url=https://pastmysteries.com/posts/machu-picchu-mystery&text=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "zodiac-killer",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://pastmysteries.com/posts/machu-picchu-mystery"
+    },
+    {
+      "slug": "zodiac-killer",
+      "url": "https://www.reddit.com/submit?url=https://pastmysteries.com/posts/machu-picchu-mystery&title=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    },
+    {
+      "slug": "zodiac-killer",
+      "url": "https://pinterest.com/pin/create/button/?url=https://pastmysteries.com/posts/machu-picchu-mystery&description=Machu%20Picchu%3A%20The%20Lost%20Citadel%20of%20the%20Incas%20That%20Was%20Never%20Really%20Lost"
+    }
+  ],
+  "broken_internal": [
+    {
+      "source": "easter-island-moai-statues",
+      "target": "angkor-wat"
+    }
+  ]
+}
