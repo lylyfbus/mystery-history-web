@@ -203,7 +203,7 @@ body {
     overflow: hidden;
     text-decoration: none;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    height: 110px;
+    height: 150px;
 }
 
 .story-bar:hover {
@@ -212,8 +212,8 @@ body {
 }
 
 .story-bar-image {
-    width: 180px;
-    height: 110px;
+    width: 250px;
+    height: 150px;
     object-fit: contain;
     background: #1a1a2e;
     flex-shrink: 0;
@@ -602,7 +602,7 @@ body {
     
     .story-bar-image {
         width: 100%;
-        height: 160px;
+        height: 200px;
     }
     
     .article-title {
