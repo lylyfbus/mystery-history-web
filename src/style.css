@@ -166,7 +166,7 @@ body {
 
 .category-bar-image {
     width: 220px;
-    aspect-ratio: 1;
+    aspect-ratio: 4/3;
     object-fit: cover;
     flex-shrink: 0;
 }
@@ -212,7 +212,7 @@ body {
 
 .story-bar-image {
     width: 250px;
-    aspect-ratio: 1;
+    aspect-ratio: 4/3;
     object-fit: cover;
     flex-shrink: 0;
 }
@@ -590,7 +590,7 @@ body {
     
     .category-bar-image {
         width: 100%;
-        aspect-ratio: 1;
+        aspect-ratio: 4/3;
     }
     
     .story-bar {
@@ -600,7 +600,7 @@ body {
     
     .story-bar-image {
         width: 100%;
-        aspect-ratio: 1;
+        aspect-ratio: 4/3;
     }
     
     .article-title {

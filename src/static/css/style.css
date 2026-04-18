@@ -108,7 +108,7 @@ a:hover {
 
 .category-bar-image {
     width: 200px;
-    aspect-ratio: 1;
+    aspect-ratio: 4/3;
     object-fit: cover;
     flex-shrink: 0;
 }
@@ -231,7 +231,7 @@ a:hover {
 
     .category-bar-image {
         width: 100%;
-        aspect-ratio: 1;
+        aspect-ratio: 4/3;
     }
 
     .category-bar-content {
@@ -405,7 +405,7 @@ a:hover {
 
 .card-image-wrapper {
     width: 100%;
-    aspect-ratio: 1;
+    aspect-ratio: 4/3;
     overflow: hidden;
     background: #1a1a2e;
     border-radius: 12px 12px 0 0;
@@ -531,7 +531,7 @@ a:hover {
 /* Archive cards use same image wrapper as carousel */
 .archive-card .card-image-wrapper {
     width: 100%;
-    aspect-ratio: 1;
+    aspect-ratio: 4/3;
     overflow: hidden;
     background: #1a1a2e;
     border-radius: 12px 12px 0 0;
@@ -552,7 +552,7 @@ a:hover {
 /* Legacy format for cards without wrapper */
 .archive-card > img {
     width: 100%;
-    aspect-ratio: 1;
+    aspect-ratio: 4/3;
     object-fit: cover;
     background: #1a1a2e;
     display: block;
