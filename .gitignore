@@ -5,3 +5,6 @@ node_modules/
 .vercel
 .netlify
 *.log
+__pycache__/
+*.pyc
+*.bak
