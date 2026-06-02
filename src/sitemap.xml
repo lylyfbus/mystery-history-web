@@ -2,469 +2,512 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://pastmysteries.com/</loc>
-    <lastmod>2026-03-28</lastmod>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://pastmysteries.com/categories/ancient-mysteries</loc>
-    <lastmod>2026-03-28</lastmod>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pastmysteries.com/categories/interesting-history</loc>
-    <lastmod>2026-03-28</lastmod>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pastmysteries.com/categories/unknown-phenomena</loc>
-    <lastmod>2026-03-28</lastmod>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pastmysteries.com/posts/antikythera-mechanism</loc>
-    <lastmod>2026-03-04</lastmod>
+    <loc>https://pastmysteries.com/posts/alexander-great-tomb</loc>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pastmysteries.com/posts/baghdad-battery</loc>
-    <lastmod>2026-03-04</lastmod>
+    <loc>https://pastmysteries.com/posts/amelia-earhart</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/anastasia-romanov</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/angkor-wat-mystery</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/antikythera-mechanism-ancient-computer</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/ark-of-the-covenant</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/baghdad-battery-ancient-electricity</loc>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://pastmysteries.com/posts/ball-lightning</loc>
-    <lastmod>2026-03-04</lastmod>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://pastmysteries.com/posts/battle-los-angeles</loc>
-    <lastmod>2026-03-04</lastmod>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://pastmysteries.com/posts/bennington-triangle</loc>
-    <lastmod>2026-03-28</lastmod>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/bermuda-triangle</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/bigfoot-sasquatch</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/black-dahlia</loc>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://pastmysteries.com/posts/cadaver-synod</loc>
-    <lastmod>2026-03-04</lastmod>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/chupacabra</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/cleopatra-tomb</loc>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://pastmysteries.com/posts/copper-scroll-treasure</loc>
-    <lastmod>2026-03-28</lastmod>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://pastmysteries.com/posts/crystal-skulls</loc>
-    <lastmod>2026-03-04</lastmod>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://pastmysteries.com/posts/dancing-plague-1518</loc>
-    <lastmod>2026-03-04</lastmod>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/db-cooper</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/dead-sea-scrolls</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/derinkuyu-underground-city</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/dyatlov-pass-incident</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/easter-island-moai-statues</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/el-dorado-lost-city</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/flannan-isle-lighthouse</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/franklin-expedition</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/ghost-army-wwii</loc>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://pastmysteries.com/posts/gobekli-tepe</loc>
-    <lastmod>2026-03-04</lastmod>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://pastmysteries.com/posts/great-emu-war</loc>
-    <lastmod>2026-03-04</lastmod>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/great-sphinx-giza-mystery</loc>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://pastmysteries.com/posts/hessdalen-lights</loc>
-    <lastmod>2026-03-04</lastmod>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://pastmysteries.com/posts/indus-valley-civilization</loc>
-    <lastmod>2026-03-04</lastmod>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/jack-the-ripper</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/library-of-alexandria</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/loch-ness-monster</loc>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://pastmysteries.com/posts/london-beer-flood</loc>
-    <lastmod>2026-03-28</lastmod>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/lost-city-atlantis-plato</loc>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://pastmysteries.com/posts/lost-faberge-eggs</loc>
-    <lastmod>2026-03-04</lastmod>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pastmysteries.com/posts/molasses-flood</loc>
-    <lastmod>2026-03-04</lastmod>
+    <loc>https://pastmysteries.com/posts/machu-picchu-mystery</loc>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pastmysteries.com/posts/mysterious-monoliths</loc>
-    <lastmod>2026-03-04</lastmod>
+    <loc>https://pastmysteries.com/posts/mandela-effect</loc>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pastmysteries.com/posts/nazca-lines</loc>
-    <lastmod>2026-03-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://pastmysteries.com/posts/new-england-vampire-panic</loc>
-    <lastmod>2026-03-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://pastmysteries.com/posts/new-jersey-drones-mystery</loc>
-    <lastmod>2026-03-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://pastmysteries.com/posts/pentagon-uap-reports</loc>
-    <lastmod>2026-03-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://pastmysteries.com/posts/roanoke-colony</loc>
-    <lastmod>2026-03-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://pastmysteries.com/posts/roman-dodecahedron</loc>
-    <lastmod>2026-03-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://pastmysteries.com/posts/saqqara-bird</loc>
-    <lastmod>2026-03-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://pastmysteries.com/posts/spontaneous-human-combustion</loc>
-    <lastmod>2026-03-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://pastmysteries.com/posts/terracotta-army</loc>
-    <lastmod>2026-03-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://pastmysteries.com/posts/the-hum</loc>
-    <lastmod>2026-03-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://pastmysteries.com/posts/the-lost-city-of-heracleion</loc>
-    <lastmod>2026-03-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://pastmysteries.com/posts/thutmose-ii-tomb</loc>
-    <lastmod>2026-03-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://pastmysteries.com/posts/tunguska-event</loc>
-    <lastmod>2026-03-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://pastmysteries.com/posts/voynich-manuscript</loc>
-    <lastmod>2026-03-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://pastmysteries.com/posts/wilmer-mclean</loc>
-    <lastmod>2026-03-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://pastmysteries.com/about</loc>
-    <lastmod>2026-03-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://pastmysteries.com/editorial-policy</loc>
-    <lastmod>2026-03-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://pastmysteries.com/contact</loc>
-    <lastmod>2026-03-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://pastmysteries.com/privacy-policy</loc>
-    <lastmod>2026-03-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-
-  <url>
-    <loc>https://pastmysteries.com/posts/derinkuyu-underground-city</loc>
-    <lastmod>2026-03-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://pastmysteries.com/posts/sacsayhuaman</loc>
-    <lastmod>2026-03-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://pastmysteries.com/posts/philadelphia-experiment</loc>
-    <lastmod>2026-03-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://pastmysteries.com/posts/ghost-army-wwii</loc>
-    <lastmod>2026-03-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://pastmysteries.com/posts/bermuda-triangle</loc>
-    <lastmod>2026-03-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://pastmysteries.com/posts/wow-signal</loc>
-    <lastmod>2026-03-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-<url><loc>https://pastmysteries.com/posts/oak-island-money-pit</loc><lastmod>2026-03-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-<url><loc>https://pastmysteries.com/posts/cleopatra-tomb</loc><lastmod>2026-03-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-<url><loc>https://pastmysteries.com/posts/db-cooper</loc><lastmod>2026-03-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-<url><loc>https://pastmysteries.com/posts/amelia-earhart</loc><lastmod>2026-03-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-<url><loc>https://pastmysteries.com/posts/dyatlov-pass</loc><lastmod>2026-03-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-<url><loc>https://pastmysteries.com/posts/marfa-lights</loc><lastmod>2026-03-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-
-  <url>
-    <loc>https://pastmysteries.com/archive</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://pastmysteries.com/posts/stonehenge-mystery</loc>
-    <lastmod>2026-04-15</lastmod>
+    <loc>https://pastmysteries.com/posts/marfa-lights</loc>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://pastmysteries.com/posts/mary-celeste-ghost-ship</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/minoan-civilization-collapse</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/molasses-flood</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/mothman-point-pleasant</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/mysterious-monoliths</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/nazca-lines-peru</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/new-england-vampire-panic</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/new-jersey-drones-mystery</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/oak-island-money-pit-nova-scotia</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/pentagon-uap-reports</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/philadelphia-experiment</loc>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://pastmysteries.com/posts/phoenix-lights-ufo</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/pompeii-eruption</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pastmysteries.com/posts/princes-in-tower</loc>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://pastmysteries.com/posts/pyramids-of-giza</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pastmysteries.com/posts/bigfoot-sasquatch</loc>
+    <loc>https://pastmysteries.com/posts/roanoke-lost-colony</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pastmysteries.com/posts/jack-the-ripper</loc>
+    <loc>https://pastmysteries.com/posts/roman-dodecahedron</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
-    <url><loc>https://pastmysteries.com/posts/easter-island-moai</loc></url>
-    <url><loc>https://pastmysteries.com/posts/lost-city-atlantis</loc></url>
-    <url><loc>https://pastmysteries.com/posts/great-sphinx-giza</loc></url>
-    <url><loc>https://pastmysteries.com/posts/terracotta-army</loc></url>
-    <url><loc>https://pastmysteries.com/posts/machu-picchu-mystery</loc></url>
-<url><loc>https://pastmysteries.com/posts/pompeii-eruption</loc></url>
-<url><loc>https://pastmysteries.com/posts/el-dorado-lost-city</loc></url>
-<url><loc>https://pastmysteries.com/posts/dead-sea-scrolls</loc></url>
-<url><loc>https://pastmysteries.com/posts/alexander-great-tomb</loc></url>
-<url><loc>https://pastmysteries.com/posts/yonaguni-monument</loc></url>
-<url><loc>https://pastmysteries.com/posts/minoan-civilization-collapse</loc></url>
-<url><loc>https://pastmysteries.com/posts/angkor-wat-mystery</loc></url>
   <url>
-        <loc>https://pastmysteries.com/posts/tutankhamun-curse</loc>
-        <lastmod>2026-04-17</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-      </url>
+    <loc>https://pastmysteries.com/posts/rosetta-stone</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
   <url>
-        <loc>https://pastmysteries.com/posts/flannan-isle-lighthouse</loc>
-        <lastmod>2026-04-17</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-      </url>
+    <loc>https://pastmysteries.com/posts/roswell-ufo-incident</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
   <url>
-        <loc>https://pastmysteries.com/posts/princes-in-tower</loc>
-        <lastmod>2026-04-17</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-      </url>
+    <loc>https://pastmysteries.com/posts/sacsayhuaman</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
   <url>
-        <loc>https://pastmysteries.com/posts/franklin-expedition</loc>
-        <lastmod>2026-04-17</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-      </url>
+    <loc>https://pastmysteries.com/posts/salem-witch-trials</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
   <url>
-        <loc>https://pastmysteries.com/posts/winchester-mystery-house</loc>
-        <lastmod>2026-04-17</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-      </url>
+    <loc>https://pastmysteries.com/posts/saqqara-bird</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
   <url>
-        <loc>https://pastmysteries.com/posts/nazca-lines</loc>
-        <lastmod>2026-04-17</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-      </url>
+    <loc>https://pastmysteries.com/posts/shroud-of-turin</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
   <url>
-        <loc>https://pastmysteries.com/posts/terracotta-army</loc>
-        <lastmod>2026-04-17</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-      </url>
+    <loc>https://pastmysteries.com/posts/skinwalker-ranch</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
   <url>
-        <loc>https://pastmysteries.com/posts/roanoke-lost-colony</loc>
-        <lastmod>2026-04-17</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-      </url>
+    <loc>https://pastmysteries.com/posts/spontaneous-human-combustion</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
   <url>
-        <loc>https://pastmysteries.com/posts/copper-scroll-treasure</loc>
-        <lastmod>2026-04-17</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-      </url>
+    <loc>https://pastmysteries.com/posts/stonehenge-mystery</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
   <url>
-        <loc>https://pastmysteries.com/posts/dancing-plague-1518</loc>
-        <lastmod>2026-04-17</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-      </url>
+    <loc>https://pastmysteries.com/posts/terracotta-army</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
   <url>
-        <loc>https://pastmysteries.com/posts/mary-celeste</loc>
-        <lastmod>2026-04-17</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-      </url>
+    <loc>https://pastmysteries.com/posts/the-hum</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
   <url>
-        <loc>https://pastmysteries.com/posts/antikythera-mechanism-ancient-computer</loc>
-        <lastmod>2026-04-17</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-      </url>
+    <loc>https://pastmysteries.com/posts/the-lost-city-of-heracleion</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
   <url>
-        <loc>https://pastmysteries.com/posts/voynich-manuscript-mystery</loc>
-        <lastmod>2026-04-17</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-      </url>
+    <loc>https://pastmysteries.com/posts/thutmose-ii-tomb</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
   <url>
-        <loc>https://pastmysteries.com/posts/library-of-alexandria</loc>
-        <lastmod>2026-04-17</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-      </url>
+    <loc>https://pastmysteries.com/posts/tunguska-event-siberia</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
   <url>
-        <loc>https://pastmysteries.com/posts/great-sphinx-giza-mystery</loc>
-        <lastmod>2026-04-17</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-      </url>
+    <loc>https://pastmysteries.com/posts/tutankhamun-curse</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
   <url>
-        <loc>https://pastmysteries.com/posts/easter-island-moai-statues</loc>
-        <lastmod>2026-04-17</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-      </url>
+    <loc>https://pastmysteries.com/posts/uss-nimitz-tic-tac</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
   <url>
-        <loc>https://pastmysteries.com/posts/baghdad-battery-ancient-electricity</loc>
-        <lastmod>2026-04-17</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-      </url>
+    <loc>https://pastmysteries.com/posts/voynich-manuscript-mystery</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
   <url>
-        <loc>https://pastmysteries.com/posts/sarah-winchester-house</loc>
-        <lastmod>2026-04-17</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-      </url>
+    <loc>https://pastmysteries.com/posts/wilmer-mclean</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
   <url>
-        <loc>https://pastmysteries.com/posts/oak-island-money-pit-nova-scotia</loc>
-        <lastmod>2026-04-17</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-      </url>
+    <loc>https://pastmysteries.com/posts/winchester-mystery-house</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
   <url>
-        <loc>https://pastmysteries.com/posts/tunguska-event-siberia</loc>
-        <lastmod>2026-04-17</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-      </url>
+    <loc>https://pastmysteries.com/posts/wow-signal</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
   <url>
-        <loc>https://pastmysteries.com/posts/nazca-lines-peru</loc>
-        <lastmod>2026-04-17</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-      </url>
+    <loc>https://pastmysteries.com/posts/yonaguni-monument</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
   <url>
-        <loc>https://pastmysteries.com/posts/dyatlov-pass-mystery</loc>
-        <lastmod>2026-04-18</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-      </url>
-  <url>
-        <loc>https://pastmysteries.com/posts/lost-city-atlantis-plato</loc>
-        <lastmod>2026-04-18</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-      </url>
+    <loc>https://pastmysteries.com/posts/zodiac-killer</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>

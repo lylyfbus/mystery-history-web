@@ -2,5 +2,77 @@
   "buildCommand": null,
   "outputDirectory": "src",
   "cleanUrls": true,
-  "trailingSlash": false
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/posts/antikythera-mechanism",
+      "destination": "/posts/antikythera-mechanism-ancient-computer",
+      "permanent": true
+    },
+    {
+      "source": "/posts/baghdad-battery",
+      "destination": "/posts/baghdad-battery-ancient-electricity",
+      "permanent": true
+    },
+    {
+      "source": "/posts/dyatlov-pass",
+      "destination": "/posts/dyatlov-pass-incident",
+      "permanent": true
+    },
+    {
+      "source": "/posts/dyatlov-pass-mystery",
+      "destination": "/posts/dyatlov-pass-incident",
+      "permanent": true
+    },
+    {
+      "source": "/posts/easter-island-moai",
+      "destination": "/posts/easter-island-moai-statues",
+      "permanent": true
+    },
+    {
+      "source": "/posts/great-sphinx-giza",
+      "destination": "/posts/great-sphinx-giza-mystery",
+      "permanent": true
+    },
+    {
+      "source": "/posts/lost-city-atlantis",
+      "destination": "/posts/lost-city-atlantis-plato",
+      "permanent": true
+    },
+    {
+      "source": "/posts/mary-celeste",
+      "destination": "/posts/mary-celeste-ghost-ship",
+      "permanent": true
+    },
+    {
+      "source": "/posts/nazca-lines",
+      "destination": "/posts/nazca-lines-peru",
+      "permanent": true
+    },
+    {
+      "source": "/posts/oak-island-money-pit",
+      "destination": "/posts/oak-island-money-pit-nova-scotia",
+      "permanent": true
+    },
+    {
+      "source": "/posts/tunguska-event",
+      "destination": "/posts/tunguska-event-siberia",
+      "permanent": true
+    },
+    {
+      "source": "/posts/roanoke-colony",
+      "destination": "/posts/roanoke-lost-colony",
+      "permanent": true
+    },
+    {
+      "source": "/posts/sarah-winchester-house",
+      "destination": "/posts/winchester-mystery-house",
+      "permanent": true
+    },
+    {
+      "source": "/posts/voynich-manuscript",
+      "destination": "/posts/voynich-manuscript-mystery",
+      "permanent": true
+    }
+  ]
 }
