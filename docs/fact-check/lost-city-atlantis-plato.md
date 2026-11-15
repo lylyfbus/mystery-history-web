@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Plato told Atlantis in Timaeus and Critias, about 360 BCE; they are the only ancient source | Correct | https://en.wikipedia.org/wiki/Atlantis |
@@ -27,6 +29,7 @@ Checked: 2026-11-15
 | Cayce said Atlantis would rise near Bimini; Bimini Road found 1968; natural beachrock | Corrected: "50,000 to 10,000 BCE" and flying machines removed | https://en.wikipedia.org/wiki/Bimini_Road |
 | Blavatsky's Theosophy counted Atlanteans as a root race | Correct | https://en.wikipedia.org/wiki/Atlantis |
 | Jim Allen and the Bolivian Altiplano; Doggerland drowned about 6500 BCE; Minoans had plumbing before Romans | Removed: no source found | |
+| The ash plume of about 20 miles is more than three times the height of Mount Everest (about 5.5 miles) | Correct | https://en.wikipedia.org/wiki/Mount_Everest |
 
 ## Title, description, image
 

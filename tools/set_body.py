@@ -3,7 +3,7 @@
 Usage: python3 tools/set_body.py <post-slug> <text-file>
 
 The text file is plain UTF-8. One paragraph for each block; a blank line between
-blocks. <em>...</em> and <a href="/posts/slug">...</a> are permitted. All other characters are written as text.
+blocks. A block that starts with "## " is a section title. <em>...</em> and <a href="/posts/slug">...</a> are permitted. All other characters are written as text.
 """
 import re
 import sys
@@ -22,14 +22,18 @@ def to_html(text):
 
 
 def set_body(slug, text):
-    paragraphs = [" ".join(block.split()) for block in re.split(r"\n\s*\n", text.strip()) if block.strip()]
+    blocks = [" ".join(block.split()) for block in re.split(r"\n\s*\n", text.strip()) if block.strip()]
+    bad = [b for b in blocks if b.startswith("#") and not re.match(r"## \S", b)]
+    if bad:
+        raise SystemExit(f"{slug}: only '## Title' is permitted as a heading: {bad[0][:60]}")
+    paragraphs = [b for b in blocks if not b.startswith("## ")]
     if len(paragraphs) < 8:
         raise SystemExit(f"{slug}: only {len(paragraphs)} paragraphs; the file looks wrong")
     post = read_post(slug)
     old_body = body_html(post["html"])
     if not old_body:
         raise SystemExit(f"{slug}: cannot find the story body")
-    new_body = "\n\n" + "\n\n".join(f"        <p>{to_html(p)}</p>" for p in paragraphs) + "\n\n                "
+    new_body = "\n\n" + "\n\n".join(f"        <h2>{to_html(b[3:])}</h2>" if b.startswith("## ") else f"        <p>{to_html(b)}</p>" for b in blocks) + "\n\n                "
     if post["html"].count(old_body) != 1:
         raise SystemExit(f"{slug}: story body is not unique in the file")
     write(SRC / "posts" / f"{slug}.html", post["html"].replace(old_body, new_body))

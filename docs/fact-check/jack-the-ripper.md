@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Nichols found near 3:40 am on 31 August 1888 in Buck's Row, now Durward Street | Correct | https://en.wikipedia.org/wiki/Jack_the_Ripper |
@@ -42,6 +44,7 @@ Checked: 2026-11-15
 | Removed: Sir Charles Warren left his job in November 1888 | Removed: no source found | |
 | Removed: top hat and cloak image came from newspapers; crowds attacked innocent men | Removed: no source found | |
 | Removed: Scotland Yard began fingerprints in 1901; Abberline knew the East End well | Removed: no source found | |
+| An alibi is proof that a person was in a different place at the time of a crime | Correct | https://en.wikipedia.org/wiki/Alibi |
 
 ## Title, description, image
 

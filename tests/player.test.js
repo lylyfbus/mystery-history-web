@@ -190,6 +190,20 @@ test('speech text is cut into short parts at sentence ends, and no word is lost'
   assert.deepEqual(Core.splitForSpeech(['', '  '], 120), []);
 });
 
+test('a section title is spoken as its own part, with a full stop', () => {
+  // Problem we had: stories got section titles, and the voice must pause at a title.
+  const parts = Core.partsForSpeech([
+    { title: true, text: 'A book with no ending' },
+    { title: false, text: 'Imagine a great adventure. You turn the page.' },
+    { title: true, text: 'Who told Plato?' },
+    { title: false, text: 'Plato does not say.' },
+    { title: true, text: '  ' },
+  ], 120);
+  assert.deepEqual(parts, ['A book with no ending.', 'Imagine a great adventure. You turn the page.',
+    'Who told Plato?', 'Plato does not say.']);
+  assert.deepEqual(Core.partsForSpeech([], 120), []);
+});
+
 test('a sentence longer than the limit stays in one part', () => {
   const long = 'word '.repeat(60).trim() + '.';
   assert.deepEqual(Core.splitForSpeech([long], 100), [long]);

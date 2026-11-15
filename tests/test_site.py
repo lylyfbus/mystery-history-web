@@ -164,7 +164,7 @@ class SiteTests(unittest.TestCase):
             if not body:
                 bad.append(f"{slug}: cannot find the story body")
                 continue
-            for tag in ("h2", "h3", "h4", "ul", "ol", "img", "audio", "div"):
+            for tag in ("h1", "h3", "h4", "ul", "ol", "img", "audio", "div"):
                 if re.search(rf"<{tag}\b", body):
                     bad.append(f"{slug}: <{tag}> in the story body")
             if len(re.findall(r"<img\b", article_html(page))) != 1:
@@ -461,6 +461,40 @@ class SiteTests(unittest.TestCase):
         for slug in text_rule_slugs():
             text = " ".join(read_post(slug)["paragraphs"]).lower()
             bad += [f"{slug}: contains {phrase!r}" for phrase in BANNED_PHRASES if phrase in text]
+        self.check(bad)
+
+    def test_story_structure(self):
+        # Problem we had: each story had a different structure and number of key points.
+        # Design: docs/superpowers/specs/2026-11-15-story-style-design.md
+        # tests/style_pending.txt lists the stories that are not rebuilt yet. It must become empty.
+        pending = set((ROOT / "tests" / "style_pending.txt").read_text(encoding="utf-8").split())
+        bad = [f"{slug}: is in tests/style_pending.txt but is not a post" for slug in pending - set(post_slugs())]
+        for slug in post_slugs():
+            post = read_post(slug)
+            body = body_html(post["html"])
+            titles = [re.sub(r"<[^>]+>", "", x) for x in re.findall(r"<h2\b[^>]*>(.*?)</h2>", body, re.S)]
+            if slug in pending:
+                if titles:
+                    bad.append(f"{slug}: has section titles; remove it from tests/style_pending.txt")
+                continue
+            if not 6 <= len(titles) <= 8:
+                bad.append(f"{slug}: {len(titles)} section titles (6 to 8)")
+            if not re.match(r"\s*<h2\b", body):
+                bad.append(f"{slug}: the story must start with a section title")
+            if re.search(r"</h2>\s*<h2\b", body):
+                bad.append(f"{slug}: a section title has no text below it")
+            bad += [f"{slug}: section title has more than 8 words: {x}" for x in titles if word_count(x) > 8]
+            words = sum(word_count(p) for p in post["paragraphs"])
+            if not 1100 <= words <= 1600:
+                bad.append(f"{slug}: {words} words in the story (1100 to 1600)")
+            lengths = [word_count(s) for p in post["paragraphs"] for s in sentences(p)]
+            mean = sum(lengths) / max(len(lengths), 1)
+            if not 9 <= mean <= 15:
+                bad.append(f"{slug}: average sentence is {mean:.1f} words (9 to 15)")
+            record = ROOT / "docs" / "fact-check" / f"{slug}.md"
+            if not record.is_file() or not re.search(r"^Restructured: \d{4}-\d{2}-\d{2}$",
+                                                     record.read_text(encoding="utf-8"), re.M):
+                bad.append(f"{slug}: fact-check record has no 'Restructured: YYYY-MM-DD' line")
         self.check(bad)
 
     def test_links_between_stories_are_kept(self):

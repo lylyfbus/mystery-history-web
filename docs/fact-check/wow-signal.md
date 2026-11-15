@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | The signal was recorded at 11:16 PM EDT on August 15, 1977 | Correct | https://www.bigear.org/Wow30th/wow30th.htm |
@@ -27,6 +29,8 @@ Checked: 2026-11-15
 | Filters at Big Ear rejected Earth signals; secret military satellite considered | Removed: no source found | |
 | Quote "I can speculate, too ..." | Removed: no source found | |
 | Hydrogen line protected by international agreement | Correct | https://en.wikipedia.org/wiki/Wow!_signal |
+| A light-year is the distance that light travels in one year | Correct | https://en.wikipedia.org/wiki/Light-year |
+| A comet is a body of ice and dust that orbits the Sun, with a hydrogen cloud around it | Correct | https://en.wikipedia.org/wiki/Comet |
 
 ## Title, description, image
 

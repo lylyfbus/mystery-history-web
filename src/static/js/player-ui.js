@@ -244,9 +244,11 @@
       }).then(function (page) {
         if (token !== S.token) return;
         var doc = new DOMParser().parseFromString(page, 'text/html');
-        var paragraphs = [];
-        doc.querySelectorAll('article.post-content > p').forEach(function (p) { paragraphs.push(p.textContent); });
-        S.parts = [S.story.title + '.'].concat(Core.splitForSpeech(paragraphs));
+        var blocks = [];
+        doc.querySelectorAll('article.post-content > p, article.post-content > h2').forEach(function (el) {
+          blocks.push({ title: el.tagName === 'H2', text: el.textContent });
+        });
+        S.parts = [S.story.title + '.'].concat(Core.partsForSpeech(blocks));
         S.part = Math.min(options.part || 0, S.parts.length - 1);
         S.el.seek.max = String(S.parts.length - 1);
         say(options.message || '');

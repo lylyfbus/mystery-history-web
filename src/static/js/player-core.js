@@ -267,6 +267,19 @@
     return parts;
   }
 
+  // Blocks are the titles and paragraphs of a story, in page order: [{title: true|false, text}].
+  // A section title is spoken as its own part, so the voice pauses before and after it.
+  function partsForSpeech(blocks, maxChars) {
+    var parts = [];
+    (blocks || []).forEach(function (block) {
+      var text = String((block && block.text) || '').replace(/\s+/g, ' ').trim();
+      if (!text) return;
+      if (block.title) parts.push(/[.!?]["'”’)]*$/.test(text) ? text : text + '.');
+      else parts = parts.concat(splitForSpeech([text], maxChars));
+    });
+    return parts;
+  }
+
   function pickSource(story, env) {
     env = env || {};
     if (story && story.audio && !env.mp3Failed) return 'mp3';
@@ -316,6 +329,7 @@
     createQueue: createQueue,
     createSleepTimer: createSleepTimer,
     splitForSpeech: splitForSpeech,
+    partsForSpeech: partsForSpeech,
     pickSource: pickSource,
     saveSession: saveSession,
     loadSession: loadSession,
