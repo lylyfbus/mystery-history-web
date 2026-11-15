@@ -75,3 +75,12 @@ Claims in the posts that look doubtful. They were NOT changed. The owner decides
 | bigfoot-sasquatch | In "2012" Rick Dyer said he shot a Bigfoot near San Antonio | The known claim is from 2012 to 2014; check the date. |
 | black-dahlia | "oldest unsolved homicide in LA history" | Not proven. |
 | dancing-plague-1518 | "As many as fifteen a day" died | Doubtful; the text gives a lower estimate also. |
+| stonehenge-mystery | A "superhenge" of up to 90 standing stones at Durrington Walls | Later digging found pits for posts, not buried stones. |
+| stonehenge-mystery | "About 80" bluestones | 43 survive; 80 is an estimate of the first number. |
+| terracotta-army | Sima Qian says workers were shut in the tomb alive | He says this of the craftsmen who knew the secrets; treat as a report, not a proven fact. |
+| shroud-of-turin | Pollen "proves" a journey from the Middle East; blood type AB | Both claims are strongly disputed. |
+| the-hum | Microseism study "2015, Geophysical Research Letters" | Could not confirm the citation. |
+| the-hum | A sentence said that some hearers took their own lives | Removed for the age 10+ audience. Rewrite says the suffering "becomes very hard to live with". |
+| salem-witch-trials | "Governor Baker pardoned Elizabeth Johnson Jr. in 2022" | She was cleared by a state law in 2022, not by a pardon. |
+| saqqara-bird | "18 centimeters long" and also wingspan 18 cm | Rewrite uses body 14.2 cm, wingspan 18 cm. |
+| the-lost-city-of-heracleion | "6.5 kilometers of seabed ... depth of roughly 10 meters" | Old wording was unclear; rewrite says about 6.5 km from the coast and about 10 m deep. |

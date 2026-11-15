@@ -33,13 +33,7 @@ EXPECTED_GROUP = {
     "skinwalker-ranch": "Unknown Phenomena",
 }
 
-# Until all posts are rewritten, the text rules apply only to the posts in this file.
-_REWRITTEN = ROOT / "tests" / "rewritten.txt"
-
-
 def text_rule_slugs():
-    if _REWRITTEN.exists():
-        return [s.strip() for s in _REWRITTEN.read_text().split() if s.strip()]
     return post_slugs()
 
 
@@ -324,6 +318,12 @@ class SiteTests(unittest.TestCase):
             text = " ".join(read_post(slug)["paragraphs"]).lower()
             bad += [f"{slug}: contains {phrase!r}" for phrase in BANNED_PHRASES if phrase in text]
         self.check(bad)
+
+    def test_links_between_stories_are_kept(self):
+        # Problem we had: a rewrite removed all links from one story to another.
+        # After a rewrite, run: python3 tools/restore_links.py <slug>
+        total = sum(len(re.findall(r'<a href="/posts/', body_html(read_post(s)["html"]))) for s in post_slugs())
+        self.assertGreaterEqual(total, 30, f"only {total} links between stories; a rewrite removed them")
 
     def test_post_is_not_empty(self):
         bad = []
