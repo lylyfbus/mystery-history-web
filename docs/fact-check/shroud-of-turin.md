@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | The cloth is about 4.4 m long and 1.1 m wide | Correct | https://en.wikipedia.org/wiki/Shroud_of_Turin |
@@ -35,6 +37,8 @@ Checked: 2026-11-15
 | A burst of radiation idea; most scientists do not accept it | Softened | https://en.wikipedia.org/wiki/Shroud_of_Turin |
 | 2022 Italian X-ray study says the linen is much older, only if kept warm for centuries | Corrected: was "gave this idea more support" | https://dsctm.cnr.it/images/Highlights/Sindone/DeCaro_Heritage_2022.pdf |
 | People have made similar images with medieval methods | Corrected: was "no one has copied the special features" | https://en.wikipedia.org/wiki/Shroud_of_Turin |
+| A photographic negative is a picture in which light and dark are reversed (definition) | Correct | https://en.wikipedia.org/wiki/Negative_(photography) |
+| A shroud is a cloth that covers a body for burial (definition) | Correct | https://en.wikipedia.org/wiki/Shroud |
 
 ## Title, description, image
 

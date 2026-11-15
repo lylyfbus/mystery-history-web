@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | The bird is 18 centimeters wide from wing tip to wing tip and weighs about 39 grams | Corrected: was "18 centimeters long" in one place and "14.2 centimeters long" in another; the body length is removed | https://en.wikipedia.org/wiki/Saqqara_Bird |

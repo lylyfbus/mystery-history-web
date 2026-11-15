@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Thomas Bartholin (Danish) wrote in 1663 of a Paris woman turned to ash | Correct | https://www.irishtimes.com/news/science/explanation-overdue-for-combustion-of-humans-1.628038 |

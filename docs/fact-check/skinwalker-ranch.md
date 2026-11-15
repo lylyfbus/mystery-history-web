@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Ranch is about 512 acres, southeast of Ballard, Utah | Corrected: was "480-acre", is now "about 512 acres" | https://en.wikipedia.org/wiki/Skinwalker_Ranch |
