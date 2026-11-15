@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Flight 19 had five planes and left Fort Lauderdale at about 2:10 PM on Dec 5, 1945 | Correct | https://en.wikipedia.org/wiki/Flight_19 |

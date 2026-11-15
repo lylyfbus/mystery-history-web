@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Trial in January 897 at the Lateran Basilica | Correct | https://en.wikipedia.org/wiki/Cadaver_Synod |

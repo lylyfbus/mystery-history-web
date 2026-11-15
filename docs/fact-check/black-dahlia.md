@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Betty Bersinger found the body on Jan 15, 1947 in Leimert Park while walking with her daughter | Correct | https://www.biography.com/crime/black-dahlia-murder-mystery |

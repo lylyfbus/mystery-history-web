@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | March 1995: eight sheep found dead, each with small holes in the chest | Corrected: "two or three holes" is now "three holes in the chest"; "story says" no blood | https://en.wikipedia.org/wiki/Chupacabra |

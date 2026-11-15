@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Patterson and Gimlin met the creature on Oct 20, 1967 at Bluff Creek | Correct (date is "according to the filmmakers") | https://en.wikipedia.org/wiki/Patterson%E2%80%93Gimlin_film |
