@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Sponge divers from Symi under Captain Kondos found the wreck in 1900 | Corrected: was "autumn of 1900", is now "in 1900" | https://en.wikipedia.org/wiki/Antikythera_wreck |

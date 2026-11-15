@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Alexander died in Babylon in 323 BCE aged 32 | Correct | https://en.wikipedia.org/wiki/Death_of_Alexander_the_Great |

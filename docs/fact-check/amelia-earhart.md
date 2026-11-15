@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | She disappeared over the Pacific on July 2, 1937 | Correct | https://www.history.com/articles/amelia-earhart |

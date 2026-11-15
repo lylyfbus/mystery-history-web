@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Angkor Wat means City of Temples in Khmer | Correct | https://en.wikipedia.org/wiki/Angkor_Wat |

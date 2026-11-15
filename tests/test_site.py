@@ -472,7 +472,8 @@ class SiteTests(unittest.TestCase):
         for slug in post_slugs():
             post = read_post(slug)
             body = body_html(post["html"])
-            titles = [re.sub(r"<[^>]+>", "", x) for x in re.findall(r"<h2\b[^>]*>(.*?)</h2>", body, re.S)]
+            titles = [html.unescape(re.sub(r"<[^>]+>", "", x))
+                      for x in re.findall(r"<h2\b[^>]*>(.*?)</h2>", body, re.S)]
             if slug in pending:
                 if titles:
                     bad.append(f"{slug}: has section titles; remove it from tests/style_pending.txt")

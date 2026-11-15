@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Eleven people were killed at Yekaterinburg on July 17, 1918: Nicholas, Alexandra, five children, four servants | Correct | https://en.wikipedia.org/wiki/Murder_of_the_Romanov_family |
