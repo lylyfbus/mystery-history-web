@@ -248,3 +248,11 @@
         font-size: 0.78rem;
     }
 }
+
+/* Credit line below a hero photo (photos with a licence that needs a credit) */
+.image-credit {
+    text-align: right;
+    color: #6b7280;
+    font-size: 0.8rem;
+    margin: -12px 0 8px;
+}

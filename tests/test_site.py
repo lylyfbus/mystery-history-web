@@ -33,6 +33,11 @@ EXPECTED_GROUP = {
     "skinwalker-ranch": "Unknown Phenomena",
 }
 
+# Heroes that were replaced because the old AI image did not agree with the story.
+REPLACED_HEROES = ["sacsayhuaman", "rosetta-stone", "gobekli-tepe", "pentagon-uap-reports", "molasses-flood",
+                   "copper-scroll-treasure", "saqqara-bird", "shroud-of-turin"]
+
+
 def text_rule_slugs():
     return post_slugs()
 
@@ -214,6 +219,51 @@ class SiteTests(unittest.TestCase):
         # Group rules: docs/superpowers/specs/2026-11-15-...-design.md section 6.
         bad = [f"{slug}: is {read_post(slug)['group']!r}, must be {want!r}"
                for slug, want in EXPECTED_GROUP.items() if read_post(slug)["group"] != want]
+        self.check(bad)
+
+    # --- images -----------------------------------------------------------
+    def test_hero_alt_same_on_all_cards(self):
+        # A card on the home, archive, or group page shows the hero of a post.
+        # Its description (alt) must be the same as on the post. Tool: tools/set_hero.py
+        bad = []
+        alts = {slug: read_post(slug)["hero_alt"] for slug in post_slugs()}
+        for slug, alt in alts.items():
+            if len(alt) < 20 or alt == read_post(slug)["title"]:
+                bad.append(f"{slug}: the hero alt text must describe the picture: {alt!r}")
+        for path in ["index.html", "archive.html"] + [f"categories/{g}.html" for g in GROUPS]:
+            text = (SRC / path).read_text(encoding="utf-8")
+            for slug, alt in re.findall(r'<img src="[^"]*/posts/([a-z0-9-]+)/hero\.webp" alt="([^"]*)"', text):
+                if slug in alts and html.unescape(alt) != alts[slug]:
+                    bad.append(f"{path}: alt for {slug} is not the same as on the post")
+        self.check(bad)
+
+    def test_image_credits(self):
+        # Each replaced hero has a row in docs/image-credits.md. Photos with a CC BY licence show a credit.
+        licences = {"Public domain", "CC0", "CC BY 4.0", "CC BY-SA 3.0", "CC BY-SA 4.0", "Generated"}
+        rows = [[c.strip() for c in line.strip().strip("|").split("|")]
+                for line in (ROOT / "docs" / "image-credits.md").read_text(encoding="utf-8").splitlines()
+                if line.startswith("| ") and not line.startswith("| Post") and not line.startswith("| ---")]
+        bad = []
+        for row in rows:
+            if len(row) != 5:
+                bad.append(f"bad row: {row}")
+                continue
+            slug, _file, author, licence, source = row
+            if slug not in post_slugs():
+                bad.append(f"{slug}: not a post")
+                continue
+            if licence not in licences:
+                bad.append(f"{slug}: unknown licence {licence!r}")
+            if licence != "Generated" and not source.startswith("https://commons.wikimedia.org/wiki/File:"):
+                bad.append(f"{slug}: source must be a Wikimedia Commons file page")
+            page = read_post(slug)["html"]
+            credit = re.search(r'<p class="image-credit">(.*?)</p>', page, re.S)
+            if licence.startswith("CC BY"):
+                if not credit or author not in html.unescape(credit.group(1)) or licence not in credit.group(1):
+                    bad.append(f"{slug}: the post must show a credit with {author!r} and {licence!r}")
+        for slug in REPLACED_HEROES:
+            if slug not in [r[0] for r in rows]:
+                bad.append(f"{slug}: no row in docs/image-credits.md")
         self.check(bad)
 
     # --- audio player ----------------------------------------------------
