@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Ellison, a young cowhand, saw lights in 1883 while driving cattle through Paisano Pass and thought of an Apache campfire | Corrected: was "open land of West Texas", now Paisano Pass | https://www.tshaonline.org/handbook/entries/marfa-lights |

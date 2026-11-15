@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Broome says she was at Dragon Con around 2009 or 2010 | Softened: sources give 2009 or 2010; it is her own account | https://knowyourmeme.com/memes/the-mandela-effect |

@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Bingham reached Machu Picchu on July 24, 1911, led by farmer Melchor Arteaga; he was a Yale lecturer aged 35 | Corrected: was "melon farmer" | https://en.wikipedia.org/wiki/Machu_Picchu https://en.wikipedia.org/wiki/Hiram_Bingham_III https://www.history.com/this-day-in-history/July-24/machu-picchu-discovered |

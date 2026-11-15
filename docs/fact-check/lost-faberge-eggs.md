@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | 50 Imperial Easter eggs were made for the Romanovs, 1885 to 1917 | Corrected: was "1885 and 1916" | https://en.wikipedia.org/wiki/Faberg%C3%A9_egg |

@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Flood on Monday, October 17, 1814, at Meux's Horse Shoe Brewery | Correct | https://en.wikipedia.org/wiki/London_Beer_Flood https://www.cityam.com/on-this-day-in-1814-the-london-beer-flood/ |
