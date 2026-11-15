@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | The name Minoan comes from the legendary King Minos | Correct | https://en.wikipedia.org/wiki/Minoan_civilization |

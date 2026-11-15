@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Four friends (Scarberrys and Mallettes) reported the creature on Nov 15, 1966 near the TNT area | Correct | https://en.wikipedia.org/wiki/Mothman |

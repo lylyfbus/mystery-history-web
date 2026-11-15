@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | The tank burst on January 15, 1919 at about 12:30 in the afternoon | Correct | https://en.wikipedia.org/wiki/Great_Molasses_Flood |

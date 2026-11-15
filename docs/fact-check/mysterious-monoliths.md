@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Found Nov 18, 2020 by a Utah helicopter crew counting bighorn sheep; pilot Bret Hutchings | Correct | https://en.wikipedia.org/wiki/Utah_monolith |

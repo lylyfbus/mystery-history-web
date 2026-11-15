@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Found on December 5, 1872, about 400 miles east of the Azores | Softened: some sources say December 4 (sea day versus land day) | https://www.history.com/articles/what-happened-to-the-mary-celeste |
