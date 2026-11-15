@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | On November 24, 1971, a man using the name Dan Cooper hijacked Northwest Orient Flight 305, Portland to Seattle | Correct | https://en.wikipedia.org/wiki/D._B._Cooper |

@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Plutarch: Octavian ordered her body buried with Antony in splendid and regal fashion | Corrected: was "regal and splendid", is now "splendid and regal" (quote wording) | https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Antony*.html |

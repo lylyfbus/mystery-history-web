@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Anna Mitchell-Hedges said she found the skull at Lubaantun in 1924 | Corrected: was "1924 or 1926"; her claim is now stated as hers | https://en.wikipedia.org/wiki/Crystal_skull |

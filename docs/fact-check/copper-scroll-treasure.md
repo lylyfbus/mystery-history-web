@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | The scroll was found on March 14, 1952 in Cave 3 near Qumran | Correct | https://en.wikipedia.org/wiki/Copper_Scroll |

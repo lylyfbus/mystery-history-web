@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Strasbourg, a trading city in the Holy Roman Empire, summer 1518 | Correct | https://www.medievalists.net/2012/02/in-a-spin-the-mysterious-dancing-epidemic-of-1518/ |
