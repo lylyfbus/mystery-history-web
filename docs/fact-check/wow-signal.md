@@ -26,7 +26,7 @@ Checked: 2026-11-15
 | No explanation is confirmed; never repeated | Correct | https://www.history.com/this-day-in-history/august-15/wow-signal-detected |
 | Filters at Big Ear rejected Earth signals; secret military satellite considered | Removed: no source found | |
 | Quote "I can speculate, too ..." | Removed: no source found | |
-| Hydrogen line protected by international agreement | Softened: reworded to "close to this frequency ... one reason" | |
+| Hydrogen line protected by international agreement | Correct | https://en.wikipedia.org/wiki/Wow!_signal |
 
 ## Title, description, image
 
