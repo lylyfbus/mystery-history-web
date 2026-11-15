@@ -61,3 +61,17 @@ Claims in the posts that look doubtful. They were NOT changed. The owner decides
 | gobekli-tepe | "Twelve km" from Şanlıurfa, later "fifteen km" | The text disagrees with itself. About 15 km is usual. |
 | franklin-expedition | "160 years" and "170 years" for the same time | The text disagrees with itself. |
 | great-emu-war | "The emu cannot walk backward" | A popular belief, not proven. |
+| cadaver-synod | "Four different men served as pope in 896"; Stephen VI "elected in May 896" | Usual count for 896 is three (Formosus, Boniface VI, Stephen VI). |
+| cadaver-synod | "In 872, after the death of Nicholas I" | Nicholas I died in 867. |
+| chupacabra | <em>Species</em> released "June 1995"; Tolentino sighting "September 1995" | The film came out in July 1995; the sighting is usually dated August 1995. |
+| chupacabra | The film creature was "designed by Steve Johnson" | H. R. Giger designed it; Steve Johnson built the effects. |
+| chupacabra | Elmendorf animal DNA tested "at UC Davis" | Check; Texas State University did the Cuero tests. |
+| cleopatra-tomb | Plutarch wrote "around AD 75" | Usually dated about AD 100 to 120. |
+| cleopatra-tomb | A 2025 announcement of a "submerged port" (Martinez and Ballard) | Could not confirm. |
+| crystal-skulls | Mitchell-Hedges bought the skull "in 1943 from Burney's estate" | He bought it at a Sotheby's sale; Sydney Burney was alive. |
+| db-cooper | Tena Bar is "hundreds of miles downstream" | It is about 20 miles from the supposed jump zone. |
+| db-cooper | "$5,880 / 294 bills" found; money returned "2003" | Usual numbers: $5,800 in 290 bills; returned after a 1986 court decision. |
+| db-cooper | "The Cooper vane remains standard on 727s to this day" | Almost all 727s are retired now. |
+| bigfoot-sasquatch | In "2012" Rick Dyer said he shot a Bigfoot near San Antonio | The known claim is from 2012 to 2014; check the date. |
+| black-dahlia | "oldest unsolved homicide in LA history" | Not proven. |
+| dancing-plague-1518 | "As many as fifteen a day" died | Doubtful; the text gives a lower estimate also. |
