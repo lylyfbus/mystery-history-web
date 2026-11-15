@@ -222,6 +222,33 @@ class SiteTests(unittest.TestCase):
                for slug, want in EXPECTED_GROUP.items() if read_post(slug)["group"] != want]
         self.check(bad)
 
+    # --- audio player ----------------------------------------------------
+    def test_stories_json_matches_posts(self):
+        # The player reads stories.json. Run tools/build_stories.py after a post changes.
+        import json
+        path = SRC / "static" / "data" / "stories.json"
+        self.assertTrue(path.is_file(), "run: python3 tools/build_stories.py")
+        stories = json.loads(path.read_text(encoding="utf-8"))
+        bad = []
+        if sorted(s["slug"] for s in stories) != post_slugs():
+            bad.append("stories.json does not have exactly the posts")
+        if [s["slug"] for s in stories] != listed_slugs("archive.html", r'href="/posts/([a-z0-9-]+)" class="archive-card"'):
+            bad.append("stories.json is not in the archive order")
+        by_name = {name: slug for slug, name in GROUPS.items()}
+        for story in stories:
+            if story["slug"] not in post_slugs():
+                continue
+            post = read_post(story["slug"])
+            if story["title"] != post["title"] or story["group"] != by_name.get(post["group"]):
+                bad.append(f"{story['slug']}: title or group is out of date")
+            if story["image"] != f"/static/images/posts/{story['slug']}/hero.webp":
+                bad.append(f"{story['slug']}: image is {story['image']}")
+            mp3 = SRC / "static" / "audio" / f"{story['slug']}.mp3"
+            want = f"/static/audio/{story['slug']}.mp3" if mp3.is_file() else None
+            if story["audio"] != want:
+                bad.append(f"{story['slug']}: audio is {story['audio']}, must be {want}")
+        self.check(bad)
+
     # --- text rules (audience: age 10+) ---------------------------------
     def test_paragraph_length(self):
         bad = []
