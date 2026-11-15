@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | McLean was born in 1814 and died June 5, 1882, aged 68, buried in St. Paul's cemetery, Alexandria | Correct | https://www.nps.gov/people/wilmer-mclean.htm |

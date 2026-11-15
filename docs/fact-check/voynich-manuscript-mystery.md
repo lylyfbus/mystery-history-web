@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Voynich bought the book in 1912 from a Jesuit college near Rome (Frascati) | Corrected: was "found in an old chest in the Villa Mondragone", is now "bought from a Jesuit college near Rome" | https://beinecke.library.yale.edu/collections/highlights/voynich-manuscript |

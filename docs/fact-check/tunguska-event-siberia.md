@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Blast on June 30, 1908 in Siberia | Correct | https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/ |

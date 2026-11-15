@@ -8,8 +8,3 @@ terracotta-army
 the-hum
 the-lost-city-of-heracleion
 thutmose-ii-tomb
-tunguska-event-siberia
-tutankhamun-curse
-uss-nimitz-tic-tac
-voynich-manuscript-mystery
-wilmer-mclean

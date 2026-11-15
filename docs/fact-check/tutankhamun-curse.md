@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Carter's team found a step on November 4, 1922 | Correct | https://en.wikipedia.org/wiki/Discovery_of_the_tomb_of_Tutankhamun |
