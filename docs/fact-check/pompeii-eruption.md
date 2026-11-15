@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | The eruption was in 79 CE; the summer morning setting | Corrected: was "summer morning"; the date of year is disputed, so now "a day in 79 CE" | https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD |

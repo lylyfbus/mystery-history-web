@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Legend says the test was around 28 October 1943 at the Philadelphia Naval Shipyard on USS Eldridge (DE-173) | Correct (told as legend) | https://en.wikipedia.org/wiki/Philadelphia_Experiment |

@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Lights seen 13 March 1997, 7:30 to 10:30 PM, across about 300 miles from Nevada through Phoenix toward Tucson | Correct | https://en.wikipedia.org/wiki/Phoenix_Lights |

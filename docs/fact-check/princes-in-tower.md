@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Edward V was 12 and Richard of York was 9 | Correct | https://en.wikipedia.org/wiki/Princes_in_the_Tower |
