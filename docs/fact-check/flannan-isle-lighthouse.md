@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Lighthouse is about 20 miles west of Lewis, tower 23 m, light 101 m above sea | Correct | https://en.wikipedia.org/wiki/Flannan_Isles_Lighthouse |

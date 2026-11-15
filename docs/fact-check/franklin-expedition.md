@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Erebus and Terror sailed from Greenhithe on May 19, 1845 | Correct | https://en.wikipedia.org/wiki/Franklin%27s_lost_expedition |

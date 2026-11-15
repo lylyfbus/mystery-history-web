@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Site is about 15 kilometers (nine miles) from Şanlıurfa | Corrected: was "twelve km northeast" and later "fifteen km northeast"; now one figure, no direction | https://www.nationalgeographic.com/history/article/gobekli-tepe |

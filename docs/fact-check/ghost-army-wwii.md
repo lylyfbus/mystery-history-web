@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | 23rd Headquarters Special Troops activated January 20, 1944 at Camp Forrest | Correct | https://www.nationalww2museum.org/war/articles/ghost-army-canvas-and-camouflage |
