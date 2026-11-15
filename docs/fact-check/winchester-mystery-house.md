@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Sarah moved to California in 1884 and bought the farmhouse in 1886 | Corrected: was "bought... 1884 ... 160 acres", is now "moved 1884, bought 1886" | https://www.syfy.com/index%2Ephp/syfy-wire/real-story-behind-the-winchester-house |

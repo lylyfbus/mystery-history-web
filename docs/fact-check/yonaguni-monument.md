@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Kihachiro Aratake found it in 1986 while looking for hammerhead sharks | Correct | https://en.wikipedia.org/wiki/Yonaguni_Monument |

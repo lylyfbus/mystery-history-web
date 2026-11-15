@@ -13,6 +13,3 @@ tutankhamun-curse
 uss-nimitz-tic-tac
 voynich-manuscript-mystery
 wilmer-mclean
-winchester-mystery-house
-yonaguni-monument
-zodiac-killer

@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Five people killed and two badly hurt between December 1968 and October 1969 | Correct | https://abcnews.com/Primetime/story?id=2889679&page=1 |
