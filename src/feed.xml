@@ -5,336 +5,574 @@
     <link>https://pastmysteries.com/</link>
     <description>Evidence-based explainers on ancient mysteries, unusual historical events, and unexplained phenomena.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Apr 2026 05:57:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://pastmysteries.com/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-    <title>Stonehenge: The Ancient Monument That Still Defies Explanation</title>
-    <link>https://pastmysteries.com/posts/stonehenge-mystery</link>
-    <description>A 5,000-year-old circle of massive stones in southern England. The bluestones were transported over 150 miles, and recent research traces the Altar Stone to Scotland — 460 miles away.</description>
-    <pubDate>Tue, 15 Apr 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/stonehenge-mystery</guid>
-  </item>
-  <item>
-    <title>The Mary Celeste: History's Greatest Ghost Ship Mystery</title>
-    <link>https://pastmysteries.com/posts/mary-celeste-ghost-ship</link>
-    <description>In December 1872, a brigantine was found adrift in the Atlantic Ocean. The crew had vanished without a trace, but the ship and its cargo were completely intact.</description>
-    <pubDate>Tue, 15 Apr 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/mary-celeste-ghost-ship</guid>
-  </item>
-  <item>
-    <title>The Phoenix Lights: Arizona's Massive 1997 UFO Sighting</title>
-    <link>https://pastmysteries.com/posts/phoenix-lights-ufo</link>
-    <description>On March 13, 1997, thousands of people across Arizona saw a massive V-shaped formation of lights silently crossing the sky. The governor later admitted he saw it too.</description>
-    <pubDate>Tue, 15 Apr 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/phoenix-lights-ufo</guid>
-  </item>
-<item>
-    <title>The Oak Island Money Pit: 200 Years of Treasure Hunting</title>
-    <link>https://pastmysteries.com/posts/oak-island-money-pit</link>
-    <description>A mysterious pit on a Nova Scotia island has captivated treasure hunters for over two centuries. Elaborate flood tunnels, tantalizing artifacts, and a legendary curse keep the search alive.</description>
-    <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/oak-island-money-pit</guid>
-  </item>
-  <item>
-    <title>The Marfa Lights: Texas Desert's Glowing Mystery</title>
-    <link>https://pastmysteries.com/posts/marfa-lights</link>
-    <description>Glowing orbs of light have appeared regularly in the West Texas desert for over 140 years. Despite scientific studies, no one can fully explain the Marfa Lights.</description>
-    <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/marfa-lights</guid>
-  </item>
-  <item>
-    <title>The Dyatlov Pass Incident: Nine Hikers Died Under Impossible Circumstances</title>
-    <link>https://pastmysteries.com/posts/dyatlov-pass</link>
-    <description>In 1959, nine experienced Soviet hikers were found dead in the Ural Mountains under bizarre conditions — some with crushing injuries, some with missing body parts, all partially clothed in freezing temperatures.</description>
-    <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/dyatlov-pass</guid>
-  </item>
-  <item>
-    <title>D.B. Cooper: The Only Unsolved Skyjacking in American History</title>
-    <link>https://pastmysteries.com/posts/db-cooper</link>
-    <description>In 1971, a man hijacked a commercial flight, collected $200,000 in ransom, and parachuted into the night sky — never to be seen again. New FBI files released in 2025 have reignited the hunt.</description>
-    <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/db-cooper</guid>
-  </item>
-  <item>
-    <title>Cleopatra's Lost Tomb: Where Is Egypt's Last Queen Buried?</title>
-    <link>https://pastmysteries.com/posts/cleopatra-tomb</link>
-    <description>The tomb of Cleopatra VII, the last pharaoh of Egypt, has never been found. A 2025 underwater port discovery near Taposiris Magna has reignited the search.</description>
-    <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/cleopatra-tomb</guid>
-  </item>
-  <item>
-    <title>Amelia Earhart: 88 Years Later, Are We Close to Finding Her Plane?</title>
-    <link>https://pastmysteries.com/posts/amelia-earhart</link>
-    <description>Amelia Earhart vanished during her 1937 around-the-world flight. New satellite imagery and competing expeditions in 2025 may finally solve aviation's greatest mystery.</description>
-    <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/amelia-earhart</guid>
-  </item>
-  <item>
-    <title>The Philadelphia Experiment: Did the Navy Make a Ship Invisible?</title>
-    <link>https://pastmysteries.com/posts/philadelphia-experiment</link>
-    <description>In 1943, the U.S. Navy allegedly made the USS Eldridge disappear using electromagnetic fields. Was it real government technology or an elaborate hoax?</description>
-    <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/philadelphia-experiment</guid>
-  </item>
-  <item>
-    <title>The Bermuda Triangle: Why Do Ships and Planes Keep Disappearing?</title>
-    <link>https://pastmysteries.com/posts/bermuda-triangle</link>
-    <description>An area of the Atlantic Ocean where dozens of ships and aircraft have vanished without explanation. What is really happening in the Bermuda Triangle?</description>
-    <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/bermuda-triangle</guid>
-  </item>
-  <item>
-    <title>The Wow! Signal: Did We Receive a Message From Aliens in 1977?</title>
-    <link>https://pastmysteries.com/posts/wow-signal</link>
-    <description>In 1977, a radio telescope picked up a signal from space so strong that a scientist wrote "Wow!" on the printout. Was it extraterrestrial intelligence?</description>
-    <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/wow-signal</guid>
-  </item>
-  <item>
-    <title>Derinkuyu Underground City: 20,000 People Lived Beneath Turkey!</title>
-    <link>https://pastmysteries.com/posts/derinkuyu-underground-city</link>
-    <description>A massive underground city in Turkey that housed 20,000 people across 18 levels. Who built Derinkuyu and why did they live underground?</description>
-    <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/derinkuyu-underground-city</guid>
-  </item>
-  <item>
-    <title>The Ghost Army: How Fake Tanks and Sound Effects Helped Win WWII</title>
-    <link>https://pastmysteries.com/posts/ghost-army-wwii</link>
-    <description>A secret U.S. Army unit used inflatable tanks, recorded sounds, and phony radio messages to fool Nazi forces. Their deceptions saved thousands of lives.</description>
-    <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/ghost-army-wwii</guid>
-  </item>
-  <item>
-    <title>Sacsayhuamán: The Inca Fortress Built With Impossible Stones</title>
-    <link>https://pastmysteries.com/posts/sacsayhuaman</link>
-    <description>Massive stone blocks weighing up to 200 tons fit together so perfectly that not even a sheet of paper fits between them. How did the Inca build Sacsayhuamán?</description>
-    <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/sacsayhuaman</guid>
-  </item>
-  <item>
-    <title>The Lost Colony of Roanoke: America's Oldest Mystery</title>
-    <link>https://pastmysteries.com/posts/roanoke-colony</link>
-    <description>In 1590, 117 English colonists vanished from Roanoke Island without a trace. The only clue was a single word carved into a tree: CROATOAN. What happened to them?</description>
-    <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/roanoke-colony</guid>
-  </item>
-  <item>
-    <title>The Bennington Triangle: Vermont's Bermuda Triangle</title>
-    <link>https://pastmysteries.com/posts/bennington-triangle</link>
-    <description>Between 1945 and 1950, at least ten people vanished without a trace in a remote area of Vermont. No bodies were ever found. What happened in the Bennington Triangle?</description>
-    <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/bennington-triangle</guid>
-  </item>
-  <item>
-    <title>The London Beer Flood of 1814: A Wave of Destruction</title>
-    <link>https://pastmysteries.com/posts/london-beer-flood</link>
-    <description>Over 300,000 gallons of beer burst from a brewery vat in 1814, flooding London streets, destroying homes, and killing eight people in one of history's strangest disasters.</description>
-    <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/london-beer-flood</guid>
-  </item>
-  <item>
-    <title>The Saqqara Bird: Did Ancient Egyptians Understand Flight?</title>
-    <link>https://pastmysteries.com/posts/saqqara-bird</link>
-    <description>A 2,200-year-old wooden bird from Egypt has aerodynamic features that match modern aircraft design. Was it a toy, a ritual object, or proof of ancient flight knowledge?</description>
-    <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/saqqara-bird</guid>
-  </item>
-  <item>
-    <title>The Copper Scroll Treasure: Ancient Treasure Map or Myth?</title>
-    <link>https://pastmysteries.com/posts/copper-scroll-treasure</link>
-    <description>A 2,000-year-old copper scroll found near the Dead Sea describes billions in hidden gold and silver. Has anyone ever found the treasure?</description>
-    <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/copper-scroll-treasure</guid>
-  </item>
-  <item>
-    <title>Spontaneous Human Combustion: Can People Really Self-Ignite?</title>
-    <link>https://pastmysteries.com/posts/spontaneous-human-combustion</link>
-    <description>For over 300 years, people have reportedly burst into flames with no ignition source. Is spontaneous human combustion real, or is there a scientific explanation?</description>
-    <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/spontaneous-human-combustion</guid>
-  </item>
-  <item>
-    <title>Thutmose II Tomb: The Lost Pharaoh Found!</title>
-    <link>https://pastmysteries.com/posts/thutmose-ii-tomb</link>
-    <description>Egypt announces the discovery of Thutmose II's tomb - the first royal tomb found since Tutankhamun in 1922!</description>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/thutmose-ii-tomb</guid>
-  </item>
-  <item>
-    <title>The Mysterious Monoliths: Metal Pillars from Nowhere</title>
-    <link>https://pastmysteries.com/posts/mysterious-monoliths</link>
-    <description>Strange metal monoliths appeared in remote locations worldwide in 2020. Were they art, pranks, or something else entirely?</description>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/mysterious-monoliths</guid>
-  </item>
-  <item>
-    <title>The Roman Dodecahedron: Ancient Mystery That Still Baffles Experts</title>
-    <link>https://pastmysteries.com/posts/roman-dodecahedron</link>
-    <description>Over 130 mysterious 12-sided bronze objects have been found across the Roman Empire, but no one knows what they were used for.</description>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/roman-dodecahedron</guid>
-  </item>
-  <item>
-    <title>Pentagon UAP Reports 2024: What Does the Government Know?</title>
-    <link>https://pastmysteries.com/posts/pentagon-uap-reports</link>
-    <description>The latest developments in the US government's investigation of unidentified anomalous phenomena.</description>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/pentagon-uap-reports</guid>
-  </item>
-  <item>
-    <title>Wilmer McLean: The Man Who Couldn't Escape the Civil War</title>
-    <link>https://pastmysteries.com/posts/wilmer-mclean</link>
-    <description>The incredible true story of the man whose property witnessed both the first battle and final surrender of the American Civil War.</description>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/wilmer-mclean</guid>
-  </item>
-  <item>
-    <title>The New England Vampire Panic of 1892</title>
-    <link>https://pastmysteries.com/posts/new-england-vampire-panic</link>
-    <description>When tuberculosis ravaged New England families, desperate communities turned to an unlikely culprit: vampires.</description>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/new-england-vampire-panic</guid>
-  </item>
-  <item>
-    <title>The Crystal Skulls - Past Mystery</title>
-    <link>https://pastmysteries.com/posts/crystal-skulls</link>
-    <description>Mysterious quartz skulls were once thought to be ancient Mayan artifacts with magical powers. But science revealed a surprising truth about their origins!</description>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/crystal-skulls</guid>
-  </item>
-  <item>
-    <title>The Cadaver Synod - Past Mystery</title>
-    <link>https://pastmysteries.com/posts/cadaver-synod</link>
-    <description>A medieval pope put a dead pope on trial! This bizarre event in 897 CE remains one of history's strangest moments.</description>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/cadaver-synod</guid>
-  </item>
-  <item>
-    <title>The Baghdad Battery - Past Mystery</title>
-    <link>https://pastmysteries.com/posts/baghdad-battery</link>
-    <description>A 2,000-year-old jar discovered in Iraq might be an ancient electric battery! Did ancient civilizations have electricity long before Edison?</description>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/baghdad-battery</guid>
-  </item>
-  <item>
-    <title>The Hessdalen Lights - Past Mystery</title>
-    <link>https://pastmysteries.com/posts/hessdalen-lights</link>
-    <description>Mysterious glowing lights have appeared in a Norwegian valley for decades. Scientists study them, but no one can fully explain what they are!</description>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/hessdalen-lights</guid>
-  </item>
-  <item>
-    <title>The Tunguska Event - Past Mystery</title>
-    <link>https://pastmysteries.com/posts/tunguska-event</link>
-    <description>In 1908, something exploded over Siberia with the power of 1,000 atomic bombs. It flattened 800 square miles of forest - yet left no crater!</description>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/tunguska-event</guid>
-  </item>
-  <item>
-    <title>The Great Molasses Flood - Past Mystery</title>
-    <link>https://pastmysteries.com/posts/molasses-flood</link>
-    <description>A massive wave of molasses destroyed a Boston neighborhood in 1919! How could sweet syrup cause so much destruction?</description>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/molasses-flood</guid>
-  </item>
-  <item>
-    <title>The Hum - Past Mystery</title>
-    <link>https://pastmysteries.com/posts/the-hum</link>
-    <description>A mysterious low-frequency sound torments people around the world. Only some can hear it, but scientists still can't fully explain what causes it!</description>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/the-hum</guid>
-  </item>
-  <item>
-    <title>The Lost City of Heracleion - Past Mystery</title>
-    <link>https://pastmysteries.com/posts/the-lost-city-of-heracleion</link>
-    <description>A magnificent ancient Egyptian city that sank into the Mediterranean Sea and stayed hidden for over 1,200 years. Divers discovered temples, statues, and treasures beneath the waves!</description>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/the-lost-city-of-heracleion</guid>
-  </item>
-  <item>
-    <title>Ball Lightning: The Ghost Orbs of Storms</title>
-    <link>https://pastmysteries.com/posts/ball-lightning</link>
-    <description>Imagine a glowing ball of electricity floating through walls and doors. Scientists have tried to explain it for centuries, but ball lightning remains one of nature's biggest mysteries!</description>
-    <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/ball-lightning</guid>
-  </item>
-  <item>
-    <title>The Terracotta Army: 8,000 Clay Soldiers!</title>
-    <link>https://pastmysteries.com/posts/terracotta-army</link>
-    <description>Farmers digging a well discovered an underground army of 8,000 life-sized clay soldiers - each one unique! This incredible army was buried over 2,200 years ago.</description>
-    <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/terracotta-army</guid>
-  </item>
-  <item>
-    <title>Indus Valley Civilization: Cities Before Their Time!</title>
-    <link>https://pastmysteries.com/posts/indus-valley-civilization</link>
-    <description>Over 4,000 years ago, people built cities with running water, flush toilets, and grid-planned streets. Then they vanished - and we still can't read their writing!</description>
-    <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/indus-valley-civilization</guid>
-  </item>
-  <item>
-    <title>The Voynich Manuscript: The Book No One Can Read!</title>
-    <link>https://pastmysteries.com/posts/voynich-manuscript</link>
-    <description>A 600-year-old book full of weird plants, secret codes, and naked people in green pools. The smartest people in the world have tried to read it - and all of them failed!</description>
-    <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/voynich-manuscript</guid>
-  </item>
-  <item>
-    <title>The Lost Fabergé Eggs: A Royal Treasure Hunt!</title>
-    <link>https://pastmysteries.com/posts/lost-faberge-eggs</link>
-    <description>Imagine eggs made of gold and diamonds, each hiding a tiny secret inside. 8 of these magical treasures are still missing - could you be the one to find them?</description>
-    <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/lost-faberge-eggs</guid>
-  </item>
-  <item>
-    <title>The Nazca Lines: Giant Drawings in the Desert!</title>
-    <link>https://pastmysteries.com/posts/nazca-lines</link>
-    <description>Mysterious giant drawings etched into the Peruvian desert over 2,000 years ago. They can only be seen from the sky - but why did ancient people make art they couldn't see?</description>
-    <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/nazca-lines</guid>
-  </item>
-  <item>
-    <title>The Dancing Plague: When People Danced to Their Death!</title>
-    <link>https://pastmysteries.com/posts/dancing-plague-1518</link>
-    <description>In 1518, a strange illness swept through Strasbourg. People couldn't stop dancing - even when their feet bled and their bodies gave out. What caused this mysterious plague?</description>
-    <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/dancing-plague-1518</guid>
-  </item>
-  <item>
-    <title>The Battle of Los Angeles: Did UFOs Attack in 1942?</title>
-    <link>https://pastmysteries.com/posts/battle-los-angeles</link>
-    <description>In 1942, Los Angeles was attacked by... something. For hours, the military fired over 1,400 shells at a mysterious object in the sky. But what was it?</description>
-    <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/battle-los-angeles</guid>
-  </item>
-  <item>
-    <title>The Antikythera Mechanism: An Ancient Computer!</title>
-    <link>https://pastmysteries.com/posts/antikythera-mechanism</link>
-    <description>Divers found a 2,000-year-old machine at the bottom of the ocean. It had gears like a clock - but ancient Greeks weren't supposed to have this technology!</description>
-    <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/antikythera-mechanism</guid>
-  </item>
-  <item>
-    <title>Gobekli Tepe: The World's First Temple!</title>
-    <link>https://pastmysteries.com/posts/gobekli-tepe</link>
-    <description>A temple built 12,000 years ago - before humans even invented farming! This discovery changed everything we thought we knew about ancient civilizations.</description>
-    <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/gobekli-tepe</guid>
-  </item>
-  <item>
-    <title>New Jersey Drones: The Mystery in the Sky!</title>
-    <link>https://pastmysteries.com/posts/new-jersey-drones-mystery</link>
-    <description>Mysterious drones appeared over New Jersey neighborhoods, baffling residents and officials. What were they? Where did they come from? The mystery remains unsolved!</description>
-    <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/new-jersey-drones-mystery</guid>
-  </item>
-  <item>
-    <title>The Great Emu War: When Birds Defeated the Army!</title>
-    <link>https://pastmysteries.com/posts/great-emu-war</link>
-    <description>In 1932, the Australian military went to war against 20,000 emus. The emus won. This is the hilarious true story of history's most embarrassing military campaign.</description>
-    <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-    <guid>https://pastmysteries.com/posts/great-emu-war</guid>
-  </item>
+      <title>The Nazca Lines: Ancient Desert Geoglyphs That Can Only Be Fully Seen From the Sky</title>
+      <link>https://pastmysteries.com/posts/nazca-lines-peru</link>
+      <description>Etched 2,000 years ago in the Peruvian desert, the Nazca Lines span 400 square miles and are visible only from the sky. Who built them, and why?</description>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/nazca-lines-peru</guid>
+    </item>
+    <item>
+      <title>The Lost City of Atlantis: Plato's Ancient Warning About Hubris and Cataclysm</title>
+      <link>https://pastmysteries.com/posts/lost-city-atlantis-plato</link>
+      <description>For 2,400 years, humanity has searched for Atlantis. Was Plato's account a true story, or a philosophical metaphor? The search continues.</description>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/lost-city-atlantis-plato</guid>
+    </item>
+    <item>
+      <title>The Yonaguni Monument: Japan's Underwater Mystery</title>
+      <link>https://pastmysteries.com/posts/yonaguni-monument</link>
+      <description>Discovered off Japan in 1986, the Yonaguni Monument is a massive underwater structure with terraces and steps. Is it a natural formation — or a lost city?</description>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/yonaguni-monument</guid>
+    </item>
+    <item>
+      <title>The Winchester Mystery House: 38 Years of Building, Staircases to Nowhere, and a Heiress Haunted by Grief</title>
+      <link>https://pastmysteries.com/posts/winchester-mystery-house</link>
+      <description>Sarah Winchester spent 38 years building a 160-room maze of stairs to nowhere and doors to drops. Was it ghostly instruction or the architecture of grief?</description>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/winchester-mystery-house</guid>
+    </item>
+    <item>
+      <title>The Voynich Manuscript: The Most Mysterious Book in the World</title>
+      <link>https://pastmysteries.com/posts/voynich-manuscript-mystery</link>
+      <description>A 600-year-old book written in an unknown script with bizarre illustrations has defied every attempt to decode it — from WWII codebreakers to modern AI.</description>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/voynich-manuscript-mystery</guid>
+    </item>
+    <item>
+      <title>The Curse of Tutankhamun: Myth, Media, and the Science Behind Egypt's Most Famous Legend</title>
+      <link>https://pastmysteries.com/posts/tutankhamun-curse</link>
+      <description>When Lord Carnarvon died weeks after opening Tutankhamun's tomb, the world whispered of a curse. Science has explanations — but the legend endures.</description>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/tutankhamun-curse</guid>
+    </item>
+    <item>
+      <title>The Tunguska Event: The Morning the Sky Exploded Over Siberia</title>
+      <link>https://pastmysteries.com/posts/tunguska-event-siberia</link>
+      <description>In 1908, an explosion flattened 80 million trees across Siberia. There was no crater, no meteorite — just devastation. The cause is still debated today.</description>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/tunguska-event-siberia</guid>
+    </item>
+    <item>
+      <title>Salem Witch Trials: How Mass Hysteria and Fear Executed 20 People in Colonial America</title>
+      <link>https://pastmysteries.com/posts/salem-witch-trials</link>
+      <description>In 1692, young girls in Salem began convulsing and accusing neighbors of witchcraft. Nineteen people were hanged. The truth behind the hysteria remains debated.</description>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/salem-witch-trials</guid>
+    </item>
+    <item>
+      <title>The Lost Colony of Roanoke: America's Oldest Unsolved Mystery and the Word Carved in Wood</title>
+      <link>https://pastmysteries.com/posts/roanoke-lost-colony</link>
+      <description>In 1590, John White returned to Roanoke to find 117 settlers gone. All that remained was a single word carved into a wooden post: CROATOAN.</description>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/roanoke-lost-colony</guid>
+    </item>
+    <item>
+      <title>The Princes in the Tower: England's Most Enduring Royal Mystery</title>
+      <link>https://pastmysteries.com/posts/princes-in-tower</link>
+      <description>Two young princes vanished from the Tower of London in 1483. Their uncle Richard III was blamed - but the evidence tells a more complicated story.</description>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/princes-in-tower</guid>
+    </item>
+    <item>
+      <title>The Oak Island Money Pit: 200 Years of Treasure Hunting and the World's Most Famous Hole</title>
+      <link>https://pastmysteries.com/posts/oak-island-money-pit-nova-scotia</link>
+      <description>Since 1795, treasure hunters have dug into the Oak Island Money Pit. Six men have died searching. No treasure has been found — and the mystery endures.</description>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/oak-island-money-pit-nova-scotia</guid>
+    </item>
+    <item>
+      <title>The Fall of the Minoans: How Earth's Biggest Eruption Toppled a Civilization</title>
+      <link>https://pastmysteries.com/posts/minoan-civilization-collapse</link>
+      <description>For over a millennium, the Minoans ruled the Mediterranean. Then Thera erupted, and their civilization vanished. Did they become Plato's Atlantis?</description>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/minoan-civilization-collapse</guid>
+    </item>
+    <item>
+      <title>The Library of Alexandria: The Greatest Collection of Knowledge the Ancient World Ever Knew</title>
+      <link>https://pastmysteries.com/posts/library-of-alexandria</link>
+      <description>Founded in the 3rd century BCE, the Library of Alexandria held the ancient world's knowledge — then it was destroyed. Who did it, and what was lost?</description>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/library-of-alexandria</guid>
+    </item>
+    <item>
+      <title>The Great Sphinx of Giza: Secrets of the World's Oldest and Largest Monument</title>
+      <link>https://pastmysteries.com/posts/great-sphinx-giza-mystery</link>
+      <description>Carved from a single limestone outcrop 4,500 years ago, the Great Sphinx guards the Giza Plateau. Who built it, and whose face does it wear?</description>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/great-sphinx-giza-mystery</guid>
+    </item>
+    <item>
+      <title>The Franklin Expedition: Arctic Ice, Lost Ships, and the Inuit Who Knew Where They Were</title>
+      <link>https://pastmysteries.com/posts/franklin-expedition</link>
+      <description>In 1845, 129 men sailed into the Arctic and vanished. A century and a half later, Inuit oral history revealed what the Victorian world could not.</description>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/franklin-expedition</guid>
+    </item>
+    <item>
+      <title>The Flannan Isle Lighthouse Mystery: Three Keepers Who Vanished Without a Trace</title>
+      <link>https://pastmysteries.com/posts/flannan-isle-lighthouse</link>
+      <description>In 1900, three lighthouse keepers vanished from a remote Scottish island. The table was set for dinner, the clocks had stopped — and no trace was ever found.</description>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/flannan-isle-lighthouse</guid>
+    </item>
+    <item>
+      <title>The Moai of Easter Island: How Did a Lost Civilization Move 1,000 Giant Stone Statues?</title>
+      <link>https://pastmysteries.com/posts/easter-island-moai-statues</link>
+      <description>Nearly 1,000 massive stone statues stand on a remote Pacific island. The Rapa Nui carved them — but how did they move giants weighing 80 tons?</description>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/easter-island-moai-statues</guid>
+    </item>
+    <item>
+      <title>Dyatlov Pass Incident: The 1959 Mystery Where 9 Hikers Died in Ways That Still Defy Explanation</title>
+      <link>https://pastmysteries.com/posts/dyatlov-pass-incident</link>
+      <description>In 1959, nine hikers fled their tent into subzero darkness, cutting through it from the inside. Their bodies were found with injuries no one can explain.</description>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/dyatlov-pass-incident</guid>
+    </item>
+    <item>
+      <title>The Baghdad Battery: Did Ancient Civilizations Discover Electricity 1,500 Years Early?</title>
+      <link>https://pastmysteries.com/posts/baghdad-battery-ancient-electricity</link>
+      <description>A 2,000-year-old clay jar near Baghdad held a copper cylinder and iron rod — a primitive battery. What was it powering, and why did the technology vanish?</description>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/baghdad-battery-ancient-electricity</guid>
+    </item>
+    <item>
+      <title>The Antikythera Mechanism: An Ancient Greek Computer 1,500 Years Ahead of Its Time</title>
+      <link>https://pastmysteries.com/posts/antikythera-mechanism-ancient-computer</link>
+      <description>In 1901, a Roman shipwreck yielded a corroded lump of bronze — the world's first analog computer, predicting eclipses and tracking planets with eerie accuracy.</description>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/antikythera-mechanism-ancient-computer</guid>
+    </item>
+    <item>
+      <title>Angkor Wat: The Largest Religious Monument Ever Built and the City That Vanished</title>
+      <link>https://pastmysteries.com/posts/angkor-wat-mystery</link>
+      <description>The Khmer Empire built the largest religious structure on Earth — then abandoned it to the jungle. LIDAR scans now reveal the true scale of their lost city.</description>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/angkor-wat-mystery</guid>
+    </item>
+    <item>
+      <title>The Lost Tomb of Alexander the Great: The Greatest Archaeological Mystery of the Ancient World</title>
+      <link>https://pastmysteries.com/posts/alexander-great-tomb</link>
+      <description>Alexander the Great was buried in a golden sarcophagus in Alexandria, visited by emperors, and then vanished from history. Where is his tomb today?</description>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/alexander-great-tomb</guid>
+    </item>
+    <item>
+      <title>Zodiac Killer: The Unsolved Murders That Terrified California and Defied the FBI</title>
+      <link>https://pastmysteries.com/posts/zodiac-killer</link>
+      <description>From 1968 to 1969, the Zodiac Killer murdered at least five people in the Bay Area and taunted police with cryptic letters. His identity remains unknown.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/zodiac-killer</guid>
+    </item>
+    <item>
+      <title>USS Nimitz Tic Tac Encounter: The Navy Pilot UFO Sighting That the Pentagon Couldn't Explain</title>
+      <link>https://pastmysteries.com/posts/uss-nimitz-tic-tac</link>
+      <description>In 2004, Navy Commander David Fravor encountered a 40-foot wingless craft off San Diego. It defied physics — and the Pentagon's video footage is now public.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/uss-nimitz-tic-tac</guid>
+    </item>
+    <item>
+      <title>Skinwalker Ranch: The 480-Acre Property in Utah Where Paranormal Activity Became a Government Secret</title>
+      <link>https://pastmysteries.com/posts/skinwalker-ranch</link>
+      <description>In 1994, a family bought a Utah ranch and encountered bulletproof wolf-like creatures and UFOs. The Pentagon investigated — and the files are classified.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/skinwalker-ranch</guid>
+    </item>
+    <item>
+      <title>Shroud of Turin: The 14-Foot Linen That Science Still Can't Explain</title>
+      <link>https://pastmysteries.com/posts/shroud-of-turin</link>
+      <description>A 14-foot linen cloth bearing the image of a crucified man has defied explanation. Carbon dating says medieval — but new evidence keeps the debate alive.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/shroud-of-turin</guid>
+    </item>
+    <item>
+      <title>Roswell UFO Incident: The 1947 Crash That Launched a Thousand Conspiracy Theories</title>
+      <link>https://pastmysteries.com/posts/roswell-ufo-incident</link>
+      <description>In July 1947, a press release announced the capture of a flying saucer near Roswell, New Mexico. The Army retracted it hours later — and the legend was born.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/roswell-ufo-incident</guid>
+    </item>
+    <item>
+      <title>Rosetta Stone: How One Broken Slab Unlocked 3,000 Years of Lost Egyptian History</title>
+      <link>https://pastmysteries.com/posts/rosetta-stone</link>
+      <description>Discovered by French soldiers in 1799, the Rosetta Stone held the same text in three scripts. It unlocked Egyptian hieroglyphics — and changed archaeology.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/rosetta-stone</guid>
+    </item>
+    <item>
+      <title>Pompeii: The City Frozen in Ash for 1,700 Years That Changed How We See Ancient Rome</title>
+      <link>https://pastmysteries.com/posts/pompeii-eruption</link>
+      <description>On August 24, 79 AD, Mount Vesuvius buried Pompeii under tons of ash. The city was frozen in time — and its final moments are still being uncovered.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/pompeii-eruption</guid>
+    </item>
+    <item>
+      <title>Mothman: The Winged Creature That Terrorized a West Virginia Town for 13 Months</title>
+      <link>https://pastmysteries.com/posts/mothman-point-pleasant</link>
+      <description>For 13 months, over 100 people in Point Pleasant reported a winged humanoid with glowing red eyes. Then the bridge collapsed. Was the Mothman a warning?</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/mothman-point-pleasant</guid>
+    </item>
+    <item>
+      <title>The Mandela Effect: Why Millions of People Remember a History That Never Happened</title>
+      <link>https://pastmysteries.com/posts/mandela-effect</link>
+      <description>Thousands remember Nelson Mandela dying in prison in the 1980s. He died in 2013. Is this a collective false memory — or evidence of parallel realities?</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/mandela-effect</guid>
+    </item>
+    <item>
+      <title>Machu Picchu: The Lost Citadel of the Incas That Was Never Really Lost</title>
+      <link>https://pastmysteries.com/posts/machu-picchu-mystery</link>
+      <description>In 1911, Hiram Bingham stumbled upon Machu Picchu — a 500-year-old Inca citadel in the clouds. Why was it built, and why was it abandoned?</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/machu-picchu-mystery</guid>
+    </item>
+    <item>
+      <title>Loch Ness Monster: 1,500 Years of Sightings, Sonar Contacts, and the Photograph That Fooled the World</title>
+      <link>https://pastmysteries.com/posts/loch-ness-monster</link>
+      <description>Since 565 AD, people have reported a water beast in Loch Ness. The famous ‘surgeon’s photo’ was exposed as a hoax — but the legend refuses to die.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/loch-ness-monster</guid>
+    </item>
+    <item>
+      <title>El Dorado: The Legendary City of Gold That Drove Conquistadors Mad</title>
+      <link>https://pastmysteries.com/posts/el-dorado-lost-city</link>
+      <description>El Dorado was not a city but a person — a Muisca king covered in gold dust. Discover how this Colombian ceremony became the greatest treasure legend in history.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/el-dorado-lost-city</guid>
+    </item>
+    <item>
+      <title>Dead Sea Scrolls: The 2,000-Year-Old Texts That Rewrote Biblical History</title>
+      <link>https://pastmysteries.com/posts/dead-sea-scrolls</link>
+      <description>Discovered by accident in 1947, the Dead Sea Scrolls are the oldest known biblical manuscripts. Who wrote them, and who hid them in desert caves?</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/dead-sea-scrolls</guid>
+    </item>
+    <item>
+      <title>Chupacabra: The Blood-Sucking Beast That Terrorized Latin America and Became a Global Legend</title>
+      <link>https://pastmysteries.com/posts/chupacabra</link>
+      <description>In 1995, sheep were found dead in Puerto Rico, drained of blood. The culprit? A creature locals called El Chupacabra — and the legend spread fast.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/chupacabra</guid>
+    </item>
+    <item>
+      <title>Black Dahlia: The Gruesome 1947 Murder That Remains Hollywood's Greatest Unsolved Case</title>
+      <link>https://pastmysteries.com/posts/black-dahlia</link>
+      <description>In 1947, Elizabeth Short's severed body was found in a Los Angeles vacant lot. The killer was never caught — and the case still haunts America.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/black-dahlia</guid>
+    </item>
+    <item>
+      <title>Ark of the Covenant: The Golden Chest That Contained God's Power and Vanished Without a Trace</title>
+      <link>https://pastmysteries.com/posts/ark-of-the-covenant</link>
+      <description>According to the Bible, the Ark was a gold chest of devastating power. It vanished from history — and its fate remains archaeology's greatest mystery.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/ark-of-the-covenant</guid>
+    </item>
+    <item>
+      <title>Anastasia Romanov: The Princess Who Vanished and the Woman Who Spent 60 Years Pretending to Be Her</title>
+      <link>https://pastmysteries.com/posts/anastasia-romanov</link>
+      <description>In July 1918, the Romanov family was executed. When two bodies vanished, the legend of Anastasia's survival was born — a mystery that captivated the world.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/anastasia-romanov</guid>
+    </item>
+    <item>
+      <title>Stonehenge: The Ancient Monument That Still Defies Explanation</title>
+      <link>https://pastmysteries.com/posts/stonehenge-mystery</link>
+      <description>How did Neolithic people move 25-ton stones over 150 miles to build Stonehenge? And why? The answers are still buried beneath Salisbury Plain.</description>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/stonehenge-mystery</guid>
+    </item>
+    <item>
+      <title>The Pyramids of Giza: 4,500 Years Later, We Still Cannot Fully Explain How They Were Built</title>
+      <link>https://pastmysteries.com/posts/pyramids-of-giza</link>
+      <description>The Great Pyramid contains 2.3 million stone blocks weighing up to 80 tons, aligned to true north with incredible precision. How was it built?</description>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/pyramids-of-giza</guid>
+    </item>
+    <item>
+      <title>The Phoenix Lights: Arizona's Massive 1997 UFO Sighting</title>
+      <link>https://pastmysteries.com/posts/phoenix-lights-ufo</link>
+      <description>On March 13, 1997, thousands watched a V-shaped formation of lights drift across Arizona. The Air Force said flares. Witnesses say the truth is stranger.</description>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/phoenix-lights-ufo</guid>
+    </item>
+    <item>
+      <title>The Mary Celeste: History's Greatest Ghost Ship Mystery</title>
+      <link>https://pastmysteries.com/posts/mary-celeste-ghost-ship</link>
+      <description>In 1872, the Mary Celeste was found adrift in the Atlantic with no crew aboard. The cargo was intact, the lifeboat was gone — and no one knows why.</description>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/mary-celeste-ghost-ship</guid>
+    </item>
+    <item>
+      <title>Jack the Ripper: The Victorian Killer Whose Identity Remains a Mystery</title>
+      <link>https://pastmysteries.com/posts/jack-the-ripper</link>
+      <description>In 1888, Jack the Ripper murdered five women in Whitechapel. He taunted police with letters, then vanished. Over a century later, his identity remains unknown.</description>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/jack-the-ripper</guid>
+    </item>
+    <item>
+      <title>Bigfoot: The Elusive Creature That Keeps Eyewitnesses Coming Forward</title>
+      <link>https://pastmysteries.com/posts/bigfoot-sasquatch</link>
+      <description>From the 1967 Patterson-Gimlin film to thousands of footprint casts, Bigfoot is America's most elusive creature. Does the evidence hold up?</description>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/bigfoot-sasquatch</guid>
+    </item>
+    <item>
+      <title>The Marfa Lights: Texas Desert's Glowing Mystery</title>
+      <link>https://pastmysteries.com/posts/marfa-lights</link>
+      <description>Glowing orbs have appeared in the West Texas desert for over 140 years. Is it swamp gas, car headlights, or something no one can explain?</description>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/marfa-lights</guid>
+    </item>
+    <item>
+      <title>D.B. Cooper: The Only Unsolved Skyjacking in American History</title>
+      <link>https://pastmysteries.com/posts/db-cooper</link>
+      <description>In 1971, a man hijacked a flight, collected $200,000 ransom, and parachuted into a storm. He was never seen again — the FBI's only unsolved skyjacking.</description>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/db-cooper</guid>
+    </item>
+    <item>
+      <title>Cleopatra's Lost Tomb: Where Is Egypt's Last Queen Buried?</title>
+      <link>https://pastmysteries.com/posts/cleopatra-tomb</link>
+      <description>The tomb of Cleopatra VII, the last pharaoh of Egypt, has never been found. A 2025 underwater port discovery near Taposiris Magna has reignited the search.</description>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/cleopatra-tomb</guid>
+    </item>
+    <item>
+      <title>Amelia Earhart: 88 Years Later, Are We Close to Finding Her Plane?</title>
+      <link>https://pastmysteries.com/posts/amelia-earhart</link>
+      <description>Amelia Earhart vanished during her 1937 around-the-world flight. New satellite imagery and competing expeditions may finally solve aviation's greatest mystery.</description>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/amelia-earhart</guid>
+    </item>
+    <item>
+      <title>The Wow! Signal: Did We Receive a Message From Aliens in 1977?</title>
+      <link>https://pastmysteries.com/posts/wow-signal</link>
+      <description>In 1977, a radio telescope detected a signal so strong a scientist wrote ‘Wow!’ on the printout. It has never repeated — and its origin remains unknown.</description>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/wow-signal</guid>
+    </item>
+    <item>
+      <title>Sacsayhuamán: The Inca Fortress Built With Impossible Stones</title>
+      <link>https://pastmysteries.com/posts/sacsayhuaman</link>
+      <description>Massive stone blocks weighing up to 200 tons fit together so perfectly that not even a sheet of paper fits between them. How did the Inca build Sacsayhuamán?</description>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/sacsayhuaman</guid>
+    </item>
+    <item>
+      <title>The Philadelphia Experiment: Did the Navy Make a Ship Invisible?</title>
+      <link>https://pastmysteries.com/posts/philadelphia-experiment</link>
+      <description>In 1943, the U.S. Navy allegedly made the USS Eldridge disappear using electromagnetic fields. Was it real government technology or an elaborate hoax?</description>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/philadelphia-experiment</guid>
+    </item>
+    <item>
+      <title>The Ghost Army: How Fake Tanks and Sound Effects Helped Win WWII</title>
+      <link>https://pastmysteries.com/posts/ghost-army-wwii</link>
+      <description>A secret U.S. Army unit used inflatable tanks, recorded sounds, and phony radio messages to fool Nazi forces. Their deceptions saved thousands of lives.</description>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/ghost-army-wwii</guid>
+    </item>
+    <item>
+      <title>Derinkuyu Underground City: 20,000 People Lived Beneath Turkey!</title>
+      <link>https://pastmysteries.com/posts/derinkuyu-underground-city</link>
+      <description>A massive underground city in Turkey that housed 20,000 people across 18 levels. Who built Derinkuyu and why did they live underground?</description>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/derinkuyu-underground-city</guid>
+    </item>
+    <item>
+      <title>The Bermuda Triangle: Why Do Ships and Planes Keep Disappearing?</title>
+      <link>https://pastmysteries.com/posts/bermuda-triangle</link>
+      <description>An area of the Atlantic Ocean where dozens of ships and aircraft have vanished without explanation. What is really happening in the Bermuda Triangle?</description>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/bermuda-triangle</guid>
+    </item>
+    <item>
+      <title>Spontaneous Human Combustion: Can People Really Self-Ignite?</title>
+      <link>https://pastmysteries.com/posts/spontaneous-human-combustion</link>
+      <description>For centuries, people have reportedly burst into flames with no external ignition source. Science offers theories — but the phenomenon remains unexplained.</description>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/spontaneous-human-combustion</guid>
+    </item>
+    <item>
+      <title>The Saqqara Bird: Did Ancient Egyptians Understand Flight?</title>
+      <link>https://pastmysteries.com/posts/saqqara-bird</link>
+      <description>A 2,200-year-old wooden bird from Egypt has aerodynamic features matching modern aircraft. Did ancient Egyptians understand flight — or is it coincidence?</description>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/saqqara-bird</guid>
+    </item>
+    <item>
+      <title>The London Beer Flood of 1814: A Wave of Destruction</title>
+      <link>https://pastmysteries.com/posts/london-beer-flood</link>
+      <description>In 1814, a brewery vat burst in London, unleashing 300,000 gallons of beer that flooded the streets, destroyed two houses, and killed eight people.</description>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/london-beer-flood</guid>
+    </item>
+    <item>
+      <title>The Copper Scroll Treasure: The World's Oldest Treasure Map and Billions in Hidden Gold</title>
+      <link>https://pastmysteries.com/posts/copper-scroll-treasure</link>
+      <description>A copper scroll found in a desert cave lists 64 hiding places holding vast quantities of gold and silver. No one has found the treasure.</description>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/copper-scroll-treasure</guid>
+    </item>
+    <item>
+      <title>The Bennington Triangle: Vermont’s Bermuda Triangle</title>
+      <link>https://pastmysteries.com/posts/bennington-triangle</link>
+      <description>Between 1945 and 1950, ten people vanished without a trace in a remote area of Vermont. No bodies, no clues, no answers — just the Bennington Triangle.</description>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/bennington-triangle</guid>
+    </item>
+    <item>
+      <title>Wilmer McLean: The Man Who Couldn't Escape the Civil War</title>
+      <link>https://pastmysteries.com/posts/wilmer-mclean</link>
+      <description>The incredible true story of the man whose property witnessed both the first battle and final surrender of the American Civil War.</description>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/wilmer-mclean</guid>
+    </item>
+    <item>
+      <title>Thutmose II Tomb: The Lost Pharaoh Found</title>
+      <link>https://pastmysteries.com/posts/thutmose-ii-tomb</link>
+      <description>Egypt announces the discovery of Thutmose II's tomb - the first royal tomb found since Tutankhamun in 1922!</description>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/thutmose-ii-tomb</guid>
+    </item>
+    <item>
+      <title>The Roman Dodecahedron: Ancient Mystery That Still Baffles Experts</title>
+      <link>https://pastmysteries.com/posts/roman-dodecahedron</link>
+      <description>Over 130 mysterious 12-sided bronze objects have been found across the Roman Empire, but no one knows what they were used for.</description>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/roman-dodecahedron</guid>
+    </item>
+    <item>
+      <title>Pentagon UAP Reports 2024: What Does the Government Know?</title>
+      <link>https://pastmysteries.com/posts/pentagon-uap-reports</link>
+      <description>The US government now admits UAPs are real. The Pentagon's latest findings reveal objects performing maneuvers no known aircraft can match.</description>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/pentagon-uap-reports</guid>
+    </item>
+    <item>
+      <title>The New England Vampire Panic of 1892: When a TB Outbreak Spawned a Vampire Hunt</title>
+      <link>https://pastmysteries.com/posts/new-england-vampire-panic</link>
+      <description>When tuberculosis ravaged New England families, desperate communities turned to an unlikely culprit: vampires.</description>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/new-england-vampire-panic</guid>
+    </item>
+    <item>
+      <title>The Mysterious Monoliths: Metal Pillars from Nowhere</title>
+      <link>https://pastmysteries.com/posts/mysterious-monoliths</link>
+      <description>Strange metal monoliths appeared in remote locations worldwide in 2020. Were they art, pranks, or something else entirely?</description>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/mysterious-monoliths</guid>
+    </item>
+    <item>
+      <title>The Lost City of Heracleion: An Ancient Egyptian Metropolis Hidden Beneath the Sea for 1,200 Years</title>
+      <link>https://pastmysteries.com/posts/the-lost-city-of-heracleion</link>
+      <description>A magnificent Egyptian city sank into the Mediterranean and lay hidden for over 1,200 years. Rediscovered in 2000, its secrets are still emerging from the sea.</description>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/the-lost-city-of-heracleion</guid>
+    </item>
+    <item>
+      <title>The Hum: A Mysterious Sound That Torments Thousands Worldwide Yet Remains Unexplained</title>
+      <link>https://pastmysteries.com/posts/the-hum</link>
+      <description>A mysterious low-frequency sound torments people around the world. Only some can hear it, but scientists still can't fully explain what causes it!</description>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/the-hum</guid>
+    </item>
+    <item>
+      <title>The Great Molasses Flood: The Day a Deadly Wave of Syrup Destroyed Boston</title>
+      <link>https://pastmysteries.com/posts/molasses-flood</link>
+      <description>In 1919, a tank burst in Boston, unleashing 2.3 million gallons of molasses in a wave that killed 21 people and leveled buildings.</description>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/molasses-flood</guid>
+    </item>
+    <item>
+      <title>The Hessdalen Lights: Mysterious Glowing Orbs That Haunt a Norwegian Valley</title>
+      <link>https://pastmysteries.com/posts/hessdalen-lights</link>
+      <description>Mysterious glowing lights have appeared in a Norwegian valley for decades. Scientists study them, but no one can fully explain what they are!</description>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/hessdalen-lights</guid>
+    </item>
+    <item>
+      <title>The Crystal Skulls: Ancient Mayan Artifacts or Elaborate Modern Forgeries?</title>
+      <link>https://pastmysteries.com/posts/crystal-skulls</link>
+      <description>Mysterious quartz skulls were once thought to be ancient Mayan artifacts with magical powers. But science revealed a surprising truth about their origins!</description>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/crystal-skulls</guid>
+    </item>
+    <item>
+      <title>The Cadaver Synod: The Bizarre Trial Where a Dead Pope Was Dug Up and Condemned</title>
+      <link>https://pastmysteries.com/posts/cadaver-synod</link>
+      <description>In 897, Pope Stephen VI put his predecessor's corpse on trial. The dead pope was propped on a throne, found guilty, and his papacy erased.</description>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/cadaver-synod</guid>
+    </item>
+    <item>
+      <title>The Terracotta Army: 8,000 Unique Warriors Guarding an Emperor Who Conquered Death</title>
+      <link>https://pastmysteries.com/posts/terracotta-army</link>
+      <description>In 1974, farmers digging a well uncovered an army of 8,000 clay soldiers. Each has a unique face. And the emperor they guard has never been found.</description>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/terracotta-army</guid>
+    </item>
+    <item>
+      <title>New Jersey Drones: The Mystery in the Sky</title>
+      <link>https://pastmysteries.com/posts/new-jersey-drones-mystery</link>
+      <description>In late 2024, mysterious drones appeared over New Jersey. The government said they were harmless — but couldn't explain where they came from.</description>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/new-jersey-drones-mystery</guid>
+    </item>
+    <item>
+      <title>The Lost Fabergé Eggs: Eight Imperial Treasures Still Waiting to Be Found</title>
+      <link>https://pastmysteries.com/posts/lost-faberge-eggs</link>
+      <description>Of the 50 Imperial Fabergé eggs created for the Romanovs, seven are still missing. One was bought at a flea market for $14,000 — it was worth $33 million.</description>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/lost-faberge-eggs</guid>
+    </item>
+    <item>
+      <title>Indus Valley Civilization: Cities Before Their Time</title>
+      <link>https://pastmysteries.com/posts/indus-valley-civilization</link>
+      <description>Over 4,000 years ago, a civilization built cities with running water and flush toilets — then vanished without a trace. Their writing remains undeciphered.</description>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/indus-valley-civilization</guid>
+    </item>
+    <item>
+      <title>The Great Emu War: When Australia's Military Lost to 20,000 Birds</title>
+      <link>https://pastmysteries.com/posts/great-emu-war</link>
+      <description>In 1932, Australia went to war against 20,000 emus with machine guns. The emus won — twice. And the story still makes history laugh.</description>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/great-emu-war</guid>
+    </item>
+    <item>
+      <title>Göbekli Tepe: The World's Oldest Temple and the Mystery of Who Built It</title>
+      <link>https://pastmysteries.com/posts/gobekli-tepe</link>
+      <description>Built 11,600 years ago by hunter-gatherers who hadn't invented farming, Göbekli Tepe rewrites the story of civilization. Who built it, and why?</description>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/gobekli-tepe</guid>
+    </item>
+    <item>
+      <title>The Dancing Plague of 1518: When Hundreds Danced Themselves to Death</title>
+      <link>https://pastmysteries.com/posts/dancing-plague-1518</link>
+      <description>In July 1518, a woman began dancing uncontrollably in the streets of Strasbourg. Within weeks, 400 people joined her. Dozens danced until they died.</description>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/dancing-plague-1518</guid>
+    </item>
+    <item>
+      <title>The Battle of Los Angeles: Did UFOs Attack in 1942?</title>
+      <link>https://pastmysteries.com/posts/battle-los-angeles</link>
+      <description>In 1942, Los Angeles was attacked by... something. For hours, the military fired over 1,400 shells at a mysterious object in the sky. But what was it?</description>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/battle-los-angeles</guid>
+    </item>
+    <item>
+      <title>Ball Lightning: The Ghost Orbs of Storms</title>
+      <link>https://pastmysteries.com/posts/ball-lightning</link>
+      <description>A glowing sphere of electricity that drifts through closed windows and vanishes in seconds. Despite centuries of study, ball lightning remains unexplained.</description>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://pastmysteries.com/posts/ball-lightning</guid>
+    </item>
   </channel>
 </rss>
