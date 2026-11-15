@@ -26,3 +26,29 @@ Claims in the posts that look doubtful. They were NOT changed. The owner decides
 | voynich-manuscript-mystery | Friedman was "chief cryptologist of the NSA"; team included Enigma people | Loose. He led the team that broke PURPLE; the Enigma link is doubtful. |
 | yonaguni-monument | A land bridge connected the Ryukyu islands to mainland Asia | Geologists doubt this for that depth and time. |
 | uss-nimitz-tic-tac | "most credible UFO encounter in history" | Opinion written as fact; softened to "Some experts say". |
+| nazca-lines-peru | "Less than one inch of rain per decade" | Nazca gets a little less than one inch each year. |
+| nazca-lines-peru | "168 new geoglyphs" found in 2024 with AI | The 2024 study reported 303 new figures. 168 is the number from 2022. |
+| nazca-lines-peru | Area "nearly 400 square miles" and also "310 square miles"; Reiche studied "40 years" and also "more than 50 years" | The text disagrees with itself. |
+| new-england-vampire-panic | Thoreau wrote about a vampire exhumation in his journal, March 1859 | Thoreau's entry is usually dated September 26, 1859. Check. |
+| new-england-vampire-panic | Koch's discovery "earned him the Nobel Prize" | True, but the prize came in 1905, 23 years after the 1882 discovery. |
+| new-jersey-drones-mystery | FAA night-flying rule change "in 2023" | The rule for night flights of small drones started in April 2021. |
+| mysterious-monoliths | It "vanished nine days after it became public" | Found Nov 18, public about Nov 23, gone Nov 27, 2020: nine days from the find, four from the news. |
+| minoan-civilization-collapse | Thera erupted "around 1600 BCE" | The date is disputed (about 1600 BCE by radiocarbon, about 1500 BCE by archaeology). The text says so. |
+| antikythera-mechanism-ancient-computer | A "seven-foot bronze figure of Hercules" from the wreck | The Hercules from the wreck is marble. The famous bronze is the "Antikythera Youth". |
+| antikythera-mechanism-ancient-computer | A diver died of "nitrogen narcosis" | The cause was decompression sickness ("the bends"). |
+| antikythera-mechanism-ancient-computer | Gears "reproduced the elliptical orbits of the planets" | The Greek models used circles on circles (epicycles), not ellipses. |
+| angkor-wat-mystery | The Churning of the Ocean of Milk is "from the Ramayana" | It is from the Mahabharata and the Puranas. |
+| baghdad-battery-ancient-electricity | Replicas built "in the 1990s at the National Museum of Iraq" | The known replica tests are Willard Gray (1940) and Arne Eggebrecht (1978). |
+| ball-lightning | Gervase of Tilbury's "Chronica" of about 1211 | His work of that date is the <em>Otia Imperialia</em>. Some sources give Gervase of Canterbury, 1195. |
+| ball-lightning | Tsar Nicholas II described ball lightning "in his memoirs" | He left diaries, not memoirs. The story is often quoted but hard to trace. |
+| ball-lightning | Chinese spectrum observation "published 2012" | Observed 2012, published 2014. |
+| battle-los-angeles | "1,400 rounds of 37mm and 50-caliber" | Records give about 1,440 rounds of 12.8-pound (3-inch) shells. |
+| bennington-triangle | Vermont State Police "created in direct response to Paula Welden" | The case was one reason among several. |
+| anastasia-romanov | Family "laid to rest" after the 2008 court decision | The burial was in 1998. The 2008 decision cleared the family in law. |
+| princes-in-tower | Titulus Regius passed before June 26, 1483 | Parliament passed it in January 1484. In June 1483 it was a petition. |
+| phoenix-lights-ufo | The event lasted "three hours" and also "7:30 to 8:30 PM"; alien-costume stunt "in the days following" | The times disagree. The stunt was in June 1997. |
+| roanoke-lost-colony | "115 other colonists" and also 117 settlers | The numbers are not explained. |
+| roanoke-lost-colony | Lumbee DNA "consistent with English settlers" | Most historians do not accept the Lumbee link. |
+| rosetta-stone | Script lost "for 1,408 years" (394 to 1822) | The sum is 1,428. The rewrite says "more than 1,400 years". |
+| roman-dodecahedron | "two and a half millennia of scholars", "over the next 285 years" | Wrong numbers; removed in the rewrite. |
+| pyramids-of-giza | Houdin's inner ramp "still exists today" | Not proven. The rewrite says "He says it is still there". |
