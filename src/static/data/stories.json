@@ -1,7 +1,7 @@
 [
  {
   "slug": "lost-city-atlantis-plato",
-  "title": "The Lost City of Atlantis: Plato's Ancient Warning About Hubris and Cataclysm",
+  "title": "The Lost City of Atlantis: Plato’s Ancient Story of Pride and Disaster",
   "group": "ancient-mysteries",
   "image": "/static/images/posts/lost-city-atlantis-plato/hero.webp",
   "audio": null,
@@ -9,7 +9,7 @@
  },
  {
   "slug": "nazca-lines-peru",
-  "title": "The Nazca Lines: Ancient Desert Geoglyphs That Can Only Be Fully Seen From the Sky",
+  "title": "The Nazca Lines: Ancient Desert Drawings That Are Best Seen From the Sky",
   "group": "ancient-mysteries",
   "image": "/static/images/posts/nazca-lines-peru/hero.webp",
   "audio": null,
@@ -25,7 +25,7 @@
  },
  {
   "slug": "easter-island-moai-statues",
-  "title": "The Moai of Easter Island: How Did a Lost Civilization Move 1,000 Giant Stone Statues?",
+  "title": "The Moai of Easter Island: How Did the Rapa Nui Move About 900 Giant Stone Statues?",
   "group": "ancient-mysteries",
   "image": "/static/images/posts/easter-island-moai-statues/hero.webp",
   "audio": null,
@@ -33,7 +33,7 @@
  },
  {
   "slug": "great-sphinx-giza-mystery",
-  "title": "The Great Sphinx of Giza: Secrets of the World's Oldest and Largest Monument",
+  "title": "The Great Sphinx of Giza: Secrets of Egypt’s Giant Stone Guardian",
   "group": "ancient-mysteries",
   "image": "/static/images/posts/great-sphinx-giza-mystery/hero.webp",
   "audio": null,
@@ -41,7 +41,7 @@
  },
  {
   "slug": "library-of-alexandria",
-  "title": "The Library of Alexandria: The Greatest Collection of Knowledge the Ancient World Ever Knew",
+  "title": "The Library of Alexandria: The Most Famous Library of the Ancient World",
   "group": "ancient-mysteries",
   "image": "/static/images/posts/library-of-alexandria/hero.webp",
   "audio": null,
@@ -113,7 +113,7 @@
  },
  {
   "slug": "dead-sea-scrolls",
-  "title": "Dead Sea Scrolls: The 2,000-Year-Old Texts That Rewrote Biblical History",
+  "title": "Dead Sea Scrolls: The 2,000-Year-Old Texts That Changed What We Know About the Bible",
   "group": "ancient-mysteries",
   "image": "/static/images/posts/dead-sea-scrolls/hero.webp",
   "audio": null,
@@ -161,7 +161,7 @@
  },
  {
   "slug": "derinkuyu-underground-city",
-  "title": "Derinkuyu Underground City: 20,000 People Lived Beneath Turkey!",
+  "title": "Derinkuyu Underground City: Up to 20,000 People May Have Sheltered Beneath Turkey",
   "group": "ancient-mysteries",
   "image": "/static/images/posts/derinkuyu-underground-city/hero.webp",
   "audio": null,
@@ -217,7 +217,7 @@
  },
  {
   "slug": "terracotta-army",
-  "title": "The Terracotta Army: 8,000 Unique Warriors Guarding an Emperor Who Conquered Death",
+  "title": "The Terracotta Army: 8,000 Clay Warriors Guarding China’s First Emperor",
   "group": "ancient-mysteries",
   "image": "/static/images/posts/terracotta-army/hero.webp",
   "audio": null,
@@ -289,7 +289,7 @@
  },
  {
   "slug": "zodiac-killer",
-  "title": "Zodiac Killer: The Unsolved Murders That Terrified California and Defied the FBI",
+  "title": "Zodiac Killer: The Unsolved Murders That Terrified California",
   "group": "interesting-history",
   "image": "/static/images/posts/zodiac-killer/hero.webp",
   "audio": null,
@@ -385,7 +385,7 @@
  },
  {
   "slug": "lost-faberge-eggs",
-  "title": "The Lost Fabergé Eggs: Eight Imperial Treasures Still Waiting to Be Found",
+  "title": "The Lost Fabergé Eggs: Six Imperial Treasures Still Waiting to Be Found",
   "group": "interesting-history",
   "image": "/static/images/posts/lost-faberge-eggs/hero.webp",
   "audio": null,
@@ -433,7 +433,7 @@
  },
  {
   "slug": "winchester-mystery-house",
-  "title": "The Winchester Mystery House: 38 Years of Building, Staircases to Nowhere, and a Heiress Haunted by Grief",
+  "title": "The Winchester Mystery House: Decades of Building, Staircases to Nowhere, and an Heiress Changed by Grief",
   "group": "interesting-history",
   "image": "/static/images/posts/winchester-mystery-house/hero.webp",
   "audio": null,
@@ -465,7 +465,7 @@
  },
  {
   "slug": "dyatlov-pass-incident",
-  "title": "Dyatlov Pass Incident: The 1959 Mystery Where 9 Hikers Died in Ways That Still Defy Explanation",
+  "title": "Dyatlov Pass Incident: The 1959 Mystery of 9 Hikers Whose Deaths Are Still Argued About",
   "group": "unknown-phenomena",
   "image": "/static/images/posts/dyatlov-pass-incident/hero.webp",
   "audio": null,
@@ -497,7 +497,7 @@
  },
  {
   "slug": "loch-ness-monster",
-  "title": "Loch Ness Monster: 1,500 Years of Sightings, Sonar Contacts, and the Photograph That Fooled the World",
+  "title": "Loch Ness Monster: An Old Legend, Sonar Contacts, and the Photograph That Fooled the World",
   "group": "unknown-phenomena",
   "image": "/static/images/posts/loch-ness-monster/hero.webp",
   "audio": null,

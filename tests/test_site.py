@@ -34,7 +34,7 @@ EXPECTED_GROUP = {
 }
 
 # False until all posts have a fact-check record. Then True: a new post must have a record.
-FACT_CHECK_ALL = False
+FACT_CHECK_ALL = True
 
 # Heroes that were replaced because the old AI image did not agree with the story.
 REPLACED_HEROES = ["sacsayhuaman", "rosetta-stone", "gobekli-tepe", "pentagon-uap-reports", "molasses-flood",
@@ -124,6 +124,36 @@ class SiteTests(unittest.TestCase):
                     bad.append(f"{rel(page)}: tag inside attribute: {value[:80]}")
             if re.search(r'alt="[^"]*<a href=', page.read_text(encoding="utf-8")):
                 bad.append(f"{rel(page)}: <a> inside alt text")
+        self.check(bad)
+
+    def test_title_and_description_same_in_all_places(self):
+        # Problem we had: a wrong fact in a title ("Eight" eggs, when six are missing) is shown in many
+        # places. Change a title or a description only with tools/set_meta.py.
+        bad = []
+        cards = {}
+        for path in ["index.html", "archive.html"] + [f"categories/{g}.html" for g in GROUPS]:
+            text = (SRC / path).read_text(encoding="utf-8")
+            for slug, title in re.findall(r'<a href="/posts/([a-z0-9-]+)" class="[a-z-]+">.*?<h3 class="(?:card-title|category-bar-title)">(.*?)</h3>', text, re.S):
+                cards.setdefault(slug, []).append((path, html.unescape(title)))
+        for slug in post_slugs():
+            post = read_post(slug)
+            page = post["html"]
+            tab = re.search(r"<title>(.*?)</title>", page, re.S)
+            if not tab or plain(html.unescape(tab.group(1))) != plain(post["title"] + " | Past Mystery"):
+                bad.append(f"{slug}: <title> is not the h1 title")
+            for path, title in cards.get(slug, []):
+                if plain(title) != plain(post["title"]):
+                    bad.append(f"{path}: card title for {slug} is not the post title")
+            descs = [post["description"]]
+            for pattern in (r'<meta property="og:description" content="([^"]*)"', r'<meta name="twitter:description" content="([^"]*)"'):
+                m = re.search(pattern, page)
+                descs.append(html.unescape(m.group(1)) if m else None)
+            m = re.search(r'"headline":[^\n]*\n\s*"description":\s*"((?:[^"\\]|\\.)*)"', page)
+            descs.append(m.group(1).replace('\\"', '"') if m else None)
+            if len({plain(d) for d in descs}) != 1:
+                bad.append(f"{slug}: the description is not the same in the 4 places")
+            if not 70 <= len(post["description"]) <= 160:
+                bad.append(f"{slug}: description has {len(post['description'])} characters (70 to 160)")
         self.check(bad)
 
     def test_post_format(self):
