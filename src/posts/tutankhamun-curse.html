@@ -65,6 +65,7 @@
       ]
     }
     </script>
+    <link rel="stylesheet" href="/static/css/player.css">
 </head>
 <body>
     <header class="site-header">
@@ -73,6 +74,7 @@
             <nav class="site-nav">
                 <a href="/">Home</a>
                 <a href="/archive">All Stories</a>
+                <a href="/listen">Listen</a>
                 <a href="/about">About</a>
                 <a href="/editorial-policy">Editorial Policy</a>
                 <a href="/contact">Contact</a>
@@ -90,6 +92,7 @@
             <img src="../static/images/posts/tutankhamun-curse/hero.webp"
                  alt="Inside the tomb of Tutankhamun with golden artifacts and the iconic death mask"
                  class="hero-image">
+            <div class="listen-row" data-slug="tutankhamun-curse"><button class="listen-btn" type="button">&#9654; Listen</button><button class="listen-add" type="button">+ Add to playlist</button></div>
         </header>
 
         <p>On November 4, 1922, a team of Egyptian workers led by the British archaeologist Howard Carter uncovered a step cut into the bedrock of the Valley of the Kings &mdash; a step that led down to a sealed doorway bearing the cartouches of a pharaoh the world had nearly forgotten. Behind that doorway lay Tutankhamun, the boy-king who had died around 1323 BCE at approximately nineteen years of age, buried in a tomb crammed with over five thousand objects: golden chariots, jewel-encrusted jewelry, a solid gold death mask of breathtaking beauty, and a mummy lying within a nest of coffins, the innermost made of 110 kilograms of solid gold. It was the most spectacular archaeological discovery of the twentieth century &mdash; the only known near-intact royal burial from ancient Egypt. And within weeks, the story took a darker turn. Lord Carnarvon, Carter's financial backer, died in Cairo on April 5, 1923, just weeks after the tomb's ceremonial opening. The lights of Cairo were said to have gone out at the moment of his death. Back in England, Carnarvon's dog howled and died simultaneously. The press went wild. &ldquo;The Curse of Tutankhamun&rdquo; was born &mdash; a tale of supernatural vengeance so compelling that it has persisted for over a century, inspiring films, novels, and a permanent place in the popular imagination.</p>
@@ -155,5 +158,7 @@
                 <p><a href="/archive">All Stories</a> &middot; <a href="/about">About</a> &middot; <a href="/editorial-policy">Editorial Policy</a> &middot; <a href="/contact">Contact</a> &middot; <a href="/privacy-policy">Privacy Policy</a></p>
             </div>
     </footer>
+    <script defer src="/static/js/player-core.js"></script>
+    <script defer src="/static/js/player-ui.js"></script>
 </body>
 </html>

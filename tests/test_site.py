@@ -249,6 +249,50 @@ class SiteTests(unittest.TestCase):
                 bad.append(f"{story['slug']}: audio is {story['audio']}, must be {want}")
         self.check(bad)
 
+    def test_player_assets_on_all_pages(self):
+        bad = []
+        for page in all_pages():
+            text = page.read_text(encoding="utf-8")
+            for asset in ("/static/css/player.css", "/static/js/player-core.js", "/static/js/player-ui.js"):
+                if text.count(f'"{asset}"') != 1:
+                    bad.append(f"{rel(page)}: {asset} is there {text.count(asset)} times")
+            if text.find("player-core.js") > text.find("player-ui.js"):
+                bad.append(f"{rel(page)}: player-core.js must load before player-ui.js")
+            rows = re.findall(r'<div class="listen-row" data-slug="([^"]*)">', text)
+            want = [page.stem] if page.parent.name == "posts" else []
+            if rows != want:
+                bad.append(f"{rel(page)}: listen rows {rows}, must be {want}")
+        self.check(bad)
+
+    def test_listen_page(self):
+        page = SRC / "listen.html"
+        self.assertTrue(page.is_file(), "src/listen.html is missing")
+        text = page.read_text(encoding="utf-8")
+        for needed in ('id="pm-lists"', 'id="pm-stories"', '<link rel="canonical" href="https://pastmysteries.com/listen">',
+                       "<noscript>"):
+            self.assertIn(needed, text)
+        sitemap = (SRC / "sitemap.xml").read_text(encoding="utf-8")
+        for path in ("listen", "archive"):  # the archive was missing from the sitemap before
+            self.assertIn(f"<loc>https://pastmysteries.com/{path}</loc>", sitemap)
+
+    def test_audio_files_small(self):
+        # Problem we had: a 35 MB MP3 (256 kbit/s) for one story. Use tools/encode_audio.sh.
+        import shutil
+        import subprocess
+        if not shutil.which("ffprobe"):
+            self.skipTest("ffprobe is not installed")
+        bad = []
+        for mp3 in sorted((SRC / "static" / "audio").glob("*.mp3")):
+            out = subprocess.run(["ffprobe", "-v", "error", "-select_streams", "a:0", "-show_entries",
+                                  "stream=channels,bit_rate", "-of", "csv=p=0", str(mp3)],
+                                 capture_output=True, text=True).stdout.strip().split(",")
+            channels, bit_rate = int(out[0]), int(out[1])
+            if channels != 1 or bit_rate > 72000:
+                bad.append(f"{mp3.name}: {channels} channel(s), {bit_rate // 1000} kbit/s (must be mono, max 72)")
+            if mp3.stem not in post_slugs():
+                bad.append(f"{mp3.name}: no post has this name")
+        self.check(bad)
+
     # --- text rules (audience: age 10+) ---------------------------------
     def test_paragraph_length(self):
         bad = []

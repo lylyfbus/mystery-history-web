@@ -16,6 +16,7 @@ GROUPS = {
 MENU = [
     ("/", "Home"),
     ("/archive", "All Stories"),
+    ("/listen", "Listen"),
     ("/about", "About"),
     ("/editorial-policy", "Editorial Policy"),
     ("/contact", "Contact"),

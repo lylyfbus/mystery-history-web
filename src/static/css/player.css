@@ -1,0 +1,133 @@
+/* Past Mystery audio player: bar, story buttons, playlist page. */
+
+/* --- buttons on a story page --- */
+.listen-row { display: flex; flex-wrap: wrap; gap: 10px; margin: 14px 0 6px; position: relative; }
+.listen-btn, .listen-add, .pm-primary, .pm-secondary, .pm-new {
+    font: inherit; font-weight: 600; font-size: 0.95rem; line-height: 1.2;
+    padding: 10px 16px; border-radius: 999px; cursor: pointer; min-height: 44px;
+    border: 1px solid #1d4ed8; background: #ffffff; color: #1d4ed8;
+}
+.listen-btn, .pm-primary { background: #1d4ed8; color: #ffffff; }
+.listen-btn:hover, .pm-primary:hover { background: #1e40af; }
+.listen-add:hover, .pm-secondary:hover, .pm-new:hover { background: #eff6ff; }
+.listen-row button:disabled, .pm-stories-actions button:disabled { opacity: 0.45; cursor: default; }
+.listen-row button:focus-visible, #pm-player button:focus-visible, #pm-player select:focus-visible,
+#pm-player a:focus-visible, .pm-listen button:focus-visible, .pm-seek:focus-visible {
+    outline: 3px solid #f59e0b; outline-offset: 2px;
+}
+
+/* --- "add to playlist" menu --- */
+.pm-menu {
+    position: absolute; z-index: 1100; top: 100%; left: 0; margin-top: 6px; min-width: 220px; max-width: 90vw;
+    background: #ffffff; border: 1px solid #cbd5e1; border-radius: 10px; padding: 6px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.18); display: flex; flex-direction: column;
+}
+.pm-menu button {
+    font: inherit; text-align: left; padding: 10px 12px; border: 0; background: transparent;
+    border-radius: 6px; cursor: pointer; color: #1f2937; min-height: 40px;
+}
+.pm-menu button:hover, .pm-menu button:focus { background: #eff6ff; }
+.pm-menu .pm-menu-new { color: #1d4ed8; font-weight: 600; border-top: 1px solid #e5e7eb; border-radius: 0 0 6px 6px; }
+.pm-menu-note { margin: 6px 12px; color: #4b5563; font-size: 0.9rem; }
+
+/* --- the bar --- */
+body.pm-has-player { padding-bottom: 132px; }
+#pm-player {
+    position: fixed; left: 0; right: 0; bottom: 0; z-index: 1000;
+    background: #111827; color: #f9fafb; padding: 10px 16px calc(10px + env(safe-area-inset-bottom));
+    box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.25);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, sans-serif;
+}
+#pm-player .pm-row { display: flex; align-items: center; gap: 12px; max-width: 1140px; margin: 0 auto; }
+#pm-player .pm-art { width: 48px; height: 48px; border-radius: 8px; object-fit: cover; flex: none; background: #374151; }
+#pm-player .pm-info { flex: 1 1 auto; min-width: 0; display: flex; flex-direction: column; }
+#pm-player .pm-title {
+    color: #ffffff; font-weight: 600; text-decoration: none; font-size: 0.95rem;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+#pm-player .pm-title:hover { text-decoration: underline; }
+#pm-player .pm-sub { color: #cbd5e1; font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+#pm-player .pm-controls, #pm-player .pm-extra { display: flex; align-items: center; gap: 6px; flex: none; }
+#pm-player .pm-btn {
+    width: 44px; height: 44px; border-radius: 50%; border: 0; cursor: pointer; font-size: 1.1rem; line-height: 1;
+    background: transparent; color: #ffffff;
+}
+#pm-player .pm-btn:hover { background: #374151; }
+#pm-player .pm-btn:disabled { opacity: 0.35; cursor: default; }
+#pm-player .pm-play { background: #ffffff; color: #111827; font-size: 1.2rem; }
+#pm-player .pm-play:hover { background: #e5e7eb; }
+#pm-player .pm-chip, #pm-player .pm-timer {
+    font: inherit; font-size: 0.82rem; color: #f9fafb; background: #1f2937; border: 1px solid #4b5563;
+    border-radius: 999px; padding: 8px 12px; min-height: 36px; cursor: pointer; text-decoration: none;
+}
+#pm-player .pm-mode[aria-pressed="true"] { background: #1d4ed8; border-color: #60a5fa; }
+#pm-player .pm-left { font-variant-numeric: tabular-nums; font-size: 0.82rem; color: #fde68a; min-width: 0; }
+#pm-player .pm-row-seek { margin-top: 6px; }
+#pm-player .pm-seek { flex: 1 1 auto; min-width: 0; accent-color: #60a5fa; height: 20px; }
+#pm-player .pm-time { flex: none; font-size: 0.8rem; color: #cbd5e1; font-variant-numeric: tabular-nums; min-width: 96px; text-align: right; }
+#pm-player .pm-msg { max-width: 1140px; margin: 2px auto 0; font-size: 0.82rem; color: #fde68a; min-height: 1.1em; }
+
+@media (max-width: 760px) {
+    body.pm-has-player { padding-bottom: 170px; }
+    #pm-player { padding: 8px 12px calc(8px + env(safe-area-inset-bottom)); }
+    #pm-player .pm-row:first-child { flex-wrap: wrap; gap: 6px 8px; }
+    #pm-player .pm-art { width: 40px; height: 40px; }
+    #pm-player .pm-info { flex: 1 1 0; }
+    #pm-player .pm-controls { gap: 0; }
+    #pm-player .pm-btn { width: 40px; height: 40px; }
+    #pm-player .pm-extra { flex: 1 1 100%; justify-content: space-between; }
+    #pm-player .pm-lists-link { display: none; }
+    #pm-player .pm-timer { flex: 1 1 auto; min-width: 0; }
+    #pm-player .pm-row-seek { margin-top: 2px; }
+    #pm-player .pm-time { min-width: 0; }
+}
+
+/* --- playlist page --- */
+.pm-listen { display: grid; grid-template-columns: 280px minmax(0, 1fr); gap: 32px; align-items: start; text-align: left; }
+.pm-listen-intro { text-align: center; color: #4b5563; margin: -4px 0 24px; }
+#pm-lists { list-style: none; margin: 0; padding: 0; position: sticky; top: 16px; }
+.pm-list { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-bottom: 6px; }
+.pm-list-name {
+    flex: 1 1 100%; display: flex; justify-content: space-between; align-items: center; gap: 8px;
+    font: inherit; text-align: left; padding: 12px 14px; min-height: 44px; cursor: pointer;
+    background: #f9fafb; color: #1f2937; border: 1px solid #e5e7eb; border-radius: 10px;
+}
+.pm-list-name:hover { background: #eff6ff; }
+.pm-selected .pm-list-name { background: #1d4ed8; color: #ffffff; border-color: #1d4ed8; font-weight: 600; }
+.pm-count { font-size: 0.85rem; opacity: 0.85; font-variant-numeric: tabular-nums; }
+.pm-small {
+    font: inherit; font-size: 0.82rem; padding: 6px 10px; min-height: 32px; cursor: pointer;
+    background: #ffffff; color: #1d4ed8; border: 1px solid #cbd5e1; border-radius: 999px;
+}
+.pm-small:hover { background: #eff6ff; }
+.pm-small.pm-danger { color: #b91c1c; }
+.pm-small.pm-danger:hover { background: #fef2f2; }
+.pm-new { width: 100%; margin-top: 8px; }
+.pm-stories-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 16px; margin-bottom: 14px; }
+.pm-stories-title { font-size: 1.4rem; color: #1f2937; margin: 0; }
+.pm-stories-note { color: #4b5563; margin: 0; flex: 1 1 auto; }
+.pm-stories-actions { display: flex; gap: 10px; flex-wrap: wrap; }
+.pm-empty { background: #f9fafb; border: 1px dashed #cbd5e1; border-radius: 10px; padding: 20px; color: #4b5563; }
+.pm-story-list { list-style: none; margin: 0; padding: 0; }
+.pm-story.listen-row {
+    display: flex; flex-wrap: nowrap; align-items: center; gap: 14px; margin: 0; padding: 10px;
+    border-bottom: 1px solid #e5e7eb; border-radius: 10px;
+}
+.pm-story.pm-active { background: #eff6ff; }
+.pm-story img { width: 72px; height: 72px; object-fit: cover; border-radius: 8px; flex: none; background: #e5e7eb; }
+.pm-story-text { flex: 1 1 auto; min-width: 0; display: flex; flex-direction: column; gap: 2px; }
+.pm-story-text a { color: #1f2937; font-weight: 600; text-decoration: none; }
+.pm-story-text a:hover { color: #1d4ed8; text-decoration: underline; }
+.pm-story-meta { color: #4b5563; font-size: 0.85rem; }
+.pm-story-actions { display: flex; align-items: center; gap: 8px; flex: none; position: relative; }
+.pm-story-actions .listen-btn, .pm-story-actions .listen-add { padding: 8px 14px; font-size: 0.88rem; }
+.pm-story-actions .pm-menu { left: auto; right: 0; }
+
+@media (max-width: 700px) {
+    .pm-listen { grid-template-columns: 1fr; gap: 20px; }
+    #pm-lists { position: static; }
+    .pm-story.listen-row { flex-wrap: wrap; }
+    .pm-story img { width: 56px; height: 56px; }
+    .pm-story-text { flex-basis: calc(100% - 80px); }
+    .pm-story-actions { flex: 1 1 100%; justify-content: flex-end; }
+}
