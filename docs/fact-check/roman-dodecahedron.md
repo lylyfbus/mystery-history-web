@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | First example shown to the Society of Antiquaries of London in 1739, reportedly from Aston, Hertfordshire | Correct | https://en.wikipedia.org/wiki/Roman_dodecahedron |

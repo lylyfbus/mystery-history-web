@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | The stone is granodiorite and carries a decree from 196 BCE | Correct | https://livescience.com/60154-rosetta-stone.html https://en.wikipedia.org/wiki/Rosetta_Stone |

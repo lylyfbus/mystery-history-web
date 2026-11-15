@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | About 115 colonists were left (sources say 115 to 117) | Corrected: was "115 other colonists" and also "117", now "about 115, sources give 115 to 117" | https://en.wikipedia.org/wiki/Roanoke_Colony https://www.nps.gov/fora/learn/historyculture/the-lost-colony.htm |

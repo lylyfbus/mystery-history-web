@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Site is 3,701 m (12,142 ft) above sea level, north of Cusco | Correct | https://en.wikipedia.org/wiki/Sacsayhuam%C3%A1n |

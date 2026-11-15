@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Roswell Army Air Field press release on July 8, 1947 said a flying disc was recovered; AP carried it | Correct | https://en.wikipedia.org/wiki/Roswell_incident |
