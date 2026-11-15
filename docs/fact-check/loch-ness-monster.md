@@ -28,4 +28,4 @@ Checked: 2026-11-15
 
 ## Title, description, image
 
-Title says "1,500 Years of Sightings": the Columba tale is a legend, so "sightings" is loose. Otherwise None.
+Title says "1,500 Years of Sightings" and the description says "Since 565 AD, people have reported a water beast": the Columba tale is a saint's legend, not a report. Suggested fix: "Since the old tale of 565 AD...". Hero alt text: None.

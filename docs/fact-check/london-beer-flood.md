@@ -25,4 +25,4 @@ Checked: 2026-11-15
 
 ## Title, description, image
 
-None.
+Description says "unleashing 300,000 gallons" and "killed eight people"; sources give 128,000 to 323,000 gallons. Suggested fix: "unleashing more than 100,000 gallons".

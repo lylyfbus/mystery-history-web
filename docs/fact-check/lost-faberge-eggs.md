@@ -26,4 +26,4 @@ Checked: 2026-11-15
 
 ## Title, description, image
 
-Title says "Eight Imperial Treasures Still Waiting to Be Found" but the story (and sources) say six missing. Suggested fix: "Six Imperial Treasures Still Waiting to Be Found". Check the meta description and hero alt text for "seven" or "eight" as well. Recommended book by Snowman (Fabergé: Imperial eggs) is on topic.
+Title says "Eight Imperial Treasures Still Waiting to Be Found" but the story (and sources) say six missing. Suggested fix: "Six Imperial Treasures Still Waiting to Be Found". The meta description also says "seven are still missing" and "worth $33 million"; suggested fix: "six are still missing" and "was valued at tens of millions of dollars". Recommended book by Snowman (Fabergé: Imperial eggs) is on topic.
