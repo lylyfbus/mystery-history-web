@@ -19,6 +19,20 @@ MAX_SENTENCE_WORDS = 30
 MAX_MEAN_SENTENCE_WORDS = 18
 BANNED_PHRASES = ["breathtaking", "masterclass", "nearly severed", "ripped open"]
 
+# Posts that were in the wrong group before. The date of the real thing decides the group.
+EXPECTED_GROUP = {
+    "oak-island-money-pit-nova-scotia": "Interesting History",  # digging started in 1795
+    "el-dorado-lost-city": "Interesting History",               # legend of the 1500s
+    "crystal-skulls": "Interesting History",                    # made in the 1800s
+    "shroud-of-turin": "Interesting History",                   # first record in 1354
+    "voynich-manuscript-mystery": "Interesting History",        # a book from the 1400s
+    "winchester-mystery-house": "Interesting History",          # a house and its owner
+    "dancing-plague-1518": "Interesting History",               # a recorded event of 1518
+    "flannan-isle-lighthouse": "Interesting History",           # a disappearance, as Mary Celeste
+    "philadelphia-experiment": "Unknown Phenomena",             # a claimed event without records
+    "skinwalker-ranch": "Unknown Phenomena",
+}
+
 # Until all posts are rewritten, the text rules apply only to the posts in this file.
 _REWRITTEN = ROOT / "tests" / "rewritten.txt"
 
@@ -186,6 +200,26 @@ class SiteTests(unittest.TestCase):
                     for slug in re.findall(r'href="/posts/([a-z0-9-]+)"', section):
                         if read_post(slug)["group"] != name:
                             bad.append(f"index.html: {slug} is in the {name} row")
+        self.check(bad)
+
+    def test_archive_sections(self):
+        # The archive has 1 grid for each group. A card must be in the grid of its group.
+        bad = []
+        page = (SRC / "archive.html").read_text(encoding="utf-8")
+        parts = re.split(r'<h3 class="archive-cat-title"><a href="/categories/([a-z-]+)">', page)
+        seen = parts[1::2]
+        if sorted(seen) != sorted(GROUPS):
+            bad.append(f"archive.html: sections are {seen}")
+        for gslug, section in zip(parts[1::2], parts[2::2]):
+            for slug in re.findall(r'href="/posts/([a-z0-9-]+)" class="archive-card"', section):
+                if read_post(slug)["group"] != GROUPS.get(gslug):
+                    bad.append(f"archive.html: {slug} is in the {gslug} section")
+        self.check(bad)
+
+    def test_group_assignment(self):
+        # Group rules: docs/superpowers/specs/2026-11-15-...-design.md section 6.
+        bad = [f"{slug}: is {read_post(slug)['group']!r}, must be {want!r}"
+               for slug, want in EXPECTED_GROUP.items() if read_post(slug)["group"] != want]
         self.check(bad)
 
     # --- text rules (audience: age 10+) ---------------------------------
