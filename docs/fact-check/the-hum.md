@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | The Hum is a low droning sound, like an idling diesel engine | Correct | https://abcnews.com/US/story?id=91912 |

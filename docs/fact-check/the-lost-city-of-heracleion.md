@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Goddio's team (IEASM) found the city in 2000 | Correct | https://www.franckgoddio.org/projects/sunken-civilizations/heracleion/ |

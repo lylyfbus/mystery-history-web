@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Farmers digging a well near Xi'an found the army in March 1974 | Correct | https://www.history.com/articles/5-things-you-may-not-know-about-the-terra-cotta-army |

@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Built in stages from about 3100 BCE to about 1600 BCE | Correct | https://en.wikipedia.org/wiki/Stonehenge |

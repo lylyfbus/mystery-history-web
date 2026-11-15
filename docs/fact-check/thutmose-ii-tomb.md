@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Tomb found by a joint British and Egyptian team led by Piers Litherland | Correct | https://www.nationalgeographic.com/history/article/egypt-tomb-ancient-king-thutmose-ii-discovered |
