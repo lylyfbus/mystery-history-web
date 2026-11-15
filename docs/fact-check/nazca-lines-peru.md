@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Over 800 straight lines, over 300 geometric shapes, over 70 figures | Correct | https://www.nationalgeographic.com/history/article/nasca-lines |

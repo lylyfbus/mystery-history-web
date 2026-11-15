@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Mercy Brown and others exhumed in Exeter, Rhode Island, on March 17, 1892 | Correct | https://en.wikipedia.org/wiki/Mercy_Brown_vampire_incident |

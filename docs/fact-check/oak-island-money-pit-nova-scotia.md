@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Daniel McGinnis found the pit in 1795 as a teenager (age 16) | Softened: now "says the story"; accounts differ on how he found it | https://www.thecanadianencyclopedia.ca/en/article/oak-island |

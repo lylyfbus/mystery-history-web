@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | First confirmed unauthorized drone over Picatinny Arsenal on Nov 13, 2024 | Correct | https://kmph.com/news/nation-world/drone-mystery-persists-in-new-jersey-despite-federal-explanation-and-faa-authorizations |

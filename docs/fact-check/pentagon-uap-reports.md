@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | The New York Times reported on the secret program in December 2017 | Correct (16 December 2017) | https://en.wikipedia.org/wiki/Pentagon_UFO_videos |
