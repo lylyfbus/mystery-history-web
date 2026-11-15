@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Joseph A. Citro coined the name "Bennington Triangle" | Correct | https://vtcommunitynews.org/2026/08/13/how-the-mysterious-bennington-triangle-came-to-be/ |

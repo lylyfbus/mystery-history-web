@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Sirens at 2:25 AM on February 25, 1942, followed by a blackout | Correct | https://en.wikipedia.org/wiki/Battle_of_Los_Angeles |

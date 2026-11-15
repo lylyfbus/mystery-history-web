@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Chest of acacia wood, 2.5 x 1.5 x 1.5 cubits (about 3.75 x 2.25 x 2.25 feet), covered in gold inside and out | Correct | https://www.biblegateway.com/passage/?search=Exodus+25%3A10-22%3B+Hebrews+9%3A4&version=NIV |

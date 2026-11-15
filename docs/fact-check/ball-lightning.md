@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Widecombe-in-the-Moor, 21 October 1638, St. Pancras church, about 300 people | Correct (date is Old Style) | https://en.wikipedia.org/wiki/The_Great_Thunderstorm |
