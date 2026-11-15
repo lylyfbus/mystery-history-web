@@ -52,3 +52,12 @@ Claims in the posts that look doubtful. They were NOT changed. The owner decides
 | rosetta-stone | Script lost "for 1,408 years" (394 to 1822) | The sum is 1,428. The rewrite says "more than 1,400 years". |
 | roman-dodecahedron | "two and a half millennia of scholars", "over the next 285 years" | Wrong numbers; removed in the rewrite. |
 | pyramids-of-giza | Houdin's inner ramp "still exists today" | Not proven. The rewrite says "He says it is still there". |
+| flannan-isle-lighthouse | "Two of the three keepers went out without waterproofs", then one missing oilskin | The text disagrees with itself. Usual account: two sets were gone, McArthur's stayed. |
+| flannan-isle-lighthouse | A passing ship saw the light dark on December 15 | The ship <em>Archtor</em> is the usual source; the story is not clear. |
+| el-dorado-lost-city | Pizarro had "4,000 men" | Usual account: about 220 Spaniards and about 4,000 native porters. |
+| el-dorado-lost-city | A 2023 study in <em>Latin American Antiquity</em> by the Gold Museum | Could not confirm. |
+| easter-island-moai-statues | A 2025 study confirmed the "walking" statue idea | Could not confirm the date. |
+| ghost-army-wwii | Operation Bertram "convinced Rommel" | Rommel was on sick leave; General Stumme was in command. |
+| gobekli-tepe | "Twelve km" from Şanlıurfa, later "fifteen km" | The text disagrees with itself. About 15 km is usual. |
+| franklin-expedition | "160 years" and "170 years" for the same time | The text disagrees with itself. |
+| great-emu-war | "The emu cannot walk backward" | A popular belief, not proven. |
