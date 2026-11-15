@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Roggeveen reached the island on Easter Sunday, April 5, 1722 | Correct | https://en.wikipedia.org/wiki/Easter_Island |

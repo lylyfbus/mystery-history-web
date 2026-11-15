@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Gonzalo Pizarro left Quito in 1541 and was brother of the conqueror of the Inca | Correct | https://en.wikipedia.org/wiki/Gonzalo_Pizarro |

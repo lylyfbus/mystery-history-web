@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | In 1963 a man renovating his house broke a wall and found a passage | Correct | https://www.history.com/articles/derinkuyu-turkey-underground-city https://en.wikipedia.org/wiki/Derinkuyu_underground_city |

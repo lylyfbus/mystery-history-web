@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | A Bedouin shepherd found a cave near Qumran, threw a stone and heard pots break (story told as the best-known version) | Correct | https://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-and-publication |
