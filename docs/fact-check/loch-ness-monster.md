@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Columba tale told by Adomnan about a century later; earliest written account; around 565 | Softened: it is a saint's tale, date approximate (some say 564) | https://en.wikipedia.org/wiki/Loch_Ness_Monster https://www.mentalfloss.com/article/627436/loch-ness-monster-tourism |

@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Valley is in central Norway, in Holtålen municipality, Trøndelag county | Correct | https://en.wikipedia.org/wiki/Hessdalen_lights |

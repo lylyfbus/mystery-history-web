@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Books on arriving ships were taken, copied; per Galen the library kept originals | Corrected: was "copies given back to owners; in other accounts the library kept originals" | https://en.wikipedia.org/wiki/Library_of_Alexandria |

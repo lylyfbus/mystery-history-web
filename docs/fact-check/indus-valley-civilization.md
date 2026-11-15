@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Civilization lasted about 3300 to 1300 BCE in Pakistan and western India | Correct | https://en.wikipedia.org/wiki/Indus_Valley_Civilisation |

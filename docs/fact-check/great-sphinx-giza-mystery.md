@@ -2,6 +2,8 @@
 
 Checked: 2026-11-15
 
+Restructured: 2026-11-15
+
 | Claim in the story | Result | Source |
 | --- | --- | --- |
 | Sphinx is 73 m long and 20 m high | Correct | https://en.wikipedia.org/wiki/Great_Sphinx_of_Giza |
