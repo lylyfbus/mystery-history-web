@@ -3,7 +3,7 @@
 Usage: python3 tools/set_body.py <post-slug> <text-file>
 
 The text file is plain UTF-8. One paragraph for each block; a blank line between
-blocks. <em>...</em> is permitted. All other characters are written as text.
+blocks. <em>...</em> and <a href="/posts/slug">...</a> are permitted. All other characters are written as text.
 """
 import re
 import sys
@@ -16,6 +16,7 @@ from sitelib import SRC, body_html, read_post, word_count, write
 def to_html(text):
     text = text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
     text = re.sub(r"&lt;(/?)em&gt;", r"<\1em>", text)
+    text = re.sub(r'&lt;a href="(/posts/[a-z0-9-]+)"&gt;(.*?)&lt;/a&gt;', r'<a href="\1">\2</a>', text)
     return "".join(ch if ord(ch) < 128 else f"&{codepoint2name[ord(ch)]};" if ord(ch) in codepoint2name
                    else f"&#{ord(ch)};" for ch in text)
 

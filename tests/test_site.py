@@ -33,6 +33,9 @@ EXPECTED_GROUP = {
     "skinwalker-ranch": "Unknown Phenomena",
 }
 
+# False until all posts have a fact-check record. Then True: a new post must have a record.
+FACT_CHECK_ALL = False
+
 # Heroes that were replaced because the old AI image did not agree with the story.
 REPLACED_HEROES = ["sacsayhuaman", "rosetta-stone", "gobekli-tepe", "pentagon-uap-reports", "molasses-flood",
                    "copper-scroll-treasure", "saqqara-bird", "shroud-of-turin"]
@@ -116,7 +119,7 @@ class SiteTests(unittest.TestCase):
         # Problem we had: an auto-link tool put <a href> inside an alt="" text.
         bad = []
         for page in all_pages():
-            for value in re.findall(r'(?:alt|content|title|aria-label)="([^"]*)"', page.read_text(encoding="utf-8")):
+            for value in re.findall(r'(?:alt|content|title|aria-label|href|src)="([^"]*)"', page.read_text(encoding="utf-8")):
                 if "<" in value or ">" in value:
                     bad.append(f"{rel(page)}: tag inside attribute: {value[:80]}")
             if re.search(r'alt="[^"]*<a href=', page.read_text(encoding="utf-8")):
@@ -219,6 +222,67 @@ class SiteTests(unittest.TestCase):
         # Group rules: docs/superpowers/specs/2026-11-15-...-design.md section 6.
         bad = [f"{slug}: is {read_post(slug)['group']!r}, must be {want!r}"
                for slug, want in EXPECTED_GROUP.items() if read_post(slug)["group"] != want]
+        self.check(bad)
+
+    # --- facts and references ---------------------------------------------
+    # Problem we had: stories stated wrong facts ("the destruction of the Library of Alexandria is
+    # documented"), and the reference list did not cover the claims. Now each post has a record,
+    # docs/fact-check/<slug>.md, that lists the claims that were checked and the source for each.
+    def fact_check_rows(self, slug):
+        path = ROOT / "docs" / "fact-check" / f"{slug}.md"
+        if not path.is_file():
+            return None, ""
+        text = path.read_text(encoding="utf-8")
+        rows = [[c.strip() for c in line.strip().strip("|").split("|")] for line in text.splitlines()
+                if line.startswith("|") and not re.match(r"\|\s*(Claim|-)", line)]
+        return rows, text
+
+    def test_fact_check_records(self):
+        bad = []
+        for slug in post_slugs():
+            rows, text = self.fact_check_rows(slug)
+            if rows is None:
+                if FACT_CHECK_ALL:
+                    bad.append(f"{slug}: no fact-check record (docs/fact-check/{slug}.md)")
+                continue
+            if not re.search(r"^Checked: \d{4}-\d{2}-\d{2}$", text, re.M):
+                bad.append(f"{slug}: record has no 'Checked: YYYY-MM-DD' line")
+            if len(rows) < 12:
+                bad.append(f"{slug}: record has {len(rows)} claims; 12 or more are necessary")
+            for row in rows:
+                if len(row) != 3:
+                    bad.append(f"{slug}: bad row: {' | '.join(row)[:70]}")
+                elif not re.match(r"(Correct|Corrected|Softened|Removed)\b", row[1]):
+                    bad.append(f"{slug}: result must start with Correct, Corrected, Softened or Removed: {row[1][:40]}")
+                elif not row[1].startswith("Removed") and not re.search(r"https://\S+", row[2]):
+                    bad.append(f"{slug}: no source URL for: {row[0][:50]}")
+        self.check(bad)
+
+    def test_references_support_the_story(self):
+        bad = []
+        boilerplate = ["imaging and inscription studies", "archaeological interpretations are continuously revised"]
+        for slug in post_slugs():
+            rows, _text = self.fact_check_rows(slug)
+            if rows is None:
+                continue
+            page = read_post(slug)["html"]
+            block = page[page.index('<div class="post-sources">'):]
+            block = block[:block.index("</div>")]
+            refs = [u for u in re.findall(r'<p><a href="(https://[^"]+)"', block) if "amazon.com" not in u]
+            hosts = [re.sub(r"^www\.", "", u.split("/")[2]) for u in refs]
+            if len(refs) < 4:
+                bad.append(f"{slug}: {len(refs)} references; 4 or more are necessary")
+            if len(set(refs)) != len(refs):
+                bad.append(f"{slug}: the same reference is listed 2 times")
+            if sum(1 for h in hosts if "wikipedia.org" not in h) < 2:
+                bad.append(f"{slug}: 2 or more references must be from a source that is not Wikipedia")
+            used = " ".join(html.unescape(r[2]) for r in rows if len(r) == 3)
+            for url in refs:
+                if html.unescape(url) not in used:
+                    bad.append(f"{slug}: reference does not support a checked claim: {url[:70]}")
+            note = re.search(r'class="source-note">(.*?)</p>', block, re.S)
+            if not note or any(b in note.group(1) for b in boilerplate):
+                bad.append(f"{slug}: the editorial note is missing or is a copy that is not about this story")
         self.check(bad)
 
     # --- images -----------------------------------------------------------
