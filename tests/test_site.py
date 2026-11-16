@@ -15,6 +15,7 @@ from site_lib import (FOOTER, GROUPS, MENU, ROOT, SRC, all_pages, article_html, 
                       sentences, word_count)
 
 MAX_PARAGRAPH_WORDS = 100
+HOME_ROW_SIZE = 10
 MAX_SENTENCE_WORDS = 30
 MAX_MEAN_SENTENCE_WORDS = 18
 BANNED_PHRASES = ["breathtaking", "masterclass", "nearly severed", "ripped open"]
@@ -232,6 +233,19 @@ class SiteTests(unittest.TestCase):
                     for slug in re.findall(r'href="/posts/([a-z0-9-]+)"', section):
                         if read_post(slug)["group"] != name:
                             bad.append(f"index.html: {slug} is in the {name} row")
+        self.check(bad)
+
+    def test_home_rows_show_top_10(self):
+        """Each home row shows the first 10 stories of its group page, in the same order."""
+        bad = []
+        page = (SRC / "index.html").read_text(encoding="utf-8")
+        sections = page.split('<section class="carousel-section">')[1:]
+        for gslug, name in GROUPS.items():
+            want = listed_slugs(f"categories/{gslug}.html", r'href="/posts/([a-z0-9-]+)" class="category-bar"')[:HOME_ROW_SIZE]
+            rows = [s for s in sections if f"/categories/{gslug}" in s]
+            have = re.findall(r'href="/posts/([a-z0-9-]+)" class="carousel-card"', rows[0]) if rows else []
+            if have != want:
+                bad.append(f"index.html: the {name} row has {len(have)} stories {have}, expected {want}")
         self.check(bad)
 
     def test_archive_sections(self):

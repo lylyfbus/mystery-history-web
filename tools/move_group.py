@@ -7,6 +7,7 @@ import re
 import sys
 from collections import Counter
 
+import build_home
 from sitelib import GROUPS, SRC, post_slugs, read_post, write
 
 
@@ -84,6 +85,7 @@ def move(slug, group):
     for g, gname in GROUPS.items():
         text = re.sub(rf'(href="/categories/{g}" class="carousel-view-all">View All \()\d+', rf"\g<1>{counts[gname]}", text)
     write(path, text)
+    build_home.build()  # each row = first 10 stories of its group page
     print(f"{slug}: now in {name}")
 
 
