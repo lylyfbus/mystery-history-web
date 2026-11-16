@@ -28,6 +28,7 @@ Restructured: 2026-11-15
 | MacPherson started the World Hum Map and Database Project | Correct | https://theconversation.com/cracking-the-mystery-of-the-worldwide-hum-60296 |
 | MacPherson heard it in 2012 near Sechelt, was a UBC lecturer; 576 respondents by 2014 | Removed: no source found | |
 | Some hums traced to a vacuum pump and a transformer; gas pipeline idea from one engineer; most have no source | Corrected: was "pipelines and factories named as sources" | https://en.wikipedia.org/wiki/The_Hum |
+| Seattle vacuum pump traced as a source; South Carolina transformer only suspected | Correct | https://en.wikipedia.org/wiki/The_Hum |
 | Some researchers think it may be low-pitched tinnitus or otoacoustic emissions | Softened: not proven | https://en.wikipedia.org/wiki/The_Hum |
 | Hearers say it feels different from tinnitus | Correct | https://theconversation.com/cracking-the-mystery-of-the-worldwide-hum-60296 |
 | 10 to 15 percent of people have tinnitus; emissions more common in women | Removed: no source found | |

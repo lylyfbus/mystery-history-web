@@ -42,3 +42,20 @@ Claims without a source were removed. These posts have 70% to 77% of their old l
 great-emu-war, dancing-plague-1518, marfa-lights, molasses-flood, black-dahlia, uss-nimitz-tic-tac,
 london-beer-flood, ghost-army-wwii, db-cooper, roman-dodecahedron, the-hum, bennington-triangle,
 jack-the-ripper, chupacabra, shroud-of-turin.
+
+## Reference lists after the story rebuild (second fact check, 2026-11-15)
+
+The second reader found these reference lists do not match the shorter stories. No reference list was changed. Owner decision.
+
+- **ball-lightning:** Richmann page https://en.wikipedia.org/wiki/Georg_Wilhelm_Richmann is not in the reference list.
+- **bigfoot-sasquatch:** remove NBC Los Angeles Willow Creek reference; add Wikipedia Gigantopithecus and Ape Canyon pages.
+- **el-dorado-lost-city:** add Wikipedia Gonzalo Pizarro, Ransom Room, Muisca, Lake Guatavita, Muisca raft to the reference list
+- **ghost-army-wwii:** Arthur Singer record row cites https://ghostarmy.org/ which is not in the reference list.
+- **lost-city-atlantis-plato:** reference list lacks Helike, Donnelly, Bimini Road pages that the record cites; owner to decide.
+- **new-jersey-drones-mystery:** Phoenix Lights record cites https://en.wikipedia.org/wiki/Phoenix_Lights, which is not in the story's reference list.
+- **philadelphia-experiment:** Tesla, 1984 film and Al_Bielek Wikipedia pages are not in the reference list.
+- **phoenix-lights-ufo:** Belgian_UFO_wave and 1952 Washington UFO incident Wikipedia pages are not in the reference list.
+- **pentagon-uap-reports:** Project_Blue_Book, David_Grusch_UFO_whistleblower_claims and All-domain_Anomaly_Resolution_Office Wikipedia pages are not in the reference list.
+- **shroud-of-turin:** add https://en.wikipedia.org/wiki/Sudarium_of_Oviedo to the reference list.
+- **saqqara-bird:** add https://en.wikipedia.org/wiki/Saqqara to the reference list (source of the 30 km / 7 km facts).
+- **stonehenge-mystery:** add https://en.wikipedia.org/wiki/Stonehenge to the references (cited by many record rows).
