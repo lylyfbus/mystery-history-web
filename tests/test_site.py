@@ -431,6 +431,31 @@ class SiteTests(unittest.TestCase):
                 bad.append(f"{mp3.name}: no post has this name")
         self.check(bad)
 
+    def test_audio_matches_text(self):
+        # Problem we had: the Jack the Ripper MP3 still read the old text after the story was rewritten.
+        # tools/make_audio.py saves a hash of the text that it read. The MP3 must match the page text now.
+        import json
+        sys.path.insert(0, str(ROOT / "tools"))
+        import audio_text
+        audio = SRC / "static" / "audio"
+        manifest_file = audio / "manifest.json"
+        manifest = json.loads(manifest_file.read_text(encoding="utf-8")) if manifest_file.is_file() else {}
+        bad = []
+        for mp3 in sorted(audio.glob("*.mp3")):
+            entry = manifest.get(mp3.stem)
+            if entry is None:
+                bad.append(f"{mp3.name}: not in manifest.json (make it with tools/make_audio.sh)")
+                continue
+            if mp3.stem in post_slugs() and entry["text"] != audio_text.text_hash(mp3.stem):
+                bad.append(f"{mp3.name}: the page text changed after the MP3 was made (run tools/make_audio.sh {mp3.stem})")
+            speed = entry["words"] / entry["seconds"] * 60
+            if not 125 <= speed <= 175:   # a lower or higher speed means lost text or a wrong voice setting
+                bad.append(f"{mp3.name}: {speed:.0f} words a minute (must be 125 to 175)")
+        for slug in manifest:
+            if not (audio / f"{slug}.mp3").is_file():
+                bad.append(f"manifest.json: {slug} has no MP3 file")
+        self.check(bad)
+
     # --- text rules (audience: age 10+) ---------------------------------
     def test_paragraph_length(self):
         bad = []

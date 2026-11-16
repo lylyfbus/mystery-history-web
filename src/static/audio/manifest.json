@@ -1,0 +1,488 @@
+{
+ "alexander-great-tomb": {
+  "text": "2753034fd7ef8748",
+  "voice": "kokoro am_michael",
+  "seconds": 656,
+  "words": 1613
+ },
+ "amelia-earhart": {
+  "text": "e29fc429393a2d6b",
+  "voice": "kokoro am_michael",
+  "seconds": 679,
+  "words": 1614
+ },
+ "anastasia-romanov": {
+  "text": "00968eab7a7d37fd",
+  "voice": "kokoro am_michael",
+  "seconds": 694,
+  "words": 1618
+ },
+ "angkor-wat-mystery": {
+  "text": "f7be9d02213bd013",
+  "voice": "kokoro am_michael",
+  "seconds": 681,
+  "words": 1615
+ },
+ "antikythera-mechanism-ancient-computer": {
+  "text": "a7298b9b364a4e25",
+  "voice": "kokoro am_michael",
+  "seconds": 643,
+  "words": 1467
+ },
+ "ark-of-the-covenant": {
+  "text": "750781cdff2b4b55",
+  "voice": "kokoro am_michael",
+  "seconds": 669,
+  "words": 1631
+ },
+ "baghdad-battery-ancient-electricity": {
+  "text": "6435abcd338969f5",
+  "voice": "kokoro am_michael",
+  "seconds": 535,
+  "words": 1225
+ },
+ "ball-lightning": {
+  "text": "0dabcc8fce7c6611",
+  "voice": "kokoro am_michael",
+  "seconds": 593,
+  "words": 1371
+ },
+ "battle-los-angeles": {
+  "text": "ec7e3a7ef545bba1",
+  "voice": "kokoro am_michael",
+  "seconds": 566,
+  "words": 1294
+ },
+ "bennington-triangle": {
+  "text": "0ac5db42a2c83c42",
+  "voice": "kokoro am_michael",
+  "seconds": 561,
+  "words": 1263
+ },
+ "bermuda-triangle": {
+  "text": "9b281aa453c4c671",
+  "voice": "kokoro am_michael",
+  "seconds": 700,
+  "words": 1647
+ },
+ "bigfoot-sasquatch": {
+  "text": "b205c7566a9c96c4",
+  "voice": "kokoro am_michael",
+  "seconds": 603,
+  "words": 1418
+ },
+ "black-dahlia": {
+  "text": "467f72c39afd1852",
+  "voice": "kokoro am_michael",
+  "seconds": 610,
+  "words": 1429
+ },
+ "cadaver-synod": {
+  "text": "2b4fcd0c2127ff45",
+  "voice": "kokoro am_michael",
+  "seconds": 602,
+  "words": 1406
+ },
+ "chupacabra": {
+  "text": "913e2c61e1e7744e",
+  "voice": "kokoro am_michael",
+  "seconds": 612,
+  "words": 1434
+ },
+ "cleopatra-tomb": {
+  "text": "28035d1fb8c42fe0",
+  "voice": "kokoro am_michael",
+  "seconds": 624,
+  "words": 1456
+ },
+ "copper-scroll-treasure": {
+  "text": "1e0a1e47abe3421d",
+  "voice": "kokoro am_michael",
+  "seconds": 509,
+  "words": 1192
+ },
+ "crystal-skulls": {
+  "text": "1e04df397984d61c",
+  "voice": "kokoro am_michael",
+  "seconds": 538,
+  "words": 1213
+ },
+ "dancing-plague-1518": {
+  "text": "28668b6ed88ba7cc",
+  "voice": "kokoro am_michael",
+  "seconds": 506,
+  "words": 1181
+ },
+ "db-cooper": {
+  "text": "5ab12024a02aacd5",
+  "voice": "kokoro am_michael",
+  "seconds": 600,
+  "words": 1365
+ },
+ "dead-sea-scrolls": {
+  "text": "f5c75392dcbff45c",
+  "voice": "kokoro am_michael",
+  "seconds": 672,
+  "words": 1577
+ },
+ "derinkuyu-underground-city": {
+  "text": "9f553f47b46782fe",
+  "voice": "kokoro am_michael",
+  "seconds": 657,
+  "words": 1609
+ },
+ "dyatlov-pass-incident": {
+  "text": "75f60bdd9aeddf85",
+  "voice": "kokoro am_michael",
+  "seconds": 603,
+  "words": 1369
+ },
+ "easter-island-moai-statues": {
+  "text": "2f0972626b967b1b",
+  "voice": "kokoro am_michael",
+  "seconds": 674,
+  "words": 1535
+ },
+ "el-dorado-lost-city": {
+  "text": "3527c7309e5de360",
+  "voice": "kokoro am_michael",
+  "seconds": 680,
+  "words": 1610
+ },
+ "flannan-isle-lighthouse": {
+  "text": "bddcaee2fbc0ba70",
+  "voice": "kokoro am_michael",
+  "seconds": 612,
+  "words": 1490
+ },
+ "franklin-expedition": {
+  "text": "c9351b570b8062af",
+  "voice": "kokoro am_michael",
+  "seconds": 690,
+  "words": 1604
+ },
+ "ghost-army-wwii": {
+  "text": "ee9e7be991d2ffbe",
+  "voice": "kokoro am_michael",
+  "seconds": 530,
+  "words": 1211
+ },
+ "gobekli-tepe": {
+  "text": "9e8780a41011c753",
+  "voice": "kokoro am_michael",
+  "seconds": 526,
+  "words": 1245
+ },
+ "great-emu-war": {
+  "text": "5553a2fa73cd700a",
+  "voice": "kokoro am_michael",
+  "seconds": 505,
+  "words": 1187
+ },
+ "great-sphinx-giza-mystery": {
+  "text": "06dd25e0249f890a",
+  "voice": "kokoro am_michael",
+  "seconds": 672,
+  "words": 1629
+ },
+ "hessdalen-lights": {
+  "text": "83e099ffdd9d4e5c",
+  "voice": "kokoro am_michael",
+  "seconds": 609,
+  "words": 1447
+ },
+ "indus-valley-civilization": {
+  "text": "c521446e1c3a9f9f",
+  "voice": "kokoro am_michael",
+  "seconds": 691,
+  "words": 1643
+ },
+ "jack-the-ripper": {
+  "text": "0dda91e4a417de8f",
+  "voice": "kokoro am_michael",
+  "seconds": 664,
+  "words": 1625
+ },
+ "library-of-alexandria": {
+  "text": "573f507e6762d760",
+  "voice": "kokoro am_michael",
+  "seconds": 669,
+  "words": 1533
+ },
+ "loch-ness-monster": {
+  "text": "fd9f00c3efc434bb",
+  "voice": "kokoro am_michael",
+  "seconds": 661,
+  "words": 1572
+ },
+ "london-beer-flood": {
+  "text": "f983c492e30a23cd",
+  "voice": "kokoro am_michael",
+  "seconds": 551,
+  "words": 1300
+ },
+ "lost-city-atlantis-plato": {
+  "text": "8c787fef0121de68",
+  "voice": "kokoro am_michael",
+  "seconds": 613,
+  "words": 1484
+ },
+ "lost-faberge-eggs": {
+  "text": "7c18499364cb9534",
+  "voice": "kokoro am_michael",
+  "seconds": 626,
+  "words": 1379
+ },
+ "machu-picchu-mystery": {
+  "text": "9322c7333843144b",
+  "voice": "kokoro am_michael",
+  "seconds": 646,
+  "words": 1466
+ },
+ "mandela-effect": {
+  "text": "639d416849635fd9",
+  "voice": "kokoro am_michael",
+  "seconds": 630,
+  "words": 1435
+ },
+ "marfa-lights": {
+  "text": "f1dfaf0ca8930848",
+  "voice": "kokoro am_michael",
+  "seconds": 605,
+  "words": 1435
+ },
+ "mary-celeste-ghost-ship": {
+  "text": "7a0e16c8a9ec69cc",
+  "voice": "kokoro am_michael",
+  "seconds": 603,
+  "words": 1448
+ },
+ "minoan-civilization-collapse": {
+  "text": "0fcc19a42c764949",
+  "voice": "kokoro am_michael",
+  "seconds": 592,
+  "words": 1337
+ },
+ "molasses-flood": {
+  "text": "e45de593ac487cfb",
+  "voice": "kokoro am_michael",
+  "seconds": 597,
+  "words": 1388
+ },
+ "mothman-point-pleasant": {
+  "text": "cde35843eaa7fc93",
+  "voice": "kokoro am_michael",
+  "seconds": 633,
+  "words": 1481
+ },
+ "mysterious-monoliths": {
+  "text": "617fb20baffc0a8f",
+  "voice": "kokoro am_michael",
+  "seconds": 547,
+  "words": 1292
+ },
+ "nazca-lines-peru": {
+  "text": "074aa154083b8a58",
+  "voice": "kokoro am_michael",
+  "seconds": 547,
+  "words": 1313
+ },
+ "new-england-vampire-panic": {
+  "text": "ca958171bcfb3338",
+  "voice": "kokoro am_michael",
+  "seconds": 565,
+  "words": 1315
+ },
+ "new-jersey-drones-mystery": {
+  "text": "7c20160d912ffe37",
+  "voice": "kokoro am_michael",
+  "seconds": 562,
+  "words": 1289
+ },
+ "oak-island-money-pit-nova-scotia": {
+  "text": "1e1fe9ffab76ddb1",
+  "voice": "kokoro am_michael",
+  "seconds": 566,
+  "words": 1338
+ },
+ "pentagon-uap-reports": {
+  "text": "d906c959b989f489",
+  "voice": "kokoro am_michael",
+  "seconds": 677,
+  "words": 1470
+ },
+ "philadelphia-experiment": {
+  "text": "5de298c9e1e1f333",
+  "voice": "kokoro am_michael",
+  "seconds": 639,
+  "words": 1454
+ },
+ "phoenix-lights-ufo": {
+  "text": "284f75452e983892",
+  "voice": "kokoro am_michael",
+  "seconds": 578,
+  "words": 1296
+ },
+ "pompeii-eruption": {
+  "text": "be3173c875b51d30",
+  "voice": "kokoro am_michael",
+  "seconds": 688,
+  "words": 1590
+ },
+ "princes-in-tower": {
+  "text": "86b97ef42f79ac34",
+  "voice": "kokoro am_michael",
+  "seconds": 640,
+  "words": 1495
+ },
+ "pyramids-of-giza": {
+  "text": "8e90527031ca43f1",
+  "voice": "kokoro am_michael",
+  "seconds": 609,
+  "words": 1446
+ },
+ "roanoke-lost-colony": {
+  "text": "78f12a131cd807f7",
+  "voice": "kokoro am_michael",
+  "seconds": 613,
+  "words": 1404
+ },
+ "roman-dodecahedron": {
+  "text": "9b5e0c8f86bf4685",
+  "voice": "kokoro am_michael",
+  "seconds": 495,
+  "words": 1155
+ },
+ "rosetta-stone": {
+  "text": "7d2c8627fe2b062b",
+  "voice": "kokoro am_michael",
+  "seconds": 647,
+  "words": 1459
+ },
+ "roswell-ufo-incident": {
+  "text": "e79b0d54635ad064",
+  "voice": "kokoro am_michael",
+  "seconds": 646,
+  "words": 1395
+ },
+ "sacsayhuaman": {
+  "text": "e35de46b85f4f09e",
+  "voice": "kokoro am_michael",
+  "seconds": 619,
+  "words": 1494
+ },
+ "salem-witch-trials": {
+  "text": "8cb50417ddbcac91",
+  "voice": "kokoro am_michael",
+  "seconds": 587,
+  "words": 1382
+ },
+ "saqqara-bird": {
+  "text": "cbe50f7060270d65",
+  "voice": "kokoro am_michael",
+  "seconds": 524,
+  "words": 1269
+ },
+ "shroud-of-turin": {
+  "text": "e3c04a700c37764a",
+  "voice": "kokoro am_michael",
+  "seconds": 551,
+  "words": 1254
+ },
+ "skinwalker-ranch": {
+  "text": "e070a3659e333868",
+  "voice": "kokoro am_michael",
+  "seconds": 529,
+  "words": 1220
+ },
+ "spontaneous-human-combustion": {
+  "text": "af0fa8b68ab5b8a9",
+  "voice": "kokoro am_michael",
+  "seconds": 511,
+  "words": 1213
+ },
+ "stonehenge-mystery": {
+  "text": "009d4255490ee5c8",
+  "voice": "kokoro am_michael",
+  "seconds": 514,
+  "words": 1206
+ },
+ "terracotta-army": {
+  "text": "80b9e85c7690a986",
+  "voice": "kokoro am_michael",
+  "seconds": 497,
+  "words": 1187
+ },
+ "the-hum": {
+  "text": "4b6834a2f3454ce0",
+  "voice": "kokoro am_michael",
+  "seconds": 530,
+  "words": 1241
+ },
+ "the-lost-city-of-heracleion": {
+  "text": "ab11064c21304dde",
+  "voice": "kokoro am_michael",
+  "seconds": 497,
+  "words": 1160
+ },
+ "thutmose-ii-tomb": {
+  "text": "ae435604f37c22b7",
+  "voice": "kokoro am_michael",
+  "seconds": 493,
+  "words": 1165
+ },
+ "tunguska-event-siberia": {
+  "text": "60478e9b9354d0f4",
+  "voice": "kokoro am_michael",
+  "seconds": 685,
+  "words": 1634
+ },
+ "tutankhamun-curse": {
+  "text": "0bcd87b873edfd93",
+  "voice": "kokoro am_michael",
+  "seconds": 564,
+  "words": 1337
+ },
+ "uss-nimitz-tic-tac": {
+  "text": "2a7d224ace1c652a",
+  "voice": "kokoro am_michael",
+  "seconds": 564,
+  "words": 1291
+ },
+ "voynich-manuscript-mystery": {
+  "text": "c72b56d1385079a6",
+  "voice": "kokoro am_michael",
+  "seconds": 612,
+  "words": 1398
+ },
+ "wilmer-mclean": {
+  "text": "920d3a610aa7bc0b",
+  "voice": "kokoro am_michael",
+  "seconds": 590,
+  "words": 1303
+ },
+ "winchester-mystery-house": {
+  "text": "4c741f85fb5ae51d",
+  "voice": "kokoro am_michael",
+  "seconds": 573,
+  "words": 1343
+ },
+ "wow-signal": {
+  "text": "43a295c62223ea95",
+  "voice": "kokoro am_michael",
+  "seconds": 544,
+  "words": 1278
+ },
+ "yonaguni-monument": {
+  "text": "fa0950d6d7dd7098",
+  "voice": "kokoro am_michael",
+  "seconds": 518,
+  "words": 1173
+ },
+ "zodiac-killer": {
+  "text": "2b862a17dadccac6",
+  "voice": "kokoro am_michael",
+  "seconds": 581,
+  "words": 1298
+ }
+}
