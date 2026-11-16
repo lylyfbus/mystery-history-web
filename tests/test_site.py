@@ -11,7 +11,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from site_lib import (FOOTER, GROUPS, MENU, ROOT, SRC, all_pages, article_html, body_html,  # noqa: E402
-                      footer_links, listed_slugs, menu_links, post_slugs, read_post, resolve,
+                      footer_links, listed_slugs, menu_links, post_dates, post_slugs, read_post, resolve,
                       sentences, word_count)
 
 MAX_PARAGRAPH_WORDS = 100
@@ -246,6 +246,61 @@ class SiteTests(unittest.TestCase):
             have = re.findall(r'href="/posts/([a-z0-9-]+)" class="carousel-card"', rows[0]) if rows else []
             if have != want:
                 bad.append(f"index.html: the {name} row has {len(have)} stories {have}, expected {want}")
+        self.check(bad)
+
+    def test_listings_newest_first(self):
+        """Owner rule: the default order of each list is the added time, newest first."""
+        dates = post_dates()
+        bad = []
+        lists = {f"categories/{g}.html": listed_slugs(f"categories/{g}.html", r'href="/posts/([a-z0-9-]+)" class="category-bar"')
+                 for g in GROUPS}
+        archive = (SRC / "archive.html").read_text(encoding="utf-8")
+        for n, grid in enumerate(archive.split('<div class="archive-grid">')[1:], 1):
+            lists[f"archive.html list {n}"] = re.findall(r'href="/posts/([a-z0-9-]+)" class="archive-card"', grid)
+        for name, slugs in lists.items():
+            for a, b in zip(slugs, slugs[1:]):
+                if dates[a]["iso"] < dates[b]["iso"]:
+                    bad.append(f"{name}: {a} ({dates[a]['iso']}) is before {b} ({dates[b]['iso']}); run tools/sort_listings.py")
+        self.check(bad)
+
+    def test_story_data_for_sorting(self):
+        """The sort control needs an added date and a story year for each story."""
+        import json
+        stories = json.loads((SRC / "static" / "data" / "stories.json").read_text(encoding="utf-8"))
+        years = json.loads((ROOT / "tools" / "story_years.json").read_text(encoding="utf-8"))
+        views = json.loads((ROOT / "tools" / "views.json").read_text(encoding="utf-8"))
+        dates = post_dates()
+        bad = []
+        if sorted(years) != post_slugs():
+            bad.append("tools/story_years.json does not have exactly the posts")
+        for extra in sorted(set(views) - set(post_slugs())):
+            bad.append(f"tools/views.json: {extra} is not a post")
+        for story in stories:
+            slug = story["slug"]
+            if slug not in years or slug not in dates:
+                continue
+            if story.get("added") != dates[slug]["iso"]:
+                bad.append(f"{slug}: added is {story.get('added')}, must be {dates[slug]['iso']}")
+            if story.get("year") != years[slug]["year"] or story.get("when") != years[slug]["label"]:
+                bad.append(f"{slug}: year or when is out of date; run tools/build_stories.py")
+            if story.get("views") != views.get(slug):
+                bad.append(f"{slug}: views is {story.get('views')}, must be {views.get(slug)}")
+            if not isinstance(years[slug]["year"], int):
+                bad.append(f"{slug}: year must be a whole number")
+            # each number in the label must be in the story text
+            text = html.unescape(re.sub(r"<[^>]+>", " ", body_html((SRC / "posts" / f"{slug}.html").read_text(encoding="utf-8"))))
+            for token in re.findall(r"\d+(?:st|nd|rd|th|s)?|third", years[slug]["label"]):
+                if not re.search(rf"(?<![\d,]){token}(?!\d)", text):
+                    bad.append(f"{slug}: the story text does not have '{token}' from the label '{years[slug]['label']}'")
+        self.check(bad)
+
+    def test_sort_control_on_list_pages(self):
+        bad = []
+        for path in ["archive.html"] + [f"categories/{g}.html" for g in GROUPS]:
+            page = (SRC / path).read_text(encoding="utf-8")
+            if page.count('<script defer src="/static/js/sort.js"></script>') != 1:
+                bad.append(f"{path}: must load /static/js/sort.js one time")
+        self.assertTrue((SRC / "static" / "js" / "sort.js").is_file(), "src/static/js/sort.js is missing")
         self.check(bad)
 
     def test_archive_sections(self):

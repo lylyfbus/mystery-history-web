@@ -1,0 +1,326 @@
+{
+ "alexander-great-tomb": {
+  "year": -323,
+  "label": "323 BCE"
+ },
+ "amelia-earhart": {
+  "year": 1937,
+  "label": "1937"
+ },
+ "anastasia-romanov": {
+  "year": 1918,
+  "label": "1918"
+ },
+ "angkor-wat-mystery": {
+  "year": 1113,
+  "label": "about 1113 to 1150 CE"
+ },
+ "antikythera-mechanism-ancient-computer": {
+  "year": -205,
+  "label": "about 205 to 87 BCE"
+ },
+ "ark-of-the-covenant": {
+  "year": -587,
+  "label": "587 BCE"
+ },
+ "baghdad-battery-ancient-electricity": {
+  "year": -250,
+  "label": "about 250 BCE or later"
+ },
+ "ball-lightning": {
+  "year": 1638,
+  "label": "1638"
+ },
+ "battle-los-angeles": {
+  "year": 1942,
+  "label": "1942"
+ },
+ "bennington-triangle": {
+  "year": 1945,
+  "label": "1945 to 1950"
+ },
+ "bermuda-triangle": {
+  "year": 1945,
+  "label": "1945"
+ },
+ "bigfoot-sasquatch": {
+  "year": 1958,
+  "label": "1958"
+ },
+ "black-dahlia": {
+  "year": 1947,
+  "label": "1947"
+ },
+ "cadaver-synod": {
+  "year": 897,
+  "label": "897"
+ },
+ "chupacabra": {
+  "year": 1995,
+  "label": "1995"
+ },
+ "cleopatra-tomb": {
+  "year": -30,
+  "label": "30 BC"
+ },
+ "copper-scroll-treasure": {
+  "year": 70,
+  "label": "about 70 CE"
+ },
+ "crystal-skulls": {
+  "year": 1850,
+  "label": "19th century"
+ },
+ "dancing-plague-1518": {
+  "year": 1518,
+  "label": "1518"
+ },
+ "db-cooper": {
+  "year": 1971,
+  "label": "1971"
+ },
+ "dead-sea-scrolls": {
+  "year": -250,
+  "label": "3rd century BCE to 1st century CE"
+ },
+ "derinkuyu-underground-city": {
+  "year": -750,
+  "label": "possibly 8th century BCE"
+ },
+ "dyatlov-pass-incident": {
+  "year": 1959,
+  "label": "1959"
+ },
+ "easter-island-moai-statues": {
+  "year": 1250,
+  "label": "about 1250 to 1500 CE"
+ },
+ "el-dorado-lost-city": {
+  "year": 1530,
+  "label": "1530s"
+ },
+ "flannan-isle-lighthouse": {
+  "year": 1900,
+  "label": "1900"
+ },
+ "franklin-expedition": {
+  "year": 1845,
+  "label": "1845"
+ },
+ "ghost-army-wwii": {
+  "year": 1944,
+  "label": "1944"
+ },
+ "gobekli-tepe": {
+  "year": -9500,
+  "label": "about 9500 BCE"
+ },
+ "great-emu-war": {
+  "year": 1932,
+  "label": "1932"
+ },
+ "great-sphinx-giza-mystery": {
+  "year": -2558,
+  "label": "about 2558 to 2532 BCE"
+ },
+ "hessdalen-lights": {
+  "year": 1981,
+  "label": "1981"
+ },
+ "indus-valley-civilization": {
+  "year": -2600,
+  "label": "about 2600 to 1900 BCE"
+ },
+ "jack-the-ripper": {
+  "year": 1888,
+  "label": "1888"
+ },
+ "library-of-alexandria": {
+  "year": -283,
+  "label": "third century BCE"
+ },
+ "loch-ness-monster": {
+  "year": 1933,
+  "label": "1933"
+ },
+ "london-beer-flood": {
+  "year": 1814,
+  "label": "1814"
+ },
+ "lost-city-atlantis-plato": {
+  "year": -360,
+  "label": "about 360 BCE"
+ },
+ "lost-faberge-eggs": {
+  "year": 1917,
+  "label": "1917"
+ },
+ "machu-picchu-mystery": {
+  "year": 1450,
+  "label": "about 1450 CE"
+ },
+ "mandela-effect": {
+  "year": 2009,
+  "label": "about 2009"
+ },
+ "marfa-lights": {
+  "year": 1883,
+  "label": "1883"
+ },
+ "mary-celeste-ghost-ship": {
+  "year": 1872,
+  "label": "1872"
+ },
+ "minoan-civilization-collapse": {
+  "year": -1450,
+  "label": "about 1450 BCE"
+ },
+ "molasses-flood": {
+  "year": 1919,
+  "label": "1919"
+ },
+ "mothman-point-pleasant": {
+  "year": 1966,
+  "label": "1966"
+ },
+ "mysterious-monoliths": {
+  "year": 2020,
+  "label": "2020"
+ },
+ "nazca-lines-peru": {
+  "year": -500,
+  "label": "500 BCE to 500 CE"
+ },
+ "new-england-vampire-panic": {
+  "year": 1892,
+  "label": "1892"
+ },
+ "new-jersey-drones-mystery": {
+  "year": 2024,
+  "label": "2024"
+ },
+ "oak-island-money-pit-nova-scotia": {
+  "year": 1795,
+  "label": "1795"
+ },
+ "pentagon-uap-reports": {
+  "year": 2017,
+  "label": "2017"
+ },
+ "philadelphia-experiment": {
+  "year": 1943,
+  "label": "1943"
+ },
+ "phoenix-lights-ufo": {
+  "year": 1997,
+  "label": "1997"
+ },
+ "pompeii-eruption": {
+  "year": 79,
+  "label": "79 CE"
+ },
+ "princes-in-tower": {
+  "year": 1483,
+  "label": "1483"
+ },
+ "pyramids-of-giza": {
+  "year": -2600,
+  "label": "about 2600 to 2560 BCE"
+ },
+ "roanoke-lost-colony": {
+  "year": 1590,
+  "label": "1590"
+ },
+ "roman-dodecahedron": {
+  "year": 150,
+  "label": "2nd to 4th century CE"
+ },
+ "rosetta-stone": {
+  "year": -196,
+  "label": "196 BCE"
+ },
+ "roswell-ufo-incident": {
+  "year": 1947,
+  "label": "1947"
+ },
+ "sacsayhuaman": {
+  "year": 1438,
+  "label": "after 1438"
+ },
+ "salem-witch-trials": {
+  "year": 1692,
+  "label": "1692"
+ },
+ "saqqara-bird": {
+  "year": -200,
+  "label": "about 200 BCE"
+ },
+ "shroud-of-turin": {
+  "year": 1350,
+  "label": "1350s"
+ },
+ "skinwalker-ranch": {
+  "year": 1996,
+  "label": "1996"
+ },
+ "spontaneous-human-combustion": {
+  "year": 1663,
+  "label": "from 1663"
+ },
+ "stonehenge-mystery": {
+  "year": -3100,
+  "label": "about 3100 BCE"
+ },
+ "terracotta-army": {
+  "year": -210,
+  "label": "about 210 BCE"
+ },
+ "the-hum": {
+  "year": 1968,
+  "label": "from the late 1960s"
+ },
+ "the-lost-city-of-heracleion": {
+  "year": -750,
+  "label": "about 8th century BCE"
+ },
+ "thutmose-ii-tomb": {
+  "year": -1479,
+  "label": "about 1479 BCE"
+ },
+ "tunguska-event-siberia": {
+  "year": 1908,
+  "label": "1908"
+ },
+ "tutankhamun-curse": {
+  "year": 1922,
+  "label": "1922"
+ },
+ "uss-nimitz-tic-tac": {
+  "year": 2004,
+  "label": "2004"
+ },
+ "voynich-manuscript-mystery": {
+  "year": 1404,
+  "label": "1404 to 1438"
+ },
+ "wilmer-mclean": {
+  "year": 1861,
+  "label": "1861"
+ },
+ "winchester-mystery-house": {
+  "year": 1886,
+  "label": "1886"
+ },
+ "wow-signal": {
+  "year": 1977,
+  "label": "1977"
+ },
+ "yonaguni-monument": {
+  "year": 1986,
+  "label": "found in 1986"
+ },
+ "zodiac-killer": {
+  "year": 1968,
+  "label": "1968"
+ }
+}

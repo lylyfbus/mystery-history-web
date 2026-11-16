@@ -6,7 +6,7 @@ import json
 import shutil
 import subprocess
 
-from sitelib import GROUPS, SRC, listed_slugs, post_slugs, read_post, write
+from sitelib import GROUPS, ROOT, SRC, listed_slugs, post_dates, post_slugs, read_post, write
 
 
 def duration(path):
@@ -24,6 +24,9 @@ def build():
     by_name = {name: slug for slug, name in GROUPS.items()}
     order = listed_slugs("archive.html", r'href="/posts/([a-z0-9-]+)" class="archive-card"')
     order += [s for s in post_slugs() if s not in order]
+    dates = post_dates()
+    years = json.loads((ROOT / "tools" / "story_years.json").read_text(encoding="utf-8"))
+    views = json.loads((ROOT / "tools" / "views.json").read_text(encoding="utf-8"))
     stories = []
     for slug in order:
         post = read_post(slug)
@@ -35,6 +38,10 @@ def build():
             "image": f"/static/images/posts/{slug}/hero.webp",
             "audio": f"/static/audio/{slug}.mp3" if mp3.is_file() else None,
             "duration": duration(mp3) if mp3.is_file() else None,
+            "added": dates[slug]["iso"],           # sort: added time
+            "year": years[slug]["year"],           # sort: story time (a year before the year 1 is negative)
+            "when": years[slug]["label"],          # the text that a card shows for the story time
+            "views": views.get(slug),              # sort: number of views (None = no number yet)
         })
     return stories
 

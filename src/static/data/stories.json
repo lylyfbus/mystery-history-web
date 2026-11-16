@@ -5,7 +5,11 @@
   "group": "ancient-mysteries",
   "image": "/static/images/posts/lost-city-atlantis-plato/hero.webp",
   "audio": "/static/audio/lost-city-atlantis-plato.mp3",
-  "duration": 613
+  "duration": 613,
+  "added": "2026-04-18",
+  "year": -360,
+  "when": "about 360 BCE",
+  "views": null
  },
  {
   "slug": "nazca-lines-peru",
@@ -13,7 +17,11 @@
   "group": "ancient-mysteries",
   "image": "/static/images/posts/nazca-lines-peru/hero.webp",
   "audio": "/static/audio/nazca-lines-peru.mp3",
-  "duration": 547
+  "duration": 547,
+  "added": "2026-04-18",
+  "year": -500,
+  "when": "500 BCE to 500 CE",
+  "views": null
  },
  {
   "slug": "baghdad-battery-ancient-electricity",
@@ -21,7 +29,11 @@
   "group": "ancient-mysteries",
   "image": "/static/images/posts/baghdad-battery-ancient-electricity/hero.webp",
   "audio": "/static/audio/baghdad-battery-ancient-electricity.mp3",
-  "duration": 535
+  "duration": 535,
+  "added": "2026-04-17",
+  "year": -250,
+  "when": "about 250 BCE or later",
+  "views": null
  },
  {
   "slug": "easter-island-moai-statues",
@@ -29,7 +41,11 @@
   "group": "ancient-mysteries",
   "image": "/static/images/posts/easter-island-moai-statues/hero.webp",
   "audio": "/static/audio/easter-island-moai-statues.mp3",
-  "duration": 674
+  "duration": 674,
+  "added": "2026-04-17",
+  "year": 1250,
+  "when": "about 1250 to 1500 CE",
+  "views": null
  },
  {
   "slug": "great-sphinx-giza-mystery",
@@ -37,7 +53,11 @@
   "group": "ancient-mysteries",
   "image": "/static/images/posts/great-sphinx-giza-mystery/hero.webp",
   "audio": "/static/audio/great-sphinx-giza-mystery.mp3",
-  "duration": 672
+  "duration": 672,
+  "added": "2026-04-17",
+  "year": -2558,
+  "when": "about 2558 to 2532 BCE",
+  "views": null
  },
  {
   "slug": "library-of-alexandria",
@@ -45,7 +65,11 @@
   "group": "ancient-mysteries",
   "image": "/static/images/posts/library-of-alexandria/hero.webp",
   "audio": "/static/audio/library-of-alexandria.mp3",
-  "duration": 669
+  "duration": 669,
+  "added": "2026-04-17",
+  "year": -283,
+  "when": "third century BCE",
+  "views": null
  },
  {
   "slug": "antikythera-mechanism-ancient-computer",
@@ -53,7 +77,11 @@
   "group": "ancient-mysteries",
   "image": "/static/images/posts/antikythera-mechanism-ancient-computer/hero.webp",
   "audio": "/static/audio/antikythera-mechanism-ancient-computer.mp3",
-  "duration": 643
+  "duration": 643,
+  "added": "2026-04-17",
+  "year": -205,
+  "when": "about 205 to 87 BCE",
+  "views": null
  },
  {
   "slug": "tutankhamun-curse",
@@ -61,7 +89,11 @@
   "group": "ancient-mysteries",
   "image": "/static/images/posts/tutankhamun-curse/hero.webp",
   "audio": "/static/audio/tutankhamun-curse.mp3",
-  "duration": 564
+  "duration": 564,
+  "added": "2026-04-17",
+  "year": 1922,
+  "when": "1922",
+  "views": null
  },
  {
   "slug": "angkor-wat-mystery",
@@ -69,7 +101,11 @@
   "group": "ancient-mysteries",
   "image": "/static/images/posts/angkor-wat-mystery/hero.webp",
   "audio": "/static/audio/angkor-wat-mystery.mp3",
-  "duration": 681
+  "duration": 681,
+  "added": "2026-04-17",
+  "year": 1113,
+  "when": "about 1113 to 1150 CE",
+  "views": null
  },
  {
   "slug": "minoan-civilization-collapse",
@@ -77,7 +113,11 @@
   "group": "ancient-mysteries",
   "image": "/static/images/posts/minoan-civilization-collapse/hero.webp",
   "audio": "/static/audio/minoan-civilization-collapse.mp3",
-  "duration": 592
+  "duration": 592,
+  "added": "2026-04-17",
+  "year": -1450,
+  "when": "about 1450 BCE",
+  "views": null
  },
  {
   "slug": "yonaguni-monument",
@@ -85,7 +125,11 @@
   "group": "ancient-mysteries",
   "image": "/static/images/posts/yonaguni-monument/hero.webp",
   "audio": "/static/audio/yonaguni-monument.mp3",
-  "duration": 518
+  "duration": 518,
+  "added": "2026-04-17",
+  "year": 1986,
+  "when": "found in 1986",
+  "views": null
  },
  {
   "slug": "alexander-great-tomb",
@@ -93,7 +137,11 @@
   "group": "ancient-mysteries",
   "image": "/static/images/posts/alexander-great-tomb/hero.webp",
   "audio": "/static/audio/alexander-great-tomb.mp3",
-  "duration": 656
+  "duration": 656,
+  "added": "2026-04-17",
+  "year": -323,
+  "when": "323 BCE",
+  "views": null
  },
  {
   "slug": "ark-of-the-covenant",
@@ -101,7 +149,11 @@
   "group": "ancient-mysteries",
   "image": "/static/images/posts/ark-of-the-covenant/hero.webp",
   "audio": "/static/audio/ark-of-the-covenant.mp3",
-  "duration": 669
+  "duration": 669,
+  "added": "2026-04-16",
+  "year": -587,
+  "when": "587 BCE",
+  "views": null
  },
  {
   "slug": "rosetta-stone",
@@ -109,7 +161,11 @@
   "group": "ancient-mysteries",
   "image": "/static/images/posts/rosetta-stone/hero.webp",
   "audio": "/static/audio/rosetta-stone.mp3",
-  "duration": 647
+  "duration": 647,
+  "added": "2026-04-16",
+  "year": -196,
+  "when": "196 BCE",
+  "views": null
  },
  {
   "slug": "dead-sea-scrolls",
@@ -117,7 +173,11 @@
   "group": "ancient-mysteries",
   "image": "/static/images/posts/dead-sea-scrolls/hero.webp",
   "audio": "/static/audio/dead-sea-scrolls.mp3",
-  "duration": 672
+  "duration": 672,
+  "added": "2026-04-16",
+  "year": -250,
+  "when": "3rd century BCE to 1st century CE",
+  "views": null
  },
  {
   "slug": "pompeii-eruption",
@@ -125,7 +185,11 @@
   "group": "ancient-mysteries",
   "image": "/static/images/posts/pompeii-eruption/hero.webp",
   "audio": "/static/audio/pompeii-eruption.mp3",
-  "duration": 688
+  "duration": 688,
+  "added": "2026-04-16",
+  "year": 79,
+  "when": "79 CE",
+  "views": null
  },
  {
   "slug": "machu-picchu-mystery",
@@ -133,7 +197,11 @@
   "group": "ancient-mysteries",
   "image": "/static/images/posts/machu-picchu-mystery/hero.webp",
   "audio": "/static/audio/machu-picchu-mystery.mp3",
-  "duration": 646
+  "duration": 646,
+  "added": "2026-04-16",
+  "year": 1450,
+  "when": "about 1450 CE",
+  "views": null
  },
  {
   "slug": "pyramids-of-giza",
@@ -141,7 +209,11 @@
   "group": "ancient-mysteries",
   "image": "/static/images/posts/pyramids-of-giza/hero.webp",
   "audio": "/static/audio/pyramids-of-giza.mp3",
-  "duration": 609
+  "duration": 609,
+  "added": "2026-04-15",
+  "year": -2600,
+  "when": "about 2600 to 2560 BCE",
+  "views": null
  },
  {
   "slug": "stonehenge-mystery",
@@ -149,7 +221,11 @@
   "group": "ancient-mysteries",
   "image": "/static/images/posts/stonehenge-mystery/hero.webp",
   "audio": "/static/audio/stonehenge-mystery.mp3",
-  "duration": 514
+  "duration": 514,
+  "added": "2026-04-15",
+  "year": -3100,
+  "when": "about 3100 BCE",
+  "views": null
  },
  {
   "slug": "cleopatra-tomb",
@@ -157,7 +233,11 @@
   "group": "ancient-mysteries",
   "image": "/static/images/posts/cleopatra-tomb/hero.webp",
   "audio": "/static/audio/cleopatra-tomb.mp3",
-  "duration": 624
+  "duration": 624,
+  "added": "2026-03-30",
+  "year": -30,
+  "when": "30 BC",
+  "views": null
  },
  {
   "slug": "derinkuyu-underground-city",
@@ -165,7 +245,11 @@
   "group": "ancient-mysteries",
   "image": "/static/images/posts/derinkuyu-underground-city/hero.webp",
   "audio": "/static/audio/derinkuyu-underground-city.mp3",
-  "duration": 657
+  "duration": 657,
+  "added": "2026-03-29",
+  "year": -750,
+  "when": "possibly 8th century BCE",
+  "views": null
  },
  {
   "slug": "sacsayhuaman",
@@ -173,7 +257,11 @@
   "group": "ancient-mysteries",
   "image": "/static/images/posts/sacsayhuaman/hero.webp",
   "audio": "/static/audio/sacsayhuaman.mp3",
-  "duration": 619
+  "duration": 619,
+  "added": "2026-03-29",
+  "year": 1438,
+  "when": "after 1438",
+  "views": null
  },
  {
   "slug": "copper-scroll-treasure",
@@ -181,7 +269,11 @@
   "group": "ancient-mysteries",
   "image": "/static/images/posts/copper-scroll-treasure/hero.webp",
   "audio": "/static/audio/copper-scroll-treasure.mp3",
-  "duration": 509
+  "duration": 509,
+  "added": "2026-03-28",
+  "year": 70,
+  "when": "about 70 CE",
+  "views": null
  },
  {
   "slug": "saqqara-bird",
@@ -189,7 +281,11 @@
   "group": "ancient-mysteries",
   "image": "/static/images/posts/saqqara-bird/hero.webp",
   "audio": "/static/audio/saqqara-bird.mp3",
-  "duration": 524
+  "duration": 524,
+  "added": "2026-03-28",
+  "year": -200,
+  "when": "about 200 BCE",
+  "views": null
  },
  {
   "slug": "roman-dodecahedron",
@@ -197,7 +293,11 @@
   "group": "ancient-mysteries",
   "image": "/static/images/posts/roman-dodecahedron/hero.webp",
   "audio": "/static/audio/roman-dodecahedron.mp3",
-  "duration": 495
+  "duration": 495,
+  "added": "2026-03-01",
+  "year": 150,
+  "when": "2nd to 4th century CE",
+  "views": null
  },
  {
   "slug": "thutmose-ii-tomb",
@@ -205,31 +305,11 @@
   "group": "ancient-mysteries",
   "image": "/static/images/posts/thutmose-ii-tomb/hero.webp",
   "audio": "/static/audio/thutmose-ii-tomb.mp3",
-  "duration": 493
- },
- {
-  "slug": "gobekli-tepe",
-  "title": "Göbekli Tepe: The World's Oldest Temple and the Mystery of Who Built It",
-  "group": "ancient-mysteries",
-  "image": "/static/images/posts/gobekli-tepe/hero.webp",
-  "audio": "/static/audio/gobekli-tepe.mp3",
-  "duration": 526
- },
- {
-  "slug": "terracotta-army",
-  "title": "The Terracotta Army: 8,000 Clay Warriors Guarding China’s First Emperor",
-  "group": "ancient-mysteries",
-  "image": "/static/images/posts/terracotta-army/hero.webp",
-  "audio": "/static/audio/terracotta-army.mp3",
-  "duration": 497
- },
- {
-  "slug": "indus-valley-civilization",
-  "title": "Indus Valley Civilization: Cities Before Their Time",
-  "group": "ancient-mysteries",
-  "image": "/static/images/posts/indus-valley-civilization/hero.webp",
-  "audio": "/static/audio/indus-valley-civilization.mp3",
-  "duration": 691
+  "duration": 493,
+  "added": "2026-03-01",
+  "year": -1479,
+  "when": "about 1479 BCE",
+  "views": null
  },
  {
   "slug": "the-lost-city-of-heracleion",
@@ -237,7 +317,47 @@
   "group": "ancient-mysteries",
   "image": "/static/images/posts/the-lost-city-of-heracleion/hero.webp",
   "audio": "/static/audio/the-lost-city-of-heracleion.mp3",
-  "duration": 497
+  "duration": 497,
+  "added": "2026-02-26",
+  "year": -750,
+  "when": "about 8th century BCE",
+  "views": null
+ },
+ {
+  "slug": "terracotta-army",
+  "title": "The Terracotta Army: 8,000 Clay Warriors Guarding China’s First Emperor",
+  "group": "ancient-mysteries",
+  "image": "/static/images/posts/terracotta-army/hero.webp",
+  "audio": "/static/audio/terracotta-army.mp3",
+  "duration": 497,
+  "added": "2026-02-23",
+  "year": -210,
+  "when": "about 210 BCE",
+  "views": null
+ },
+ {
+  "slug": "gobekli-tepe",
+  "title": "Göbekli Tepe: The World's Oldest Temple and the Mystery of Who Built It",
+  "group": "ancient-mysteries",
+  "image": "/static/images/posts/gobekli-tepe/hero.webp",
+  "audio": "/static/audio/gobekli-tepe.mp3",
+  "duration": 526,
+  "added": "2026-02-20",
+  "year": -9500,
+  "when": "about 9500 BCE",
+  "views": null
+ },
+ {
+  "slug": "indus-valley-civilization",
+  "title": "Indus Valley Civilization: Cities Before Their Time",
+  "group": "ancient-mysteries",
+  "image": "/static/images/posts/indus-valley-civilization/hero.webp",
+  "audio": "/static/audio/indus-valley-civilization.mp3",
+  "duration": 691,
+  "added": "2026-02-20",
+  "year": -2600,
+  "when": "about 2600 to 1900 BCE",
+  "views": null
  },
  {
   "slug": "roanoke-lost-colony",
@@ -245,7 +365,11 @@
   "group": "interesting-history",
   "image": "/static/images/posts/roanoke-lost-colony/hero.webp",
   "audio": "/static/audio/roanoke-lost-colony.mp3",
-  "duration": 613
+  "duration": 613,
+  "added": "2026-04-17",
+  "year": 1590,
+  "when": "1590",
+  "views": null
  },
  {
   "slug": "franklin-expedition",
@@ -253,7 +377,11 @@
   "group": "interesting-history",
   "image": "/static/images/posts/franklin-expedition/hero.webp",
   "audio": "/static/audio/franklin-expedition.mp3",
-  "duration": 690
+  "duration": 690,
+  "added": "2026-04-17",
+  "year": 1845,
+  "when": "1845",
+  "views": null
  },
  {
   "slug": "princes-in-tower",
@@ -261,7 +389,11 @@
   "group": "interesting-history",
   "image": "/static/images/posts/princes-in-tower/hero.webp",
   "audio": "/static/audio/princes-in-tower.mp3",
-  "duration": 640
+  "duration": 640,
+  "added": "2026-04-17",
+  "year": 1483,
+  "when": "1483",
+  "views": null
  },
  {
   "slug": "salem-witch-trials",
@@ -269,127 +401,11 @@
   "group": "interesting-history",
   "image": "/static/images/posts/salem-witch-trials/hero.webp",
   "audio": "/static/audio/salem-witch-trials.mp3",
-  "duration": 587
- },
- {
-  "slug": "anastasia-romanov",
-  "title": "Anastasia Romanov: The Princess Who Vanished and the Woman Who Spent 60 Years Pretending to Be Her",
-  "group": "interesting-history",
-  "image": "/static/images/posts/anastasia-romanov/hero.webp",
-  "audio": "/static/audio/anastasia-romanov.mp3",
-  "duration": 694
- },
- {
-  "slug": "black-dahlia",
-  "title": "Black Dahlia: The Gruesome 1947 Murder That Remains Hollywood's Greatest Unsolved Case",
-  "group": "interesting-history",
-  "image": "/static/images/posts/black-dahlia/hero.webp",
-  "audio": "/static/audio/black-dahlia.mp3",
-  "duration": 610
- },
- {
-  "slug": "zodiac-killer",
-  "title": "Zodiac Killer: The Unsolved Murders That Terrified California",
-  "group": "interesting-history",
-  "image": "/static/images/posts/zodiac-killer/hero.webp",
-  "audio": "/static/audio/zodiac-killer.mp3",
-  "duration": 581
- },
- {
-  "slug": "jack-the-ripper",
-  "title": "Jack the Ripper: The Victorian Killer Whose Identity Remains a Mystery",
-  "group": "interesting-history",
-  "image": "/static/images/posts/jack-the-ripper/hero.webp",
-  "audio": "/static/audio/jack-the-ripper.mp3",
-  "duration": 664
- },
- {
-  "slug": "mary-celeste-ghost-ship",
-  "title": "The Mary Celeste: History's Greatest Ghost Ship Mystery",
-  "group": "interesting-history",
-  "image": "/static/images/posts/mary-celeste-ghost-ship/hero.webp",
-  "audio": "/static/audio/mary-celeste-ghost-ship.mp3",
-  "duration": 603
- },
- {
-  "slug": "amelia-earhart",
-  "title": "Amelia Earhart: 88 Years Later, Are We Close to Finding Her Plane?",
-  "group": "interesting-history",
-  "image": "/static/images/posts/amelia-earhart/hero.webp",
-  "audio": "/static/audio/amelia-earhart.mp3",
-  "duration": 679
- },
- {
-  "slug": "db-cooper",
-  "title": "D.B. Cooper: The Only Unsolved Skyjacking in American History",
-  "group": "interesting-history",
-  "image": "/static/images/posts/db-cooper/hero.webp",
-  "audio": "/static/audio/db-cooper.mp3",
-  "duration": 600
- },
- {
-  "slug": "ghost-army-wwii",
-  "title": "The Ghost Army: How Fake Tanks and Sound Effects Helped Win WWII",
-  "group": "interesting-history",
-  "image": "/static/images/posts/ghost-army-wwii/hero.webp",
-  "audio": "/static/audio/ghost-army-wwii.mp3",
-  "duration": 530
- },
- {
-  "slug": "london-beer-flood",
-  "title": "The London Beer Flood of 1814: A Wave of Destruction",
-  "group": "interesting-history",
-  "image": "/static/images/posts/london-beer-flood/hero.webp",
-  "audio": "/static/audio/london-beer-flood.mp3",
-  "duration": 551
- },
- {
-  "slug": "new-england-vampire-panic",
-  "title": "The New England Vampire Panic of 1892: When a TB Outbreak Spawned a Vampire Hunt",
-  "group": "interesting-history",
-  "image": "/static/images/posts/new-england-vampire-panic/hero.webp",
-  "audio": "/static/audio/new-england-vampire-panic.mp3",
-  "duration": 565
- },
- {
-  "slug": "wilmer-mclean",
-  "title": "Wilmer McLean: The Man Who Couldn't Escape the Civil War",
-  "group": "interesting-history",
-  "image": "/static/images/posts/wilmer-mclean/hero.webp",
-  "audio": "/static/audio/wilmer-mclean.mp3",
-  "duration": 590
- },
- {
-  "slug": "cadaver-synod",
-  "title": "The Cadaver Synod: The Bizarre Trial Where a Dead Pope Was Dug Up and Condemned",
-  "group": "interesting-history",
-  "image": "/static/images/posts/cadaver-synod/hero.webp",
-  "audio": "/static/audio/cadaver-synod.mp3",
-  "duration": 602
- },
- {
-  "slug": "molasses-flood",
-  "title": "The Great Molasses Flood: The Day a Deadly Wave of Syrup Destroyed Boston",
-  "group": "interesting-history",
-  "image": "/static/images/posts/molasses-flood/hero.webp",
-  "audio": "/static/audio/molasses-flood.mp3",
-  "duration": 597
- },
- {
-  "slug": "great-emu-war",
-  "title": "The Great Emu War: When Australia's Military Lost to 20,000 Birds",
-  "group": "interesting-history",
-  "image": "/static/images/posts/great-emu-war/hero.webp",
-  "audio": "/static/audio/great-emu-war.mp3",
-  "duration": 505
- },
- {
-  "slug": "lost-faberge-eggs",
-  "title": "The Lost Fabergé Eggs: Six Imperial Treasures Still Waiting to Be Found",
-  "group": "interesting-history",
-  "image": "/static/images/posts/lost-faberge-eggs/hero.webp",
-  "audio": "/static/audio/lost-faberge-eggs.mp3",
-  "duration": 626
+  "duration": 587,
+  "added": "2026-04-17",
+  "year": 1692,
+  "when": "1692",
+  "views": null
  },
  {
   "slug": "oak-island-money-pit-nova-scotia",
@@ -397,31 +413,11 @@
   "group": "interesting-history",
   "image": "/static/images/posts/oak-island-money-pit-nova-scotia/hero.webp",
   "audio": "/static/audio/oak-island-money-pit-nova-scotia.mp3",
-  "duration": 566
- },
- {
-  "slug": "el-dorado-lost-city",
-  "title": "El Dorado: The Legendary City of Gold That Drove Conquistadors Mad",
-  "group": "interesting-history",
-  "image": "/static/images/posts/el-dorado-lost-city/hero.webp",
-  "audio": "/static/audio/el-dorado-lost-city.mp3",
-  "duration": 680
- },
- {
-  "slug": "crystal-skulls",
-  "title": "The Crystal Skulls: Ancient Mayan Artifacts or Elaborate Modern Forgeries?",
-  "group": "interesting-history",
-  "image": "/static/images/posts/crystal-skulls/hero.webp",
-  "audio": "/static/audio/crystal-skulls.mp3",
-  "duration": 538
- },
- {
-  "slug": "shroud-of-turin",
-  "title": "Shroud of Turin: The 14-Foot Linen That Science Still Can't Explain",
-  "group": "interesting-history",
-  "image": "/static/images/posts/shroud-of-turin/hero.webp",
-  "audio": "/static/audio/shroud-of-turin.mp3",
-  "duration": 551
+  "duration": 566,
+  "added": "2026-04-17",
+  "year": 1795,
+  "when": "1795",
+  "views": null
  },
  {
   "slug": "voynich-manuscript-mystery",
@@ -429,7 +425,11 @@
   "group": "interesting-history",
   "image": "/static/images/posts/voynich-manuscript-mystery/hero.webp",
   "audio": "/static/audio/voynich-manuscript-mystery.mp3",
-  "duration": 612
+  "duration": 612,
+  "added": "2026-04-17",
+  "year": 1404,
+  "when": "1404 to 1438",
+  "views": null
  },
  {
   "slug": "winchester-mystery-house",
@@ -437,15 +437,11 @@
   "group": "interesting-history",
   "image": "/static/images/posts/winchester-mystery-house/hero.webp",
   "audio": "/static/audio/winchester-mystery-house.mp3",
-  "duration": 573
- },
- {
-  "slug": "dancing-plague-1518",
-  "title": "The Dancing Plague of 1518: When Hundreds Danced Themselves to Death",
-  "group": "interesting-history",
-  "image": "/static/images/posts/dancing-plague-1518/hero.webp",
-  "audio": "/static/audio/dancing-plague-1518.mp3",
-  "duration": 506
+  "duration": 573,
+  "added": "2026-04-17",
+  "year": 1886,
+  "when": "1886",
+  "views": null
  },
  {
   "slug": "flannan-isle-lighthouse",
@@ -453,7 +449,239 @@
   "group": "interesting-history",
   "image": "/static/images/posts/flannan-isle-lighthouse/hero.webp",
   "audio": "/static/audio/flannan-isle-lighthouse.mp3",
-  "duration": 612
+  "duration": 612,
+  "added": "2026-04-17",
+  "year": 1900,
+  "when": "1900",
+  "views": null
+ },
+ {
+  "slug": "anastasia-romanov",
+  "title": "Anastasia Romanov: The Princess Who Vanished and the Woman Who Spent 60 Years Pretending to Be Her",
+  "group": "interesting-history",
+  "image": "/static/images/posts/anastasia-romanov/hero.webp",
+  "audio": "/static/audio/anastasia-romanov.mp3",
+  "duration": 694,
+  "added": "2026-04-16",
+  "year": 1918,
+  "when": "1918",
+  "views": null
+ },
+ {
+  "slug": "black-dahlia",
+  "title": "Black Dahlia: The Gruesome 1947 Murder That Remains Hollywood's Greatest Unsolved Case",
+  "group": "interesting-history",
+  "image": "/static/images/posts/black-dahlia/hero.webp",
+  "audio": "/static/audio/black-dahlia.mp3",
+  "duration": 610,
+  "added": "2026-04-16",
+  "year": 1947,
+  "when": "1947",
+  "views": null
+ },
+ {
+  "slug": "zodiac-killer",
+  "title": "Zodiac Killer: The Unsolved Murders That Terrified California",
+  "group": "interesting-history",
+  "image": "/static/images/posts/zodiac-killer/hero.webp",
+  "audio": "/static/audio/zodiac-killer.mp3",
+  "duration": 581,
+  "added": "2026-04-16",
+  "year": 1968,
+  "when": "1968",
+  "views": null
+ },
+ {
+  "slug": "el-dorado-lost-city",
+  "title": "El Dorado: The Legendary City of Gold That Drove Conquistadors Mad",
+  "group": "interesting-history",
+  "image": "/static/images/posts/el-dorado-lost-city/hero.webp",
+  "audio": "/static/audio/el-dorado-lost-city.mp3",
+  "duration": 680,
+  "added": "2026-04-16",
+  "year": 1530,
+  "when": "1530s",
+  "views": null
+ },
+ {
+  "slug": "shroud-of-turin",
+  "title": "Shroud of Turin: The 14-Foot Linen That Science Still Can't Explain",
+  "group": "interesting-history",
+  "image": "/static/images/posts/shroud-of-turin/hero.webp",
+  "audio": "/static/audio/shroud-of-turin.mp3",
+  "duration": 551,
+  "added": "2026-04-16",
+  "year": 1350,
+  "when": "1350s",
+  "views": null
+ },
+ {
+  "slug": "jack-the-ripper",
+  "title": "Jack the Ripper: The Victorian Killer Whose Identity Remains a Mystery",
+  "group": "interesting-history",
+  "image": "/static/images/posts/jack-the-ripper/hero.webp",
+  "audio": "/static/audio/jack-the-ripper.mp3",
+  "duration": 664,
+  "added": "2026-04-15",
+  "year": 1888,
+  "when": "1888",
+  "views": null
+ },
+ {
+  "slug": "mary-celeste-ghost-ship",
+  "title": "The Mary Celeste: History's Greatest Ghost Ship Mystery",
+  "group": "interesting-history",
+  "image": "/static/images/posts/mary-celeste-ghost-ship/hero.webp",
+  "audio": "/static/audio/mary-celeste-ghost-ship.mp3",
+  "duration": 603,
+  "added": "2026-04-15",
+  "year": 1872,
+  "when": "1872",
+  "views": null
+ },
+ {
+  "slug": "amelia-earhart",
+  "title": "Amelia Earhart: 88 Years Later, Are We Close to Finding Her Plane?",
+  "group": "interesting-history",
+  "image": "/static/images/posts/amelia-earhart/hero.webp",
+  "audio": "/static/audio/amelia-earhart.mp3",
+  "duration": 679,
+  "added": "2026-03-30",
+  "year": 1937,
+  "when": "1937",
+  "views": null
+ },
+ {
+  "slug": "db-cooper",
+  "title": "D.B. Cooper: The Only Unsolved Skyjacking in American History",
+  "group": "interesting-history",
+  "image": "/static/images/posts/db-cooper/hero.webp",
+  "audio": "/static/audio/db-cooper.mp3",
+  "duration": 600,
+  "added": "2026-03-30",
+  "year": 1971,
+  "when": "1971",
+  "views": null
+ },
+ {
+  "slug": "ghost-army-wwii",
+  "title": "The Ghost Army: How Fake Tanks and Sound Effects Helped Win WWII",
+  "group": "interesting-history",
+  "image": "/static/images/posts/ghost-army-wwii/hero.webp",
+  "audio": "/static/audio/ghost-army-wwii.mp3",
+  "duration": 530,
+  "added": "2026-03-29",
+  "year": 1944,
+  "when": "1944",
+  "views": null
+ },
+ {
+  "slug": "london-beer-flood",
+  "title": "The London Beer Flood of 1814: A Wave of Destruction",
+  "group": "interesting-history",
+  "image": "/static/images/posts/london-beer-flood/hero.webp",
+  "audio": "/static/audio/london-beer-flood.mp3",
+  "duration": 551,
+  "added": "2026-03-28",
+  "year": 1814,
+  "when": "1814",
+  "views": null
+ },
+ {
+  "slug": "new-england-vampire-panic",
+  "title": "The New England Vampire Panic of 1892: When a TB Outbreak Spawned a Vampire Hunt",
+  "group": "interesting-history",
+  "image": "/static/images/posts/new-england-vampire-panic/hero.webp",
+  "audio": "/static/audio/new-england-vampire-panic.mp3",
+  "duration": 565,
+  "added": "2026-03-01",
+  "year": 1892,
+  "when": "1892",
+  "views": null
+ },
+ {
+  "slug": "wilmer-mclean",
+  "title": "Wilmer McLean: The Man Who Couldn't Escape the Civil War",
+  "group": "interesting-history",
+  "image": "/static/images/posts/wilmer-mclean/hero.webp",
+  "audio": "/static/audio/wilmer-mclean.mp3",
+  "duration": 590,
+  "added": "2026-03-01",
+  "year": 1861,
+  "when": "1861",
+  "views": null
+ },
+ {
+  "slug": "cadaver-synod",
+  "title": "The Cadaver Synod: The Bizarre Trial Where a Dead Pope Was Dug Up and Condemned",
+  "group": "interesting-history",
+  "image": "/static/images/posts/cadaver-synod/hero.webp",
+  "audio": "/static/audio/cadaver-synod.mp3",
+  "duration": 602,
+  "added": "2026-02-26",
+  "year": 897,
+  "when": "897",
+  "views": null
+ },
+ {
+  "slug": "molasses-flood",
+  "title": "The Great Molasses Flood: The Day a Deadly Wave of Syrup Destroyed Boston",
+  "group": "interesting-history",
+  "image": "/static/images/posts/molasses-flood/hero.webp",
+  "audio": "/static/audio/molasses-flood.mp3",
+  "duration": 597,
+  "added": "2026-02-26",
+  "year": 1919,
+  "when": "1919",
+  "views": null
+ },
+ {
+  "slug": "crystal-skulls",
+  "title": "The Crystal Skulls: Ancient Mayan Artifacts or Elaborate Modern Forgeries?",
+  "group": "interesting-history",
+  "image": "/static/images/posts/crystal-skulls/hero.webp",
+  "audio": "/static/audio/crystal-skulls.mp3",
+  "duration": 538,
+  "added": "2026-02-26",
+  "year": 1850,
+  "when": "19th century",
+  "views": null
+ },
+ {
+  "slug": "great-emu-war",
+  "title": "The Great Emu War: When Australia's Military Lost to 20,000 Birds",
+  "group": "interesting-history",
+  "image": "/static/images/posts/great-emu-war/hero.webp",
+  "audio": "/static/audio/great-emu-war.mp3",
+  "duration": 505,
+  "added": "2026-02-20",
+  "year": 1932,
+  "when": "1932",
+  "views": null
+ },
+ {
+  "slug": "lost-faberge-eggs",
+  "title": "The Lost Fabergé Eggs: Six Imperial Treasures Still Waiting to Be Found",
+  "group": "interesting-history",
+  "image": "/static/images/posts/lost-faberge-eggs/hero.webp",
+  "audio": "/static/audio/lost-faberge-eggs.mp3",
+  "duration": 626,
+  "added": "2026-02-20",
+  "year": 1917,
+  "when": "1917",
+  "views": null
+ },
+ {
+  "slug": "dancing-plague-1518",
+  "title": "The Dancing Plague of 1518: When Hundreds Danced Themselves to Death",
+  "group": "interesting-history",
+  "image": "/static/images/posts/dancing-plague-1518/hero.webp",
+  "audio": "/static/audio/dancing-plague-1518.mp3",
+  "duration": 506,
+  "added": "2026-02-20",
+  "year": 1518,
+  "when": "1518",
+  "views": null
  },
  {
   "slug": "tunguska-event-siberia",
@@ -461,7 +689,11 @@
   "group": "unknown-phenomena",
   "image": "/static/images/posts/tunguska-event-siberia/hero.webp",
   "audio": "/static/audio/tunguska-event-siberia.mp3",
-  "duration": 685
+  "duration": 685,
+  "added": "2026-04-17",
+  "year": 1908,
+  "when": "1908",
+  "views": null
  },
  {
   "slug": "dyatlov-pass-incident",
@@ -469,7 +701,11 @@
   "group": "unknown-phenomena",
   "image": "/static/images/posts/dyatlov-pass-incident/hero.webp",
   "audio": "/static/audio/dyatlov-pass-incident.mp3",
-  "duration": 603
+  "duration": 603,
+  "added": "2026-04-17",
+  "year": 1959,
+  "when": "1959",
+  "views": null
  },
  {
   "slug": "uss-nimitz-tic-tac",
@@ -477,7 +713,11 @@
   "group": "unknown-phenomena",
   "image": "/static/images/posts/uss-nimitz-tic-tac/hero.webp",
   "audio": "/static/audio/uss-nimitz-tic-tac.mp3",
-  "duration": 564
+  "duration": 564,
+  "added": "2026-04-16",
+  "year": 2004,
+  "when": "2004",
+  "views": null
  },
  {
   "slug": "mandela-effect",
@@ -485,7 +725,11 @@
   "group": "unknown-phenomena",
   "image": "/static/images/posts/mandela-effect/hero.webp",
   "audio": "/static/audio/mandela-effect.mp3",
-  "duration": 630
+  "duration": 630,
+  "added": "2026-04-16",
+  "year": 2009,
+  "when": "about 2009",
+  "views": null
  },
  {
   "slug": "chupacabra",
@@ -493,7 +737,11 @@
   "group": "unknown-phenomena",
   "image": "/static/images/posts/chupacabra/hero.webp",
   "audio": "/static/audio/chupacabra.mp3",
-  "duration": 612
+  "duration": 612,
+  "added": "2026-04-16",
+  "year": 1995,
+  "when": "1995",
+  "views": null
  },
  {
   "slug": "loch-ness-monster",
@@ -501,7 +749,11 @@
   "group": "unknown-phenomena",
   "image": "/static/images/posts/loch-ness-monster/hero.webp",
   "audio": "/static/audio/loch-ness-monster.mp3",
-  "duration": 661
+  "duration": 661,
+  "added": "2026-04-16",
+  "year": 1933,
+  "when": "1933",
+  "views": null
  },
  {
   "slug": "mothman-point-pleasant",
@@ -509,7 +761,11 @@
   "group": "unknown-phenomena",
   "image": "/static/images/posts/mothman-point-pleasant/hero.webp",
   "audio": "/static/audio/mothman-point-pleasant.mp3",
-  "duration": 633
+  "duration": 633,
+  "added": "2026-04-16",
+  "year": 1966,
+  "when": "1966",
+  "views": null
  },
  {
   "slug": "roswell-ufo-incident",
@@ -517,127 +773,11 @@
   "group": "unknown-phenomena",
   "image": "/static/images/posts/roswell-ufo-incident/hero.webp",
   "audio": "/static/audio/roswell-ufo-incident.mp3",
-  "duration": 646
- },
- {
-  "slug": "bigfoot-sasquatch",
-  "title": "Bigfoot: The Elusive Creature That Keeps Eyewitnesses Coming Forward",
-  "group": "unknown-phenomena",
-  "image": "/static/images/posts/bigfoot-sasquatch/hero.webp",
-  "audio": "/static/audio/bigfoot-sasquatch.mp3",
-  "duration": 603
- },
- {
-  "slug": "phoenix-lights-ufo",
-  "title": "The Phoenix Lights: Arizona's Massive 1997 UFO Sighting",
-  "group": "unknown-phenomena",
-  "image": "/static/images/posts/phoenix-lights-ufo/hero.webp",
-  "audio": "/static/audio/phoenix-lights-ufo.mp3",
-  "duration": 578
- },
- {
-  "slug": "marfa-lights",
-  "title": "The Marfa Lights: Texas Desert's Glowing Mystery",
-  "group": "unknown-phenomena",
-  "image": "/static/images/posts/marfa-lights/hero.webp",
-  "audio": "/static/audio/marfa-lights.mp3",
-  "duration": 605
- },
- {
-  "slug": "bermuda-triangle",
-  "title": "The Bermuda Triangle: Why Do Ships and Planes Keep Disappearing?",
-  "group": "unknown-phenomena",
-  "image": "/static/images/posts/bermuda-triangle/hero.webp",
-  "audio": "/static/audio/bermuda-triangle.mp3",
-  "duration": 700
- },
- {
-  "slug": "wow-signal",
-  "title": "The Wow! Signal: Did We Receive a Message From Aliens in 1977?",
-  "group": "unknown-phenomena",
-  "image": "/static/images/posts/wow-signal/hero.webp",
-  "audio": "/static/audio/wow-signal.mp3",
-  "duration": 544
- },
- {
-  "slug": "bennington-triangle",
-  "title": "The Bennington Triangle: Vermont’s Bermuda Triangle",
-  "group": "unknown-phenomena",
-  "image": "/static/images/posts/bennington-triangle/hero.webp",
-  "audio": "/static/audio/bennington-triangle.mp3",
-  "duration": 561
- },
- {
-  "slug": "spontaneous-human-combustion",
-  "title": "Spontaneous Human Combustion: Can People Really Self-Ignite?",
-  "group": "unknown-phenomena",
-  "image": "/static/images/posts/spontaneous-human-combustion/hero.webp",
-  "audio": "/static/audio/spontaneous-human-combustion.mp3",
-  "duration": 511
- },
- {
-  "slug": "mysterious-monoliths",
-  "title": "The Mysterious Monoliths: Metal Pillars from Nowhere",
-  "group": "unknown-phenomena",
-  "image": "/static/images/posts/mysterious-monoliths/hero.webp",
-  "audio": "/static/audio/mysterious-monoliths.mp3",
-  "duration": 547
- },
- {
-  "slug": "pentagon-uap-reports",
-  "title": "Pentagon UAP Reports 2024: What Does the Government Know?",
-  "group": "unknown-phenomena",
-  "image": "/static/images/posts/pentagon-uap-reports/hero.webp",
-  "audio": "/static/audio/pentagon-uap-reports.mp3",
-  "duration": 677
- },
- {
-  "slug": "hessdalen-lights",
-  "title": "The Hessdalen Lights: Mysterious Glowing Orbs That Haunt a Norwegian Valley",
-  "group": "unknown-phenomena",
-  "image": "/static/images/posts/hessdalen-lights/hero.webp",
-  "audio": "/static/audio/hessdalen-lights.mp3",
-  "duration": 609
- },
- {
-  "slug": "the-hum",
-  "title": "The Hum: A Mysterious Sound That Torments Thousands Worldwide Yet Remains Unexplained",
-  "group": "unknown-phenomena",
-  "image": "/static/images/posts/the-hum/hero.webp",
-  "audio": "/static/audio/the-hum.mp3",
-  "duration": 530
- },
- {
-  "slug": "ball-lightning",
-  "title": "Ball Lightning: The Ghost Orbs of Storms",
-  "group": "unknown-phenomena",
-  "image": "/static/images/posts/ball-lightning/hero.webp",
-  "audio": "/static/audio/ball-lightning.mp3",
-  "duration": 593
- },
- {
-  "slug": "battle-los-angeles",
-  "title": "The Battle of Los Angeles: Did UFOs Attack in 1942?",
-  "group": "unknown-phenomena",
-  "image": "/static/images/posts/battle-los-angeles/hero.webp",
-  "audio": "/static/audio/battle-los-angeles.mp3",
-  "duration": 566
- },
- {
-  "slug": "new-jersey-drones-mystery",
-  "title": "New Jersey Drones: The Mystery in the Sky",
-  "group": "unknown-phenomena",
-  "image": "/static/images/posts/new-jersey-drones-mystery/hero.webp",
-  "audio": "/static/audio/new-jersey-drones-mystery.mp3",
-  "duration": 562
- },
- {
-  "slug": "philadelphia-experiment",
-  "title": "The Philadelphia Experiment: Did the Navy Make a Ship Invisible?",
-  "group": "unknown-phenomena",
-  "image": "/static/images/posts/philadelphia-experiment/hero.webp",
-  "audio": "/static/audio/philadelphia-experiment.mp3",
-  "duration": 639
+  "duration": 646,
+  "added": "2026-04-16",
+  "year": 1947,
+  "when": "1947",
+  "views": null
  },
  {
   "slug": "skinwalker-ranch",
@@ -645,6 +785,190 @@
   "group": "unknown-phenomena",
   "image": "/static/images/posts/skinwalker-ranch/hero.webp",
   "audio": "/static/audio/skinwalker-ranch.mp3",
-  "duration": 529
+  "duration": 529,
+  "added": "2026-04-16",
+  "year": 1996,
+  "when": "1996",
+  "views": null
+ },
+ {
+  "slug": "bigfoot-sasquatch",
+  "title": "Bigfoot: The Elusive Creature That Keeps Eyewitnesses Coming Forward",
+  "group": "unknown-phenomena",
+  "image": "/static/images/posts/bigfoot-sasquatch/hero.webp",
+  "audio": "/static/audio/bigfoot-sasquatch.mp3",
+  "duration": 603,
+  "added": "2026-04-15",
+  "year": 1958,
+  "when": "1958",
+  "views": null
+ },
+ {
+  "slug": "phoenix-lights-ufo",
+  "title": "The Phoenix Lights: Arizona's Massive 1997 UFO Sighting",
+  "group": "unknown-phenomena",
+  "image": "/static/images/posts/phoenix-lights-ufo/hero.webp",
+  "audio": "/static/audio/phoenix-lights-ufo.mp3",
+  "duration": 578,
+  "added": "2026-04-15",
+  "year": 1997,
+  "when": "1997",
+  "views": null
+ },
+ {
+  "slug": "marfa-lights",
+  "title": "The Marfa Lights: Texas Desert's Glowing Mystery",
+  "group": "unknown-phenomena",
+  "image": "/static/images/posts/marfa-lights/hero.webp",
+  "audio": "/static/audio/marfa-lights.mp3",
+  "duration": 605,
+  "added": "2026-03-30",
+  "year": 1883,
+  "when": "1883",
+  "views": null
+ },
+ {
+  "slug": "bermuda-triangle",
+  "title": "The Bermuda Triangle: Why Do Ships and Planes Keep Disappearing?",
+  "group": "unknown-phenomena",
+  "image": "/static/images/posts/bermuda-triangle/hero.webp",
+  "audio": "/static/audio/bermuda-triangle.mp3",
+  "duration": 700,
+  "added": "2026-03-29",
+  "year": 1945,
+  "when": "1945",
+  "views": null
+ },
+ {
+  "slug": "wow-signal",
+  "title": "The Wow! Signal: Did We Receive a Message From Aliens in 1977?",
+  "group": "unknown-phenomena",
+  "image": "/static/images/posts/wow-signal/hero.webp",
+  "audio": "/static/audio/wow-signal.mp3",
+  "duration": 544,
+  "added": "2026-03-29",
+  "year": 1977,
+  "when": "1977",
+  "views": null
+ },
+ {
+  "slug": "philadelphia-experiment",
+  "title": "The Philadelphia Experiment: Did the Navy Make a Ship Invisible?",
+  "group": "unknown-phenomena",
+  "image": "/static/images/posts/philadelphia-experiment/hero.webp",
+  "audio": "/static/audio/philadelphia-experiment.mp3",
+  "duration": 639,
+  "added": "2026-03-29",
+  "year": 1943,
+  "when": "1943",
+  "views": null
+ },
+ {
+  "slug": "bennington-triangle",
+  "title": "The Bennington Triangle: Vermont’s Bermuda Triangle",
+  "group": "unknown-phenomena",
+  "image": "/static/images/posts/bennington-triangle/hero.webp",
+  "audio": "/static/audio/bennington-triangle.mp3",
+  "duration": 561,
+  "added": "2026-03-28",
+  "year": 1945,
+  "when": "1945 to 1950",
+  "views": null
+ },
+ {
+  "slug": "spontaneous-human-combustion",
+  "title": "Spontaneous Human Combustion: Can People Really Self-Ignite?",
+  "group": "unknown-phenomena",
+  "image": "/static/images/posts/spontaneous-human-combustion/hero.webp",
+  "audio": "/static/audio/spontaneous-human-combustion.mp3",
+  "duration": 511,
+  "added": "2026-03-28",
+  "year": 1663,
+  "when": "from 1663",
+  "views": null
+ },
+ {
+  "slug": "mysterious-monoliths",
+  "title": "The Mysterious Monoliths: Metal Pillars from Nowhere",
+  "group": "unknown-phenomena",
+  "image": "/static/images/posts/mysterious-monoliths/hero.webp",
+  "audio": "/static/audio/mysterious-monoliths.mp3",
+  "duration": 547,
+  "added": "2026-03-01",
+  "year": 2020,
+  "when": "2020",
+  "views": null
+ },
+ {
+  "slug": "pentagon-uap-reports",
+  "title": "Pentagon UAP Reports 2024: What Does the Government Know?",
+  "group": "unknown-phenomena",
+  "image": "/static/images/posts/pentagon-uap-reports/hero.webp",
+  "audio": "/static/audio/pentagon-uap-reports.mp3",
+  "duration": 677,
+  "added": "2026-03-01",
+  "year": 2017,
+  "when": "2017",
+  "views": null
+ },
+ {
+  "slug": "hessdalen-lights",
+  "title": "The Hessdalen Lights: Mysterious Glowing Orbs That Haunt a Norwegian Valley",
+  "group": "unknown-phenomena",
+  "image": "/static/images/posts/hessdalen-lights/hero.webp",
+  "audio": "/static/audio/hessdalen-lights.mp3",
+  "duration": 609,
+  "added": "2026-02-26",
+  "year": 1981,
+  "when": "1981",
+  "views": null
+ },
+ {
+  "slug": "the-hum",
+  "title": "The Hum: A Mysterious Sound That Torments Thousands Worldwide Yet Remains Unexplained",
+  "group": "unknown-phenomena",
+  "image": "/static/images/posts/the-hum/hero.webp",
+  "audio": "/static/audio/the-hum.mp3",
+  "duration": 530,
+  "added": "2026-02-26",
+  "year": 1968,
+  "when": "from the late 1960s",
+  "views": null
+ },
+ {
+  "slug": "ball-lightning",
+  "title": "Ball Lightning: The Ghost Orbs of Storms",
+  "group": "unknown-phenomena",
+  "image": "/static/images/posts/ball-lightning/hero.webp",
+  "audio": "/static/audio/ball-lightning.mp3",
+  "duration": 593,
+  "added": "2026-02-20",
+  "year": 1638,
+  "when": "1638",
+  "views": null
+ },
+ {
+  "slug": "battle-los-angeles",
+  "title": "The Battle of Los Angeles: Did UFOs Attack in 1942?",
+  "group": "unknown-phenomena",
+  "image": "/static/images/posts/battle-los-angeles/hero.webp",
+  "audio": "/static/audio/battle-los-angeles.mp3",
+  "duration": 566,
+  "added": "2026-02-20",
+  "year": 1942,
+  "when": "1942",
+  "views": null
+ },
+ {
+  "slug": "new-jersey-drones-mystery",
+  "title": "New Jersey Drones: The Mystery in the Sky",
+  "group": "unknown-phenomena",
+  "image": "/static/images/posts/new-jersey-drones-mystery/hero.webp",
+  "audio": "/static/audio/new-jersey-drones-mystery.mp3",
+  "duration": 562,
+  "added": "2026-02-20",
+  "year": 2024,
+  "when": "2024",
+  "views": null
  }
 ]
